@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">
-  Doks
+  MADS
 </h1>
 
 <h3 align="center">
-  Modern documentation theme
+  IoT Platform
 </h3>
 
 <p align="center">
