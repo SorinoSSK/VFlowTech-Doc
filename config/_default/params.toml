@@ -40,8 +40,8 @@ footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\
 
 # Alert
 alert = true
-alertText = "Like MADS? <a class=\"alert-link\" style=\"color:#fcf003;\" href=\"https://github.com/DataKrewTech/MADS-IoT-Explorer\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like MADS? <a class=\"alert-link\" style=\"color:#fcf003;\" href=\"https://github.com/DataKrewTech/MADS-IoT-Explorer\">Star on GitHub</a>!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/DataKrewTech/MADS-Docs"
 editPage = false
