@@ -1,18 +1,24 @@
-[[docs]]
+[[apps]]
   name = "Prologue"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "/apps/prologue/"
 
-[[docs]]
+[[apps]]
   name = "Help"
   weight = 60
   identifier = "help"
-  url = "/docs/help/"
+  url = "/apps/help/"
+
+[[apps]]
+  name = "Role Manager"
+  weight = 70
+  identifier = "role-manager"
+  url = "/apps/role-manager/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
+  name = "Apps"
+  url = "/apps/prologue/introduction/"
   weight = 10
 
 [[main]]

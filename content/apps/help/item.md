@@ -7,9 +7,9 @@ lastmod: 2021-02-20T18:50:21+08:00
 draft: false
 images: []
 menu: 
-  docs:
+  apps:
     parent: "help"
-weight: 999
+weight: 640
 toc: true
 ---
 
