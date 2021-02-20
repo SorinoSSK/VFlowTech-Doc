@@ -7,19 +7,19 @@ titleAddition = "IoT Platform"
 description = "100% self-service, no-code, intuitive IoT platform for 500x rapid implementation of enterprise IoT projects."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
+images = ["mads-card-1280x638.png"]
+twitterSite = "datakrew"
+twitterCreator = "datakrew"
+facebookAuthor = "datakrewtech"
+facebookPublisher = "datakrewtech"
 ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/henkverlinde"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
+schemaLogo = "mads-square-logo.png"
+schemaTwitter = "https://twitter.com/datakrew"
+schemaLinkedIn = "https://linkedin.com/company/datakrew"
+schemaGitHub = "https://github.com/datakrewtech"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -39,8 +39,8 @@ lqipWidth = "20x"
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
-alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alert = true
+alertText = "Like MADS? <a class=\"alert-link\" href=\"https://github.com/DataKrewTech/MADS-IoT-Explorer\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
 docsRepo = "https://github.com/h-enk/doks"
