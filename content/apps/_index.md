@@ -1,5 +1,5 @@
 ---
-title : "Apps"
+title : "MADS Apps"
 description: "MADS Apps"
 lead: ""
 date: 2020-10-06T08:48:23+00:00

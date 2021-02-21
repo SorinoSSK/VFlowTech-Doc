@@ -1,24 +1,83 @@
 [[apps]]
-  name = "Prologue"
+  name = "MADS"
   weight = 10
+  identifier = "mads"
+  url = "/apps/mads/"
+
+[[apps]]
+  name = "Role Manager"
+  weight = 20
+  identifier = "role-manager"
+  url = "/apps/role-manager/"
+
+[[apps]]
+  name = "Entity Manager"
+  weight = 30
+  identifier = "entity-manager"
+  url = "/apps/entity-manager/"
+
+[[apps]]
+  name = "IoT Manager"
+  weight = 40
+  identifier = "iot-manager"
+  url = "/apps/iot-manager/"
+
+[[apps]]
+  name = "Dashboards"
+  weight = 50
+  identifier = "dashboards"
+  url = "/apps/dashboards/"
+
+[[apps]]
+  name = "Widget Manager"
+  weight = 60
+  identifier = "widget-manager"
+  url = "/apps/widget-manager/"
+
+[[apps]]
+  name = "Data Insights"
+  weight = 70
+  identifier = "data-insights"
+  url = "/apps/data-insights/"
+
+[[apps]]
+  name = "Data Cruncher"
+  weight = 80
+  identifier = "data-cruncher"
+  url = "/apps/data-cruncher/"
+
+[[apps]]
+  name = "Alerts"
+  weight = 90
+  identifier = "alerts"
+  url = "/apps/alerts/"
+
+[[apps]]
+  name = "Digital Twin"
+  weight = 100
+  identifier = "digital-twin"
+  url = "/apps/digital-twin/"
+
+
+
+
+
+
+[[apps]]
+  name = "Prologue"
+  weight = 210
   identifier = "prologue"
   url = "/apps/prologue/"
 
 [[apps]]
   name = "Help"
-  weight = 60
+  weight = 220
   identifier = "help"
   url = "/apps/help/"
 
-[[apps]]
-  name = "Role Manager"
-  weight = 70
-  identifier = "role-manager"
-  url = "/apps/role-manager/"
-
 [[main]]
   name = "Apps"
-  url = "/apps/prologue/introduction/"
+  url = "/apps/mads/background/"
   weight = 10
 
 [[main]]
