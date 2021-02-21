@@ -1,8 +1,8 @@
 ---
 title: "Data Insights"
 description: ""
-date: 2021-02-21T14:17:13+08:00
-lastmod: 2021-02-21T14:17:13+08:00
+date: 2021-02-21T14:47:20+08:00
+lastmod: 2021-02-21T14:47:20+08:00
 draft: false
 images: []
 menu:
