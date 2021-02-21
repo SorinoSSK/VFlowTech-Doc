@@ -58,11 +58,6 @@
   identifier = "digital-twin"
   url = "/apps/digital-twin/"
 
-
-
-
-
-
 [[apps]]
   name = "Prologue"
   weight = 210
@@ -74,6 +69,22 @@
   weight = 220
   identifier = "help"
   url = "/apps/help/"
+
+
+
+[[showcase]]
+  name = "Case Studies"
+  weight = 10
+  identifier = "case-studies"
+  url = "/showcase/case-studies/"
+
+[[showcase]]
+  name = "Solutions"
+  weight = 20
+  identifier = "solutions"
+  url = "/showcase/solutions/"
+
+
 
 [[main]]
   name = "Apps"
