@@ -55,8 +55,8 @@
   weight = 20
 
 [[footer]]
-   name = "Datakrew"
-   url = "https://datakrew.com/"
+   name = "Contact Us"
+   url = "https://datakrew.com/contact.html"
    weight = 10
 
 # [[footer]]
