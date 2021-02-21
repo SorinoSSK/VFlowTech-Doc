@@ -5,7 +5,7 @@ lead: "We're a group of developers, creating world class open-sourced products a
 date: 2021-02-19T12:04:41+01:00
 lastmod: 2021-02-19T12:04:41+01:00
 draft: false
-images: ["butterops.png"]
+images: ["manufacturing.png"]
 link: "https://www.butterops.dev"
 menu:
   showcase:

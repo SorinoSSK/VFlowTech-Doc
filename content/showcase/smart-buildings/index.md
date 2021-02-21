@@ -5,7 +5,7 @@ lead: "Platform for mutual knowledge exchange between industry and academia to h
 date: 2020-11-06T18:10:18+01:00
 lastmod: 2020-11-06T18:10:18+01:00
 draft: false
-images: ["causal-science.png"]
+images: ["smart-buildings.png"]
 link: "https://causalscience.org"
 menu:
   showcase:

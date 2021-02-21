@@ -5,7 +5,7 @@ lead: "Statistical Computing in Excel. From traditional routines like GLMs and F
 date: 2021-02-03T13:32:34+01:00
 lastmod: 2021-02-03T13:32:34+01:00
 draft: false
-images: ["parietal-numerics-documentation.png"]
+images: ["urban-mobility.png"]
 link: "https://docs.pnumerics.com"
 menu:
   showcase:
@@ -13,5 +13,3 @@ menu:
 weight: 060
 toc: false
 ---
-
-

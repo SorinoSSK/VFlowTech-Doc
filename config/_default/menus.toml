@@ -79,7 +79,7 @@
   url = "/showcase/case-studies/"
 
 [[showcase]]
-  name = "Solutions"
+  name = "MADS Solutions"
   weight = 20
   identifier = "solutions"
   url = "/showcase/solutions/"
