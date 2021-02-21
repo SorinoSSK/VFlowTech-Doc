@@ -14,6 +14,4 @@ weight: 320
 toc: false
 ---
 
-# Title
-
 I would like to add some content here.
