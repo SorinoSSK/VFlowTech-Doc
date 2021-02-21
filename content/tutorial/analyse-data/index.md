@@ -1,5 +1,5 @@
 ---
-title: "5. Add Images"
+title: "5. Analyse Data"
 description: "Add a small or large image with a Doks shortcode. Images are lazyloaded, blurred up, and responsive."
 lead: "Add a small or large image with a Doks shortcode. Images are lazyloaded, blurred up, and responsive."
 date: 2020-11-30T14:27:47+01:00

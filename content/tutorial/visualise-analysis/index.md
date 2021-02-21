@@ -1,5 +1,5 @@
 ---
-title: "6. Deploy Your Site"
+title: "6. Visualise Analysis"
 description: "Deploy your Doks site to Netlify or any other static web host."
 lead: "Deploy your Doks site to Netlify or any other static web host."
 date: 2020-11-30T14:28:08+01:00

@@ -1,5 +1,5 @@
 ---
-title: "4. Add Menus"
+title: "4. Create Dashboards"
 description: "Add pages or links to the main, social, docs, or footer menu."
 lead: "Add pages or links to the main, social, docs, or footer menu."
 date: 2020-11-30T14:27:39+01:00
@@ -74,7 +74,7 @@ Add first level menu items:
   url = "/docs/help/"
 ```
 
-Add second level menu items in the frontmatter of a [documentation page]({{< ref "add-pages#add-a-documentation-page" >}}):
+Add second level menu items in the frontmatter of a [documentation page]({{< ref "create-dashboards#add-a-documentation-page" >}}):
 
 ```md
 ..
