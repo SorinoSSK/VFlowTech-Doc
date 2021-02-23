@@ -21,3 +21,5 @@ Internet of Things = Interconnected assets to benefit humans
 ```
 
 {{< img-simple src="iot.png" alt="Internet of Things" class="border-0 rounded-circle" >}}
+
+There were over 30 billion active IoT devices globally in 2020, and by 2025 this number is expected to grow ~2.5x and hit to over 75 billion. By 2025, the total adressable market of IoT will grow over a trillion dollars, making it _the most valued_ disruptive technology.
