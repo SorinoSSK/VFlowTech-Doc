@@ -16,7 +16,7 @@ _Wikipedia_ defines the Internet of Things (IoT) as the network of physical obje
 
 At Team MADS, we follow a simpler definition.
 
-```
+```markdown
 Internet of Things = Interconnected assets to benefit humans
 ```
 
