@@ -103,4 +103,3 @@ MADS works on an Apps ecosystem which come from an AppStore. These apps allow us
 </table>
 
 {{< img-simple src="mads-recipe.png" alt="Internet of Things" class="border-0 rounded-circle" >}}
-
