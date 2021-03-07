@@ -23,15 +23,23 @@ With MADS you are able to:
 * Provision IoT gateways (devices) for your IoT streaming data
 * Collect and visualize data from your assets and sensors
 * Perform aggregated trend analytics on historical data
-* Analyze incoming sensor data and trigger alarms with customisable event rules
+* Analyze incoming sensor data and trigger alarms with customizable event rules
 * Design dynamic and responsive dashboards and share them externally
 * Enable use-case specific features using customizable stream rules
-* and much more ...
+* And much more ...
 
 ## MADS Overview
 
+The simplest way to understand the building blocks of an IoT project is:
+
+Hardware → Communication → Software Backend → Applications
+
+The **MADS Core** sits in the *Software Backend* layer, does all the heavy lifting, and interacts with the **MADS Frontend** ie. the *Applications* layer through a set of APIs. We call the combined MADS Core and Frontend experience the MADS Platform. Now talking about the layers below – MADS supports major IoT *Communication* protocols such as HTTPS, MQTT, CoAP, and it agnostic to the IoT *Hardware*, commonly referred to as device or gateway. This means MADS can ingest data from any hardware source (sensors, gateways, devices of any brand, of any output type ie. RS485, 4-20mA, 0-10V, pulse, etc., over any channel ie. WiFi, 3G/4G, LoRaWAN, Sigfox, NB-IoT, Satellite, etc.) as long as they are communicating over the supported protocols (HTTPS, MQTT, CoAP).
+
+Within the MADS platform, there are multiple blocks responsible for handling different aspects of a complete IoT platform (as shown in the figure below). And one of the most important user-facing blocks is the AppStore. MADS is an app-based platform with a very intuitive OS-like UI.
+
 {{< img-simple src="mads-overview.png" alt="MADS overview" class="border-0 rounded-circle" >}}
-[![Enlarge](enlarge.png "Enlarge")](mads-overview.png)
+MADS overview and apps. [![Enlarge](enlarge.png "Enlarge")](mads-overview.png)
 
 ## MADS Recipe
 
