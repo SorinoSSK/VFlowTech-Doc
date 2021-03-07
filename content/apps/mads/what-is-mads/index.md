@@ -36,9 +36,15 @@ Hardware → Communication → Software Backend → Applications
 
 The **MADS Core** sits in the *Software Backend* layer, does all the heavy lifting, and interacts with the **MADS Frontend** ie. the *Applications* layer through a set of APIs. We call the combined MADS Core and Frontend experience the MADS Platform. Now talking about the layers below – MADS supports major IoT *Communication* protocols such as HTTPS, MQTT, CoAP, and it agnostic to the IoT *Hardware*, commonly referred to as device or gateway. This means MADS can ingest data from any hardware source (sensors, gateways, devices of any brand, of any output type ie. RS485, 4-20mA, 0-10V, pulse, etc., over any channel ie. WiFi, 3G/4G, LoRaWAN, Sigfox, NB-IoT, Satellite, etc.) as long as they are communicating over the supported protocols (HTTPS, MQTT, CoAP).
 
-The MADS platform consists of multiple blocks responsible for handling different aspects needed to run a complete IoT platform (as shown in the figure below). And one of the most important user-facing blocks is the AppStore. MADS is an app-based platform with a very intuitive OS-like UI.
+The MADS platform consists of multiple blocks responsible for handling different aspects needed to run a complete IoT platform (as shown in the figure below). And one of the most important user-facing blocks is the MADS AppStore. MADS is an app-based platform with a very intuitive OS-like UI.
 
-The apps in the MADS AppStore can be segregated into six categories: Core, Analytics, Productivity, Management, Security, and General. 
+The apps in the MADS AppStore can be segregated into six categories:
+* Core
+* Analytics
+* Productivity
+* Management
+* Security
+* General 
 
 {{< img-simple src="mads-overview.png" alt="MADS overview" class="border-0 rounded-circle" >}}
 MADS overview and apps. [![Enlarge](enlarge.png "Enlarge")](mads-overview.png)
