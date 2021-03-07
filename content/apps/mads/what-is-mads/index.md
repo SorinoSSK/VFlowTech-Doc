@@ -50,7 +50,7 @@ The apps in the MADS AppStore can be segregated into six categories:
 As of the publishing of this page, dated 7 March 2021, a total of 31 apps are in our roadmap as shown in the figure. But currently 10 apps have been released as detailed the [MADS Apps]({{<ref "/apps/mads/mads-apps">}}) page.
 
 {{< img-simple src="mads-overview.png" alt="MADS overview" class="border-0 rounded-circle" >}}
-MADS overview and apps. [![Enlarge](enlarge.png "Enlarge")](mads-overview.png)
+MADS overview and apps. [![Enlarge](enlarge.png "Enlarge" )](mads-overview.png)
 
 ## MADS Recipe
 
@@ -59,4 +59,3 @@ MADS overview and apps. [![Enlarge](enlarge.png "Enlarge")](mads-overview.png)
 ## MADS Benchmarking
 
 {{< img-simple src="mads-benchmarking.png" alt="MADS benchmarking" class="border-0 rounded-circle" >}}
-
