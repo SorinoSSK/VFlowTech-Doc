@@ -29,7 +29,7 @@ IoT is creating new applications and business opportunities in different industr
 {{< img-simple src="iot-applications.png" alt="IoT application areas" class="border-0 rounded-circle" >}}
 _Source:_ <a href="https://www.libelium.com/libeliumworld/top-50-iot-sensor-applications-ranking/" target="_blank"><i>Libellium</i></a>. [![Enlarge](enlarge.png "Enlarge")](iot-applications.png)
 
-With the rapid adoption of IoT in multiple verticals, it is increasingly becoming a part of our everyday life. Some estimates project that **Enterprise IoT** is going to be the biggest segment among all connected devices in the next five years. The IoT data explosion is massive – IoT is generating more data than anything ever before, in the order of zettabytes. The next decade will be the decade of IoT and associated technologies – AI, Big Data, Blockchain. 
+With the rapid adoption of IoT in multiple verticals, it is increasingly becoming a part of our everyday life. Some estimates project that **Enterprise IoT** is going to be the biggest segment among all connected devices in the next five years. The IoT data explosion is massive – IoT is generating more data than anything ever before, in the order of zettabytes. The next decade will be the decade of IoT and associated technologies – AI, Big Data, Blockchain.
 
 {{< img-simple src="iot-data.png" alt="Global connected devices and IoT data explosion" class="border-0 rounded-circle" >}}
 

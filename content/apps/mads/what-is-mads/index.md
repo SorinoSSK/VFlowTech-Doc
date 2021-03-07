@@ -45,7 +45,7 @@ The apps in the MADS AppStore can be segregated into six categories:
 * Productivity
 * Management
 * Security
-* General 
+* General
 
 As of the publishing of this page, dated 7 March 2021, a total of 31 apps are in our roadmap as shown in the figure. But currently 10 apps have been released as detailed the [MADS Apps]({{<ref "/apps/mads/mads-apps">}}) page.
 
