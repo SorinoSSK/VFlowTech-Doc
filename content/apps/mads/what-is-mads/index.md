@@ -8,7 +8,7 @@ images: []
 menu:
   apps:
     parent: "mads"
-weight: 1020
+weight: 1030
 toc: true
 ---
 
@@ -101,3 +101,6 @@ MADS works on an Apps ecosystem which come from an AppStore. These apps allow us
   </tr>
 </tbody>
 </table>
+
+{{< img-simple src="mads-recipe.png" alt="Internet of Things" class="border-0 rounded-circle" >}}
+
