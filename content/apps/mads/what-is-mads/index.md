@@ -28,6 +28,11 @@ With MADS you are able to:
 * Enable use-case specific features using customizable stream rules
 * and much more ...
 
+## MADS Overview
+
+{{< img-simple src="mads-overview.png" alt="MADS overview" class="border-0 rounded-circle" >}}
+[![Enlarge](enlarge.png "Enlarge")](mads-overview.png)
+
 ## MADS Recipe
 
 {{< img-simple src="mads-recipe.png" alt="Internet of Things" class="border-0 rounded-circle" >}}
