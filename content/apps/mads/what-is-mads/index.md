@@ -30,6 +30,9 @@ With MADS you are able to:
 
 ## MADS Overview
 
+{{< img-simple src="mads-overview.png" alt="MADS overview" class="border-0 rounded-circle" >}}
+MADS overview. [![Enlarge](enlarge.png "Enlarge")](mads-overview.png)
+
 The simplest way to understand the building blocks of an IoT project is:
 
 Hardware → Communication → Software Backend → Applications
@@ -41,21 +44,17 @@ The MADS platform consists of multiple blocks responsible for handling different
 The apps in the MADS AppStore can be segregated into six categories:
 
 * Core
-* Analytics
 * Productivity
 * Management
+* Analytics
 * Security
 * General
 
-As of the publishing of this page, dated 7 March 2021, a total of 31 apps are in our roadmap as shown in the figure. But currently 10 apps have been released as detailed the [MADS Apps]({{<ref "/apps/mads/mads-apps">}}) page.
+{{< img-simple src="mads-apps.png" alt="MADS apps" class="border-0 rounded-circle" >}}
+MADS apps. [![Enlarge](enlarge.png "Enlarge")](mads-apps.png)
 
-{{< img-simple src="mads-overview.png" alt="MADS overview" class="border-0 rounded-circle" >}}
-MADS overview and apps. [![Enlarge](enlarge.png "Enlarge" )](mads-overview.png)
+As of the publishing of this page, dated 7 March 2021, a total of 32 apps are in our roadmap as shown in the figure above. But currently 10 apps have been released. For details visit the [MADS Apps]({{<ref "/apps/mads/mads-apps">}}) page.
 
 ## MADS Recipe
 
 {{< img-simple src="mads-recipe.png" alt="MADS recipe" class="border-0 rounded-circle" >}}
-
-## MADS Benchmarking
-
-{{< img-simple src="mads-benchmarking.png" alt="MADS benchmarking" class="border-0 rounded-circle" >}}
