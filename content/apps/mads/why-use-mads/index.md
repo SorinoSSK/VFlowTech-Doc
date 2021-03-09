@@ -24,10 +24,12 @@ Today, most IoT solution and services companies build these foundational layers 
 
 ## MADS Experience
 
-MADS bring a 180° paradigm shift in how IoT projects are executed today. Most IoT solutions and services companies offer hardcoded solutions in a range of prebuilt templates that they try to fit into a customer's use-case. This is a one-size-fits-all approach which does not work in IoT, because requirements vary from customer to customer even within the same industry domain. Even for the same customer, requirements could vary from site to site or project to project. And even within a single site or any given project, the requirements always evolve over time – in 6 months, a year or so. 
+MADS brings a 180° paradigm shift in how IoT projects are executed today. Most IoT solutions and services companies offer hardcoded solutions in a range of prebuilt templates that they try to fit into a customer's use-case. This is a one-size-fits-all approach that does not work in IoT, because requirements vary from customer to customer even within the same industry domain. Even for the same customer, requirements could vary from site to site or project to project. And even within a single site or any given project, the requirements always evolve over time – in 6 months, a year or so.
+
+So what do these companies do? They take the customization requests from the customers and spend their company resources ie. manual programming hours of their workforce (architects, designers, programmers, testers) to implement those updates. This is a time-consuming and expensive process, typically taking up to a few weeks. Eventually, the customer is left with a poor experience. They have to make do with hardcoded dashboards and a fixed set of analytics provided by the vendor. There is hardly any room for on-the-go custom business logic implementation from the customer. And to add to the woes, the customers have to pay for every single customization service they avail.
 
 {{< img-simple src="others-experience.png" alt="Experience with most IoT companies" class="border-0 rounded-circle" >}} Experience with most IoT companies. [![Enlarge](enlarge.png "Enlarge")](others-experience.png)
 
-But MADS works differently.
+But MADS works differently. Instead of saying "_Tell us what you want, and we'll make it for you._", we say "_Take this platform, and easily build whatever you want._"
 
 {{< img-simple src="mads-experience.png" alt="Experience with MADS" class="border-0 rounded-circle" >}} Experience with MADS. [![Enlarge](enlarge.png "Enlarge")](mads-experience.png)
