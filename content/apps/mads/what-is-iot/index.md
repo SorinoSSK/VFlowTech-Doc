@@ -34,3 +34,33 @@ With the rapid adoption of IoT in multiple verticals, it is increasingly becomin
 {{< img-simple src="iot-data.png" alt="Global connected devices and IoT data explosion" class="border-0 rounded-circle" >}}
 
 {{< img-simple src="message.png" alt="Hidden in this data are huge business opportunities" class="border-0 rounded-circle" >}}
+
+## Enterprise IoT vs Consumer IoT
+
+MADS is targetted towards Enterprise IoT (aka. Industrial IoT).
+
+{{< img-simple src="iot-category.png" alt="IoT application areas" class="border-0 rounded-circle" >}}
+_Source:_ <a href="https://pioneerserviceinc.com/blog/the-industrial-internet-of-things-iiot-and-what-it-means-to-precision-machining/" target="_blank"><i>Pioneer Service</i></a>. [![Enlarge](enlarge.png "Enlarge")](iot-category.png)
+
+## Example of Enterprise IoT Projects
+
+1. Smart Agriculture System
+2. Weather Reporting System
+3. Home Automation System
+4. Predictive Maintenance System
+5. Smart Garage Door
+6. Smart Energy Monitoring
+7. Air Pollution Monitoring System
+8. Smart Parking System
+9. Smart Traffic Management System
+10. Smart Cradle System
+11. Smart Gas Leakage Detector Bot
+12. Streetlight Monitoring System
+13. Smart Anti-Theft System
+14. Liquid Level Monitoring System
+15. Energy Storage Monitoring System
+16. Health Monitoring System
+17. Smart Irrigation System
+18. Flood Detection System
+19. Mining Worker Safety Helmet
+20. Smart Energy Grid
