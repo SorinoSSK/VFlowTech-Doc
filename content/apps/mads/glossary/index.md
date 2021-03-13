@@ -22,6 +22,7 @@ Below is a glossary of terms and their definitions used in MADS.
 * Entity
 * Entity Map
 * Gateway
+* Notification
 * Organization
 * Parameter
 * Project

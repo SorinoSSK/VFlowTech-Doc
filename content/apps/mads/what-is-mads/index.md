@@ -14,7 +14,7 @@ toc: true
 
 MADS is a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects. It enables quick development, management, and scaling of IoT projects. MADS is available both as an on-cloud and on-premises solution.
 
-## Features Overview
+## Feature Highlights
 
 With MADS you are able to:
 
@@ -55,6 +55,16 @@ MADS apps. [![Enlarge](enlarge.png "Enlarge")](mads-apps.png)
 
 As of the publishing of this page, dated 7 March 2021, a total of 32 apps are in our roadmap as shown in the figure above. But currently 10 apps have been released. For details visit the [MADS Apps]({{<ref "/apps/mads/mads-apps">}}) page.
 
-## MADS Recipe
+## MADS Characteristics
 
-{{< img-simple src="mads-recipe.png" alt="MADS recipe" class="border-0 rounded-circle" >}}
+{{< img-simple src="mads-characteristics.png" alt="MADS characteristics" class="border-0 rounded-circle" >}}
+MADS characteristics. [![Enlarge](enlarge.png "Enlarge")](mads-characteristics.png)
+
+MADS brings high-performance software engineering to IoT.
+
+## MADS Pillars
+
+{{< img-simple src="mads-pillars.png" alt="MADS pillars" class="border-0 rounded-circle" >}}
+MADS pillars. [![Enlarge](enlarge.png "Enlarge")](mads-pillars.png)
+
+The three key pillars of MADS are _analytics_, _scalability_, and _security_. MADS brings high-performance software engineering to IoT.
