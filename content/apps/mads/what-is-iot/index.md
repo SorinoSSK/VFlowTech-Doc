@@ -39,7 +39,7 @@ With the rapid adoption of IoT in multiple verticals, it is increasingly becomin
 
 MADS is targetted towards Enterprise IoT (aka. Industrial IoT).
 
-{{< img-simple src="iot-category.png" alt="IoT application areas" class="border-0 rounded-circle" >}}
+{{< img-simple src="iot-category.png" alt="IoT category" class="border-0 rounded-circle" >}}
 _Source:_ <a href="https://pioneerserviceinc.com/blog/the-industrial-internet-of-things-iiot-and-what-it-means-to-precision-machining/" target="_blank"><i>Pioneer Service</i></a>. [![Enlarge](enlarge.png "Enlarge")](iot-category.png)
 
 ## Example of Enterprise IoT Projects
