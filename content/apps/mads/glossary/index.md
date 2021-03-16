@@ -18,7 +18,7 @@ Below is a glossary of terms and their definitions used in MADS.
 
 * **Analysis Table**. In the Data Insights app, an analysis table is a table that a user can create by selecting (drag-n-drop) the data fields (metadata or parameters) associated with more or more parent entities (asset or sensor). Think of the analysis table as a multi-dimensional [OLAP cube](https://en.wikipedia.org/wiki/OLAP_cube).
 
-* Asset
+* **Asset** An asset is any physical object or space that is of interest in an IoT project. Examples of asset could be buildilng, ship, factory, solar panel, wind turbine, truck, fridge, motor, pump, generator, inverter, compressor, gearbox, etc. An asset could host other assets within it, thus creating an asset hierarchy.
 
 * Asset Type
 
@@ -57,9 +57,11 @@ Below is a glossary of terms and their definitions used in MADS.
 
 * **User Type**. There are three user types: super-admin, org-admin, and member.
 
-	* **Super-admin**. Super-admin is the admin of the entire MADS instance, which can host more than one organization (multi-tenancy). Only the super-admin(s) have access to the Tenant Manager app.
-	* **Org-admin**. Org-admin is the admin of a particular organization. Within an organization, the org-admin(s) have all permissions.
-	* **Member**. Member is a regular user within an organization. An org-admin can add a member and assign them one or more user roles.
+    * **Super-admin**. Super-admin is the admin of the entire MADS instance, which can host more than one organization (multi-tenancy). Only the super-admin(s) have access to the Tenant Manager app.
+
+    * **Org-admin**. Org-admin is the admin of a particular organization. Within an organization, the org-admin(s) have all permissions.
+
+    * **Member**. Member is a regular user within an organization. An org-admin can add a member and assign them one or more user roles.
 
 * **Visualization**. A visualization is a widget displaying some data of interest.
 
