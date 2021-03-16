@@ -29,6 +29,9 @@ toc: true
 **Q. Who owns MADS?**<br>
 **A.** The MADS platform base (aka the MADS OS) is open source, copyright under license the GNU General Public License v3.0 to Datakrew Pte. Ltd. Singapore. Some MADS apps are bundled with the platform. Other apps could be proprietory.
 
+**Q. How can I signup for MADS?**<br>
+**A.** See [Getting Started]({{<ref "/apps/mads/getting-started">}}).
+
 ## Technical FAQ
 
 **Q. Is MADS a platform or an OS?**<br>
