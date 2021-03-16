@@ -30,6 +30,6 @@ So what do these companies do? They take the customization requests from the cus
 
 {{< img-simple src="others-experience.png" alt="Experience with most IoT companies" class="border-0 rounded-circle" >}} Experience with most IoT companies. [![Enlarge](enlarge.png "Enlarge")](others-experience.png)
 
-But MADS works differently. Instead of saying "_Tell us what you want, and we'll make it for you._", we say "_Take this platform, and easily build what you want._" The [steps to build an IoT project](#mads-benchmarking) as highlighted earlier becomes super easy and fast with MADS – what used to take weeks earlier only takes hours with MADS.
+But MADS works differently. Instead of saying "_Tell us what you want, and we'll make it for you._", we say "_Take this platform, and easily build what you want._" The [steps to build an IoT project](#mads-benchmarking) as highlighted earlier becomes super easy and fast with MADS – what used to take weeks earlier only takes hours with MADS. Customers get a far superior experience in terms of flexibility, speed, and costs.
 
 {{< img-simple src="mads-experience.png" alt="Experience with MADS" class="border-0 rounded-circle" >}} Experience with MADS. [![Enlarge](enlarge.png "Enlarge")](mads-experience.png)

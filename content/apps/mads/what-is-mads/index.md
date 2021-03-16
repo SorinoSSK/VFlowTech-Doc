@@ -60,11 +60,11 @@ As of the publishing of this page, dated 7 March 2021, a total of 32 apps are in
 {{< img-simple src="mads-characteristics.png" alt="MADS characteristics" class="border-0 rounded-circle" >}}
 MADS characteristics. [![Enlarge](enlarge.png "Enlarge")](mads-characteristics.png)
 
-MADS brings high-performance software engineering to IoT.
+MADS is built using the industry's leading software products and best practices followed by some of the leading software companies globally. MADS brings high-performance software engineering to IoT.
 
 ## MADS Pillars
 
 {{< img-simple src="mads-pillars.png" alt="MADS pillars" class="border-0 rounded-circle" >}}
 MADS pillars. [![Enlarge](enlarge.png "Enlarge")](mads-pillars.png)
 
-The three key pillars of MADS are _analytics_, _scalability_, and _security_. MADS brings high-performance software engineering to IoT.
+The three key pillars of MADS are _analytics_, _scalability_, and _security_.
