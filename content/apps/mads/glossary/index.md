@@ -14,7 +14,7 @@ toc: true
 
 Below is a glossary of terms and their definitions used in MADS.
 
-* **Alert**. An alert is an event triggered by some rules defined by an user. Any _app_ can create an alert. An alert is shown on the frontend UI in the form of a notification.
+* **Alert**. An alert is an event triggered by some rules defined by a user. Any _app_ can create an alert. An alert is shown on the frontend UI in the form of a notification.
 
 * **Analysis Table**. In the Data Insights app, an analysis table is a table that a user can create by selecting (drag-n-drop) the data fields (metadata or parameters) associated with more or more parent entities (asset or sensor). Think of the analysis table as a multi-dimensional [OLAP cube](https://en.wikipedia.org/wiki/OLAP_cube).
 
@@ -53,7 +53,7 @@ Below is a glossary of terms and their definitions used in MADS.
 
 * **Topology** A topology is the collapsed version of an entity map.
 
-* **User**. An user is a person who uses the MADS platform.
+* **User**. A user is a person who uses the MADS platform.
 
 * **User Role**. Within an organization, the org-admin(s) can define user roles. User roles are associated with permissions ie. which apps and actions are allowed to that user role. When an org-admin adds a new user of type `member`, this new user is assigned one or more user roles. This user's permissions will be the union of the permissions of all the user role they have been assigned to.
 
