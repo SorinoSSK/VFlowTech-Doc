@@ -12,6 +12,8 @@ weight: 7010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the Data Insights app.
+
+{{< img-simple src="data-insights.png" alt="Data Insights app" class="border-0 rounded-circle" >}}

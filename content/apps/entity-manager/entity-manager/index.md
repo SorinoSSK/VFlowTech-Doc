@@ -12,6 +12,8 @@ weight: 3010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the Entity Manager app.
+
+{{< img-simple src="entity-manager.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}

@@ -12,6 +12,8 @@ weight: 9010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the Alerts app.
+
+{{< img-simple src="alerts.png" alt="Alerts app" class="border-0 rounded-circle" >}}

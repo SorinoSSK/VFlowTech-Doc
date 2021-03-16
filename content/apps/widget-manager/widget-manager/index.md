@@ -12,6 +12,8 @@ weight: 6010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the Widget Manager app.
+
+{{< img-simple src="widget-manager.png" alt="Widget Manager app" class="border-0 rounded-circle" >}}

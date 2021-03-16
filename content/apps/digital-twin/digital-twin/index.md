@@ -12,6 +12,8 @@ weight: 10010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the Digital Twin app.
+
+{{< img-simple src="digital-twin.png" alt="Digital Twin app" class="border-0 rounded-circle" >}}

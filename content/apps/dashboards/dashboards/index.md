@@ -12,6 +12,8 @@ weight: 5010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the Dashboards app.
+
+{{< img-simple src="dashboards.png" alt="Dashboards app" class="border-0 rounded-circle" >}}

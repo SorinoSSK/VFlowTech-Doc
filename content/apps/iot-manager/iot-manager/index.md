@@ -12,6 +12,8 @@ weight: 4010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the IoT Manager app.
+
+{{< img-simple src="iot-manager.png" alt="IoT Manager app" class="border-0 rounded-circle" >}}

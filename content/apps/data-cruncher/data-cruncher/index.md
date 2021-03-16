@@ -12,6 +12,8 @@ weight: 8010
 toc: true
 ---
 
-## Title
+## Introduction
 
-Content.
+Look out for this icon for the Data Cruncher app.
+
+{{< img-simple src="data-cruncher.png" alt="Data Cruncher app" class="border-0 rounded-circle" >}}
