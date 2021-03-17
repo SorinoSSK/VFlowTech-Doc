@@ -10,6 +10,6 @@ images: ["say-hello-to-doks.png"]
 contributors: ["Henk Verlinde"]
 ---
 
-## Solid as a rock
+## Very solid as a rock
 
 Some website projects require a solid starting point. With a great developer experience and a sound user experience. Sometimes you just don’t want to start from scratch. That’s why I created Doks 💚
