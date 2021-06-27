@@ -21,3 +21,7 @@ Look out for this icon for the IoT Manager app.
 You can find it in the appbar as shown below.
 
 {{< img-simple src="iot-manager-in-appbar.png" alt="IoT Manager icon in the appbar" class="border-0 rounded-circle" >}}
+
+Click on this icon to launch the IoT Manager app. The IoT Manager app will open, and default tab is the `Home` tab, as in the image below.
+
+{{< img-simple src="iot-manager-home.png" alt="IoT Manager home" class="border-0 rounded-circle" >}}

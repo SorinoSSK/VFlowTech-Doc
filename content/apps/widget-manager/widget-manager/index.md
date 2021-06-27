@@ -21,3 +21,7 @@ Look out for this icon for the Widget Manager app.
 You can find it in the appbar as shown below.
 
 {{< img-simple src="widget-manager-in-appbar.png" alt="Widget Manager icon in the appbar" class="border-0 rounded-circle" >}}
+
+Click on this icon to launch the Widget Manager app. The Widget Manager app will open, and default tab is the `Home` tab, as in the image below.
+
+{{< img-simple src="widget-manager-home.png" alt="Widget Manager home" class="border-0 rounded-circle" >}}

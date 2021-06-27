@@ -21,3 +21,7 @@ Look out for this icon for the Digital Twin app.
 You can find it in the appbar as shown below.
 
 {{< img-simple src="digital-twin-in-appbar.png" alt="Digital Twin icon in the appbar" class="border-0 rounded-circle" >}}
+
+Click on this icon to launch the Digital Twin app. The Digital Twin app will open, and default tab is the `Home` tab, as in the image below.
+
+{{< img-simple src="digital-twin-home.png" alt="Digital Twin home" class="border-0 rounded-circle" >}}

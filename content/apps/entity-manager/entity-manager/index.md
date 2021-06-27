@@ -21,3 +21,7 @@ Look out for this icon for the Entity Manager app.
 You can find it in the appbar as shown below.
 
 {{< img-simple src="entity-manager-in-appbar.png" alt="Entity Manager icon in the appbar" class="border-0 rounded-circle" >}}
+
+Click on this icon to launch the Entity Manager app. The Entity Manager app will open, and default tab is the `Home` tab, as in the image below.
+
+{{< img-simple src="entity-manager-home.png" alt="Entity Manager home" class="border-0 rounded-circle" >}}

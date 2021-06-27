@@ -14,7 +14,7 @@ toc: true
 
 ## Introduction
 
-Look out for this icon for the Role Manager app.
+Look out for this icon for the Role Manager app. Role Manager is the first app you should know about.
 
 {{< img-simple src="role-manager.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
@@ -22,4 +22,6 @@ You can find it in the appbar as shown below.
 
 {{< img-simple src="role-manager-in-appbar.png" alt="Role Manager icon in the appbar" class="border-0 rounded-circle" >}}
 
-Role Manager is the first app you should know about.
+Click on this icon to launch the Role Manager app. The Role Manager app will open, and default tab is the `Home` tab, as in the image below.
+
+{{< img-simple src="role-manager-home.png" alt="role Manager home" class="border-0 rounded-circle" >}}
