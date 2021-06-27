@@ -17,3 +17,7 @@ toc: true
 Look out for this icon for the Data Insights app.
 
 {{< img-simple src="data-insights.png" alt="Data Insights app" class="border-0 rounded-circle" >}}
+
+You can find it in the appbar as shown below.
+
+{{< img-simple src="data-insights-in-appbar.png" alt="Data Insights icon in the appbar" class="border-0 rounded-circle" >}}

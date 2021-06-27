@@ -18,9 +18,9 @@ Look out for this icon for the Dashboards app.
 
 {{< img-simple src="dashboards.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
-By default it is the first icon that appears in the appbar.
+You can find it in the appbar as shown below.
 
-{{< img-simple src="dashboards-icon-in-appbar.png" alt="Dashboards icon in the appbar" class="border-0 rounded-circle" >}}
+{{< img-simple src="dashboards-in-appbar.png" alt="Dashboards icon in the appbar" class="border-0 rounded-circle" >}}
 
 Click on this icon to launch the Dashboards app. The Dashboards app will open, and default tab is the `Home` tab, as in the image below.
 

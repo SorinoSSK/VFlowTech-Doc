@@ -17,3 +17,7 @@ toc: true
 Look out for this icon for the Data Cruncher app.
 
 {{< img-simple src="data-cruncher.png" alt="Data Cruncher app" class="border-0 rounded-circle" >}}
+
+You can find it in the appbar as shown below.
+
+{{< img-simple src="data-cruncher-in-appbar.png" alt="Data Cruncher icon in the appbar" class="border-0 rounded-circle" >}}

@@ -17,3 +17,7 @@ toc: true
 Look out for this icon for the Digital Twin app.
 
 {{< img-simple src="digital-twin.png" alt="Digital Twin app" class="border-0 rounded-circle" >}}
+
+You can find it in the appbar as shown below.
+
+{{< img-simple src="digital-twin-in-appbar.png" alt="Digital Twin icon in the appbar" class="border-0 rounded-circle" >}}

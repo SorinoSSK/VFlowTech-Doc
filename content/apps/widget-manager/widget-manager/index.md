@@ -17,3 +17,7 @@ toc: true
 Look out for this icon for the Widget Manager app.
 
 {{< img-simple src="widget-manager.png" alt="Widget Manager app" class="border-0 rounded-circle" >}}
+
+You can find it in the appbar as shown below.
+
+{{< img-simple src="widget-manager-in-appbar.png" alt="Widget Manager icon in the appbar" class="border-0 rounded-circle" >}}

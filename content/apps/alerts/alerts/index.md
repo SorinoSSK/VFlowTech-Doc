@@ -17,3 +17,7 @@ toc: true
 Look out for this icon for the Alerts app.
 
 {{< img-simple src="alerts.png" alt="Alerts app" class="border-0 rounded-circle" >}}
+
+You can find it in the appbar as shown below.
+
+{{< img-simple src="alerts-in-appbar.png" alt="Alerts icon in the appbar" class="border-0 rounded-circle" >}}
