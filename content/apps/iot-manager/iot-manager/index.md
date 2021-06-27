@@ -25,3 +25,7 @@ You can find it in the appbar as shown below.
 Click on this icon to launch the IoT Manager app. The IoT Manager app will open, and default tab is the `Home` tab, as in the image below.
 
 {{< img-simple src="iot-manager-home.png" alt="IoT Manager home" class="border-0 rounded-circle" >}}
+
+In the IoT Manager app, there is a sidebar menu with the following icons.
+
+{{< img-simple src="iot-manager-menu.png" alt="IoT Manager menu" class="border-0 rounded-circle" >}}

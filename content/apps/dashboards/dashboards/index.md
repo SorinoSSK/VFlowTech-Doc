@@ -26,6 +26,6 @@ Click on this icon to launch the Dashboards app. The Dashboards app will open, a
 
 {{< img-simple src="dashboards-home.png" alt="Dashboards home" class="border-0 rounded-circle" >}}
 
-On the left side is the vertical Dashboards app menu, where the icons have the following meaning.
+In the Dashboards app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="dashboards-menu.png" alt="Dashboards menu" class="border-0 rounded-circle" >}}

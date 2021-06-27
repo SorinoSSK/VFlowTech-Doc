@@ -25,3 +25,7 @@ You can find it in the appbar as shown below.
 Click on this icon to launch the Data Cruncher app. The Data Cruncher app will open, and default tab is the `Home` tab, as in the image below.
 
 {{< img-simple src="data-cruncher-home.png" alt="Data Cruncher home" class="border-0 rounded-circle" >}}
+
+In the Data Cruncher app, there is a sidebar menu with the following icons.
+
+{{< img-simple src="data-cruncher-menu.png" alt="Data Cruncher menu" class="border-0 rounded-circle" >}}

@@ -24,4 +24,8 @@ You can find it in the appbar as shown below.
 
 Click on this icon to launch the Role Manager app. The Role Manager app will open, and default tab is the `Home` tab, as in the image below.
 
-{{< img-simple src="role-manager-home.png" alt="role Manager home" class="border-0 rounded-circle" >}}
+{{< img-simple src="role-manager-home.png" alt="Role Manager home" class="border-0 rounded-circle" >}}
+
+In the Role Manager app, there is a sidebar menu with the following icons.
+
+{{< img-simple src="role-manager-menu.png" alt="Role Manager menu" class="border-0 rounded-circle" >}}

@@ -25,3 +25,7 @@ You can find it in the appbar as shown below.
 Click on this icon to launch the Data Insights app. The Data Insights app will open, and default tab is the `Home` tab, as in the image below.
 
 {{< img-simple src="data-insights-home.png" alt="Data Insights home" class="border-0 rounded-circle" >}}
+
+In the Data Insights app, there is a sidebar menu with the following icon.
+
+{{< img-simple src="data-insights-menu.png" alt="Data Insights menu" class="border-0 rounded-circle" >}}
