@@ -1,3 +1,4 @@
+
 ---
 title: "Dashboards"
 description: ""
@@ -17,3 +18,15 @@ toc: true
 Look out for this icon for the Dashboards app.
 
 {{< img-simple src="dashboards.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+
+By default it is the first icon that appears in the appbar.
+
+{{< img-simple src="dashboards-icon-in-appbar.png" alt="Dashboards icon in the appbar" class="border-0 rounded-circle" >}}
+
+Click on this icon to launch the Dashboards app. The Dashboards app will open, and default tab is the `Home` tab, as in the image below.
+
+{{< img-simple src="dashboards-home.png" alt="Dashboards home" class="border-0 rounded-circle" >}}
+
+On the left side is the Dashboards app menu, where each of the icons mean the following.
+
+{{< img-simple src="dashboards-menu.png" alt="Dashboards menu" class="border-0 rounded-circle" >}}

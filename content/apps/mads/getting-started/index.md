@@ -12,7 +12,7 @@ weight: 1060
 toc: true
 ---
 
-The login page of MADS is [https://mads.netlify.app/](https://mads.netlify.app/)
+The login page of MADS is [https://studio.mads-iot.com/](https://studio.mads-iot.com/)
 
 As of the publishing of this page, dated 13 March 2021, signup on MADS is only through an invitation basis. Please contact us directly at [info@datakrew.com](mailto:info@datakrew.com) and we will help you set up an account for your organization.
 
