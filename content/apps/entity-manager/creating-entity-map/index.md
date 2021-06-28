@@ -1,5 +1,5 @@
 ---
-title: "Creating Hierarchy"
+title: "Creating Entity Map"
 description: ""
 date: 2021-02-21T14:06:32+08:00
 lastmod: 2021-02-21T14:06:32+08:00
