@@ -40,7 +40,7 @@ The icons mean the following (L to R):
 
 About Widget Store
 
-## My Widgets 
+## My Widgets
 
 About My Widgets
 

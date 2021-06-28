@@ -41,7 +41,7 @@ The icons mean the following (L to R):
 
 About New
 
-## Open 
+## Open
 
 About Open
 
