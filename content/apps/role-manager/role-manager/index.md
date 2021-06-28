@@ -29,3 +29,26 @@ Click on this icon to launch the Role Manager app. The Role Manager app will ope
 In the Role Manager app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="role-manager-menu.png" alt="Role Manager menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [User Groups](#user-groups)
+2. [Users](#users)
+3. [Projects](#projects)
+4. [Activity](#activity)
+
+## User Groups
+
+About User Groups
+
+## Users
+
+About Users
+
+## Projects
+
+About Projects
+
+## Activity
+
+About Activity

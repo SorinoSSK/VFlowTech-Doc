@@ -29,3 +29,31 @@ Click on this icon to launch the Data Cruncher app. The Data Cruncher app will o
 In the Data Cruncher app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="data-cruncher-menu.png" alt="Data Cruncher menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [Workspace](#workspace)
+2. [Data Lake](#data-lake)
+3. [Tasks](#tasks)
+4. [Functions](#functions)
+5. [Exported Widgets](#exported-widgets)
+
+## Workspace
+
+About Workspace
+
+## Data Lake
+
+About Data Lake
+
+## Tasks
+
+About Tasks
+
+## Functions
+
+About Functions
+
+## Exported Widgets
+
+About Exported Widgets

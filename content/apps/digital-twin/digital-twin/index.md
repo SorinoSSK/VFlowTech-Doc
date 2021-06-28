@@ -29,3 +29,11 @@ Click on this icon to launch the Digital Twin app. The Digital Twin app will ope
 In the Digital Twin app, there is a sidebar menu with the following icon.
 
 {{< img-simple src="digital-twin-menu.png" alt="Digital Twin menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [3D Model](#3d-model)
+
+## 3D Model
+
+About 3d Model

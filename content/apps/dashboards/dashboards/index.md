@@ -29,3 +29,26 @@ Click on this icon to launch the Dashboards app. The Dashboards app will open, a
 In the Dashboards app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="dashboards-menu.png" alt="Dashboards menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [New](#new)
+2. [Open](#open)
+3. [Recent](#recent)
+4. [Share](#share)
+
+## New
+
+About New
+
+## Open 
+
+About Open
+
+## Recent
+
+About Recent
+
+## Share
+
+About Share

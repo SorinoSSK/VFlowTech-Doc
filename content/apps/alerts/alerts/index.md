@@ -29,3 +29,26 @@ Click on this icon to launch the Alerts app. The Alerts app will open, and defau
 In the Alerts app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="alerts-menu.png" alt="Alerts menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [Inbox](#inbox)
+2. [Projects](#projects)
+3. [Apps](#apps)
+4. [Logs](#logs)
+
+## Inbox
+
+About Inbox
+
+## Projects
+
+About Projects
+
+## Apps
+
+About Apps
+
+## Logs
+
+About Logs

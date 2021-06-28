@@ -29,3 +29,26 @@ Click on this icon to launch the Entity Manager app. The Entity Manager app will
 In the Entity Manager app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="entity-manager-menu.png" alt="Entity Manager menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [Entity Map](#entity-map)
+2. [Assets](#assets)
+3. [Sensors](#sensors)
+4. [Activity](#activity)
+
+## Entity Map
+
+About Entity Map
+
+## Assets
+
+About Assets
+
+## Sensors
+
+About Sensors
+
+## Activity
+
+About Activity

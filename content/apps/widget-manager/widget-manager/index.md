@@ -29,3 +29,21 @@ Click on this icon to launch the Widget Manager app. The Widget Manager app will
 In the Widget Manager app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="widget-manager-menu.png" alt="Widget Manager menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [Widget Store](#widget-store)
+2. [My Widgets](#my-widgets)
+3. [Editor](#editor)
+
+## Widget Store
+
+About Widget Store
+
+## My Widgets 
+
+About My Widgets
+
+## Editor
+
+About Editor

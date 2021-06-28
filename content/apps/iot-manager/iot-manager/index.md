@@ -29,3 +29,16 @@ Click on this icon to launch the IoT Manager app. The IoT Manager app will open,
 In the IoT Manager app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="iot-manager-menu.png" alt="IoT Manager menu" class="border-0 rounded-circle" >}}
+
+The icons mean the following (L to R):
+
+1. [Topology](#topology)
+2. [Gateways](#gateways)
+
+## Topology
+
+About Topology
+
+## Gateways
+
+About Gateways
