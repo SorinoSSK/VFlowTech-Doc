@@ -76,7 +76,7 @@ Click on this icon to open Assets Tab.
 
 {{< img-simple src="assets-tab.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Assets tab will open up, and it'll show all the projects of the organization which can be viewed in either Grid view or List view (Similar to projects in shown Entity Map).
+Assets tab will open up, and it'll show all the projects of the organization which can be viewed in either Grid view or List view (Similar to projects shown in Entity Map).
 
 {{< img-simple src="asset-project-selection.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -88,7 +88,7 @@ Assets contains the assets list with their Names, Asset Types, Metadata and Acti
 
 {{< img-simple src="asset-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-On the top right of Assets list there is a button to Add asset. Clicking on that button will open an Add Asset modal, using which we can add Assets. (We'll discuss in Creating Assets section)
+On the top right of Assets list there is a button to Add asset. Clicking on that button will open an Add Asset modal, using which we can add Assets. (Discussed in Creating Assets section)
 
 {{< img-simple src="asset-type-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -122,7 +122,7 @@ Sensors contains the sensors list with their Names, Sensor Types, Metadata, Para
 
 {{< img-simple src="sensor-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-On the top right of Sensors list there is a button to Add Sensor. Clicking on that button will open an Add Sensor modal, using which we can add Sensors.
+On the top right of Sensors list there is a button to Add Sensor. Clicking on that button will open an Add Sensor modal, using which we can add Sensors. (Discussed in Creating Sensors section)
 
 {{< img-simple src="sensor-type-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 

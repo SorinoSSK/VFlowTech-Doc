@@ -40,17 +40,17 @@ Then clicking on next will take us to the next section named Metadata (Fixed Dat
 
 {{< img-simple src="sensor-type-sec3.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the last section named Parameters (Streaming Data), we add Paramtere Name, Data Type and Unit. We can create multiple Paramtere using the Add New button.
+In the last section named Parameters (Streaming Data), we add Parameter Name, Data Type and Unit. We can create multiple Parameters using the Add New button.
 
 After entering the details, clicking on save button will create an Sensor Type for us.
 
 {{< img-simple src="sensor-type-duplicate.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-If we already have an Sensor Type with required metadata, then we can simply duplicate the sensor type by clicking on the duplicate icon in the actions column. We just have to enter the new Sensor Type name and it'll create an sensor type with the same properties of the sensor type from which it was duplicated.
+If we already have an Sensor Type with required metadata, then we can simply duplicate the sensor type by clicking on the duplicate icon in the actions column. We just have to enter the new Sensor Type name and it'll create the sensor type with the same properties of the sensor type from which it was duplicated.
 
 ## Creating a Sensor
 
-Now to create an Sensor, we need to be in Sensors tab. 
+Now to create a Sensor, we need to be in Sensors tab. 
 
 {{< img-simple src="sensor-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -62,7 +62,7 @@ Clicking on this button will open a modal. The Add sensor modal contains tree se
 
 {{< img-simple src="sensor-sec1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named Details, we have to select an sensor type using a dropdown which shows all the sensor types that we've created. Then we have to enter the sensor name and it's description (optional). Click on next button after entering the details.
+In the first section named Details, we have to select a sensor type using a dropdown which shows all the sensor types that we've created. Then we have to enter the sensor name and it's description (optional). Click on next button after entering the details.
 
 {{< img-simple src="sensor-sec2.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -70,7 +70,7 @@ In the next section named Position, there is a dropdown to select the Sensors's 
 
 {{< img-simple src="sensor-sec3.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the last section named Metadata (Fixed Data), a list of selected Sensors Type's metadata is displayed. Clicking on save button will create an Sensors for us.
+In the last section named Metadata (Fixed Data), a list of selected Sensors Type's metadata is displayed. Clicking on save button will create a Sensor for us.
 
 {{< img-simple src="sensor-duplicate.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
