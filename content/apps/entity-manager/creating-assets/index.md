@@ -20,7 +20,7 @@ In order to create an Asset, we first need to create an Asset Type for that.
 
 ## Creating an Asset Type
 
-To create an Asset Type, we first need to go to Asset Types tab. 
+To create an Asset Type, we first need to go to Asset Types tab.
 
 {{< img-simple src="asset-type-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -46,7 +46,7 @@ If we already have an Asset Type with required metadata, then we can simply dupl
 
 ## Creating an Asset
 
-Now to create an Asset, we need to be in Assets tab. 
+Now to create an Asset, we need to be in Assets tab.
 
 {{< img-simple src="asset-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -73,4 +73,3 @@ In the last section named Metadata (Fixed Data), Metdata list of selected Asset 
 If we already have an Asset with required Asset Type, then we can simply duplicate the asset by clicking on the duplicate icon in the actions column. We just have to enter the new Asset name and it'll create an asset with the same properties of the asset from which it was duplicated.
 
 This is how we create Assets.
-

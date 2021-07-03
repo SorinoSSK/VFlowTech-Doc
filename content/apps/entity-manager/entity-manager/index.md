@@ -55,7 +55,7 @@ There is a searchbar to quickly seach for projects.
 
 {{< img-simple src="projects-list-view.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Click on any project to open Entity Map of that project. 
+Click on any project to open Entity Map of that project.
 
 {{< img-simple src="entity-map-project-selection.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -64,7 +64,6 @@ Entity Map will open which contains a map of Entities (Organzation, Project, Sen
 {{< img-simple src="entity-map-structure.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
 Clicking on any entity will show it's properites in the right sidebar. Entity (Assets, Sensors) details can also be viewed/updated using this sidebar.
-
 
 ## Assets
 
@@ -97,8 +96,6 @@ The second tab is Asset Types which contains the asset type list with their Name
 {{< img-simple src="asset-type-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
 On the top right of Asset Types list there is a button to Add asset type. Clicking on that button will open an Add Asset Type modal, using which we can add Asset Type.
-
-
 
 ## Sensors
 

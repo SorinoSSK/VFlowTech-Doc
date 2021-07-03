@@ -20,7 +20,7 @@ In order to create an Sensor, we first need to create an Sensor Type for that.
 
 ## Creating a Sensor Type
 
-To create a Sensor Type, we first need to go to Sensor Types tab. 
+To create a Sensor Type, we first need to go to Sensor Types tab.
 
 {{< img-simple src="sensor-type-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -50,7 +50,7 @@ If we already have an Sensor Type with required metadata, then we can simply dup
 
 ## Creating a Sensor
 
-Now to create a Sensor, we need to be in Sensors tab. 
+Now to create a Sensor, we need to be in Sensors tab.
 
 {{< img-simple src="sensor-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
