@@ -18,6 +18,8 @@ Similar to Assets, Sensors contains two tabs - Sensors and Sensor Types. Sensor 
 
 In order to create an Sensor, we first need to create an Sensor Type for that.
 
+Every sensor is created from a sensor type. For example, there could be many `temperature-sensors` labeled `tmpr-1, tmpr-2, ...` in a project, but all of those might be coming from the sensor type called `tmpr`. This is done to allow comparison among similar sensors belonging to the same sensor type.
+
 ## Creating a Sensor Type
 
 To create a Sensor Type, we first need to go to Sensor Types tab.

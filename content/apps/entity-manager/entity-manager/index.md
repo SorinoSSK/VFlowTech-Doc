@@ -14,6 +14,10 @@ toc: true
 
 ## Introduction
 
+Entity Manager App helps us in designing a flexible multi-level project hierarchy which can be mapped to any real-world IoT use-case.
+
+An entity is basically an asset or a sensor with distinct and independent existence. Entities always belong to a project. Entities of one project are not visible or accessible to other projects.
+
 Look out for this icon for the Entity Manager app.
 
 {{< img-simple src="entity-manager.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
@@ -37,9 +41,18 @@ The icons mean the following (L to R):
 3. [Sensors](#sensors)
 4. [Activity](#activity)
 
+Things we can do using Entity Manager App:
+
+1) Multi-level assets
+2) Custom assets and sensors
+3) Custom metadata and parameters
+4) Easy interactive entity map UI
+
 ## Entity Map
 
-The second tab in Entity Manager app is Entity Map having the icon shown below.
+The second tab in Entity Manager app is Entity Map which is a visual representation of a project's hierarchy. Every project has one entity map. 
+
+Below icon denotes Entity Map.
 
 {{< img-simple src="entity-map.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -67,7 +80,11 @@ Clicking on any entity will show it's properites in the right sidebar. Entity (A
 
 ## Assets
 
-Assets is the third tab in Entity Manager app.
+Assets is the third tab in Entity Manager app. 
+
+An asset is any physical object or space that is of interest in an IoT project. Examples of assets could be building, ship, factory, solar panel, wind turbine, truck, fridge, motor, pump, generator, inverter, compressor, gearbox, etc. An asset can child other assets below it, thus creating an asset hierarchy. 
+
+For example `Building > Apartment > Fridge`. An asset can also have child sensors below it.
 
 {{< img-simple src="assets.png" alt="Assets" class="border-0 rounded-circle" >}}
 
@@ -100,6 +117,12 @@ On the top right of Asset Types list there is a button to Add asset type. Clicki
 ## Sensors
 
 Sensors is the third tab in Entity Manager app.
+
+A sensor is a device to measure some metric in its surroundings which is typically the asset on which the sensor is installed. With respect to the entity map, we can say that the sensor is the child of that asset. 
+
+Examples of sensors could be temperature sensors, humidity sensors, air quality sensors, energy meters, flow meters, etc. A sensor is always the leaf node in an entity map ie. it can not child any other entity. And a sensor must always have a parent entity that can either be an asset in the project or the project itself. 
+
+An example of a hierarchy with the sensor being the leaf node is `Building > Apartment > Fridge > Temperature Sensor`.
 
 {{< img-simple src="sensors.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 

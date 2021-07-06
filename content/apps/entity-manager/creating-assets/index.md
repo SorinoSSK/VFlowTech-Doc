@@ -18,6 +18,8 @@ As we've already discussed, Assets contains two tabs - Assets and Asset Types. A
 
 In order to create an Asset, we first need to create an Asset Type for that.
 
+Every asset is created from an asset type. For example, there could be many `motors` labeled `motor-1, motor-2, ...` in a project, but all of those might be coming from the asset type called `motor`. This is done to allow comparison among similar assets belonging to the same asset type.
+
 ## Creating an Asset Type
 
 To create an Asset Type, we first need to go to Asset Types tab.
