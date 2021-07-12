@@ -40,3 +40,8 @@ Upon clicking a modal appears to fill in the details for the gateway
 
   - The user can then select the position where they want to place the gateway. The
     position can be any asset or the project.
+
+After creating a gateway you can open it to see the more infomration about the gateway.
+See [Gateway Details]({{<ref "apps/iot-manager/gateway-details/index.md">}}) page for more info.
+
+{{< img-simple src="gateway-details-action.png" alt="Topology Tree" class="border-0 rounded-circle" >}}
