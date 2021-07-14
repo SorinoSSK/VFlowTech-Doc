@@ -62,12 +62,15 @@ gateway in the payload. Please keep in mind these parameters are different from 
 parameters. These parameters are usually related to gateway for example `battery level`, `cpu usage`,
 `memory usage`, `device temperature` etc.
 
-{{< img-simple src="gateway-detail-parameter.png" alt="Gateway Detail" class="border-0 rounded-circle" >}}
+{{< img-simple src="gateway-detail-parameter.png" alt="Gateway parameters" class="border-0 rounded-circle" >}}
 
 #### Parameter Mapping
 The parameter mapping is a very important feature which allows to create a mapping between
-the incoming JSON payload and the sensor parameters in the system. Detailed information 
+the incoming JSON payload and the sensor parameters in the system. Parameter gives a structure 
+way incoming data is stored in the platform. Detailed information 
 is provided about this feature on the [Parameter Mapping](({{<ref "apps/iot-manager/parameter-mapping/index.md">}})) document.
+
+{{< img-simple src="gateway-detail-parameter-mapping.png" alt="Parameter Mapping" class="border-0 rounded-circle" >}}
 
 #### Sensor
 The sensor page shows all the sensors connected to the gateway. The connected sensors
@@ -75,3 +78,4 @@ are automatically inferred from the parameter mapping page. All the sensors whos
 parameters are mapped to a gateway are considered connected to the gateway. See 
 [Parameter Mapping](({{<ref "apps/iot-manager/parameter-mapping/index.md">}})) for detailed
 info.
+{{< img-simple src="gateway-sensors.png" alt="Gateway Sensors" class="border-0 rounded-circle" >}}
