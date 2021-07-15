@@ -116,7 +116,7 @@ On the top right of Asset Types list there is a button to Add asset type. Clicki
 
 ## Sensors
 
-Sensors is the third tab in Entity Manager app.
+Sensors is the fourth tab in Entity Manager app.
 
 A sensor is a device to measure some metric in its surroundings which is typically the asset on which the sensor is installed. With respect to the entity map, we can say that the sensor is the child of that asset.
 
@@ -154,7 +154,7 @@ On the top right of Sensor Types list there is a button to Add sensor type. Clic
 
 ## Activity
 
-Activity is the fourth tab in Entity Manager app.
+Activity is the fifth tab in Entity Manager app.
 
 {{< img-simple src="activity.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
