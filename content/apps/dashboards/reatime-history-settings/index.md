@@ -19,10 +19,12 @@ User can update these with the help of action as shown below.
 {{< img-simple src="realtime-historical-action.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ### Realtime settings
+
 {{< img-simple src="realtime-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 This is used when user want to view the realtime data with the help of widgets.
 
 ### Historical Settings
+
 Relative Settings
 {{< img-simple src="historical-relative-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 Absolute Settings

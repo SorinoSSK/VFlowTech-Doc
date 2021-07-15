@@ -21,10 +21,12 @@ To share a dashboard, click on the shared icon at top right corner of the dashbo
 {{< img-simple src="share-dashboard.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Share dashboard as public
+
 To share a dashboard as public, set the toggle button to off and then click on export. <br/>
 {{< img-simple src="share-as-public.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Share dashboard as private
+
 To share a dashboard as private, set the toggle button to on and enter the password which will be needed when someone access the dashboard by a link. <br/>
 {{< img-simple src="share-as-private.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 Then click on export and dashboard will be exported as a private dashboard.
@@ -40,6 +42,7 @@ On clicking the reveal password, user will have to enter the password and then a
 {{< img-simple src="enter-mads-password.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Update shared dashboard access
+
 When the dashboard is already shared as Public or Private, it can be changed to Private or Public respectively. <br/>
 For this click on Change to Private/Public button as shown below. <br/>
 {{< img-simple src="change-to-public.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
