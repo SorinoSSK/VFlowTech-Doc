@@ -33,11 +33,12 @@ Dashboard is mainly divided into three components
 ### Side Bar
 
 {{< img-simple src="dashboard-sidebar.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+
 * On the top, there will be the client logo.
 
 * Below the logo there will be a list of dashboard tabs. By default, Home Tab will be automatically created while creating a dashboard.
 
-* At the bottom of the sidebar we have 3 actions: 
+* At the bottom of the sidebar we have 3 actions:
   * **Download report:** To download the Report for the Dashboard.
   * **New Tab:** To create the new tab in the Dashboard.
   * **Back**: To go back to the previous screen.
@@ -45,17 +46,24 @@ Dashboard is mainly divided into three components
 ### Header
 
 {{< img-simple src="dashboard-header.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+
 * Left Section
 
   * First, will be the name of the current Dashboard and on clicking the name of the dashboard user can also view the list of other dashboards, and switch to other dashboards from there.
-  * Next is the icon to change the dashboard into edit mode. The two mode View and Edit can be switched with the help of this icon.
-* Right Section
 
+  * Next is the icon to change the dashboard into edit mode. The two mode View and Edit can be switched with the help of this icon.
+
+* Right Section
   In Right section we have five actions in order give below
+
   * Share Dashboard
+
   * Download Dashboard
+
   * Real time History Settings
+
   * Dashboard Settings
+
   * Capture Dashboard
 
 ### Widgets Section

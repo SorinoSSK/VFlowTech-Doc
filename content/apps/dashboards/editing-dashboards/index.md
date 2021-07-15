@@ -20,6 +20,7 @@ In edit mode, dashboard header options also changes as shown above.
 User will not be able to switch to other dashboards in edit mode.
 
 In edit mode, user can perform three actions on dashboard:
+
   * Add New Widget <br/>
   * Update a widget <br/>
   * Delete a widget
@@ -31,6 +32,7 @@ In edit mode, user can perform three actions on dashboard:
   After clicking on the new widget action, modal will be opened as shown below.
   {{< img-simple src="new-widget-modal.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
   As you can see Add New Widget consists of 3 steps:
+
   1. Widget: Choosing a widget <br/>
     User can choose a widget from many options and we have categorized the widgets in 4 different ways.
       * Timeseries: These type of widgets are mainly used to plot historical and realtime data.
