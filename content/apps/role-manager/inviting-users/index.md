@@ -45,4 +45,3 @@ After the invitation is sent, the invited email gets listed in the Invites tab.
 When a user accepts the email invitation, then it is shown up in the Users list.
 
 This is how we invite Users.
-

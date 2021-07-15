@@ -48,7 +48,7 @@ Things we can do using Role Manager App:
 
 ## User Groups
 
-The second tab in Role Manager app is User Groups which is a collections of allowed apps and actions items. 
+The second tab in Role Manager app is User Groups which is a collections of allowed apps and actions items.
 
 Below icon denotes User Groups.
 
@@ -115,7 +115,6 @@ On the top right of active projects list there is a button to Add Project. Click
 {{< img-simple src="role-manager-archived-projects.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
 The second tab is Archived Projects which contains the list of Archived Projects with their Names, Managers, Members, Metadata, Locations and Actions. In the Actions column, we have options to edit, delete, unarchive and view active projects. There is a search bar to search for archived projects.
-
 
 ## Activity
 

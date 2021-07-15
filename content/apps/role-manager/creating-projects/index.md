@@ -14,7 +14,7 @@ toc: true
 
 ## Introduction
 
-Projects tab is further divided into two tabs - Active and Archived. 
+Projects tab is further divided into two tabs - Active and Archived.
 
 Active and Archived tab contains of list of Active Projects and Archived Projects respectively.
 
@@ -50,13 +50,13 @@ This is how we create Projects.
 
 A project can be archived if it is in active projects list and unarchived if it is present in archived projects list.
 
-In the Active projects list, there is an actions column which has an icon to Archive a project. 
+In the Active projects list, there is an actions column which has an icon to Archive a project.
 
 {{< img-simple src="archive-project.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
 Clicking on this icon will archive the project and move it to Archived projects list.
 
-Similarly, in the Archived projects list, there is an actions column which has an icon to UnArchive a project. 
+Similarly, in the Archived projects list, there is an actions column which has an icon to UnArchive a project.
 
 {{< img-simple src="unarchive-project.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
