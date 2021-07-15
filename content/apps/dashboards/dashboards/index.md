@@ -45,5 +45,6 @@ This section will list the recently opened dashboards by the user.
 {{< img-simple src="dashboard-recent.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Share
+
 This section will list all of the dashboards and user can view if the dashboard is shared public or private.
 {{< img-simple src="dashboard-share.png" alt="Dashboards app" class="border-0 rounded-circle" >}}

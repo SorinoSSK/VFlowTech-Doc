@@ -16,6 +16,7 @@ Dashboard settings can be done with the help of icon present at the right sectio
 {{< img-simple src="dashboard-settings-action.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 After clicking on the icon, dashboard settings modal will be opened, where the settings are divided into four sections.
+
   1. Visual
   2. Client
   3. Tabs
@@ -26,6 +27,7 @@ After clicking on the icon, dashboard settings modal will be opened, where the s
 {{< img-simple src="visual-settings" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 With the help of this following settings can be updated.
+
   1. Dashboard Name
   2. Dashboard Background color
   3. Sidebar Background color
@@ -37,6 +39,7 @@ With the help of this following settings can be updated.
 {{< img-simple src="client-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 With the help of this following settings can be updated.
+
   1. Client Name
   2. Client Logo
 

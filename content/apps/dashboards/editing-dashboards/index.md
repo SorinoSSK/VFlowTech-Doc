@@ -21,9 +21,9 @@ User will not be able to switch to other dashboards in edit mode.
 
 In edit mode, user can perform three actions on dashboard:
 
-  * Add New Widget <br/>
-  * Update a widget <br/>
-  * Delete a widget
+* Add New Widget <br/>
+* Update a widget <br/>
+* Delete a widget
 
 ### Add New widget
 

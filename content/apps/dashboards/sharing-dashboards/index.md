@@ -14,8 +14,9 @@ toc: true
 
 A Dashboard can be shared to others by a link. <br/>
 Dashboard can be shared in two different ways <br/>
- * Public: Can be viewed with link only.
- * Private Can be viewed with link and password of the dashboard.
+
+* Public: Can be viewed with link only.
+* Private Can be viewed with link and password of the dashboard.
 
 To share a dashboard, click on the shared icon at top right corner of the dashboard header.
 {{< img-simple src="share-dashboard.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
