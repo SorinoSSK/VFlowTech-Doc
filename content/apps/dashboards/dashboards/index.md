@@ -38,17 +38,23 @@ The icons mean the following (L to R):
 4. [Share](#share)
 
 ## New
+From this section user can create a new dashboard.
 
-About New
+{{< img-simple src="dashboard-new.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Open
+In this section, user can view the list of dashboards and can select a dashboard to view or update it.
 
-About Open
+{{< img-simple src="dashboard-open.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Recent
+This section will list the recently opened dashboards by the user.
 
-About Recent
+{{< img-simple src="dashboard-recent.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+
 
 ## Share
+This section will list all of the dashboards and user can view if the dashboard is shared public or private.
 
-About Share
+{{< img-simple src="dashboard-share.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+
