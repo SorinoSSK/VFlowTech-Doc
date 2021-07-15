@@ -14,7 +14,9 @@ toc: true
 
 ## Introduction
 
-Look out for this icon for the Data Insights app.
+The DataInsights app is the one which is responsible for aggregated data analytics and visualisation, historical trends or future forecasts of IoT data. Using this app, we gather data, then transform them into something useful which can be presented visually so that the user can interpret about what data is telling. Also, we store these visual representations created by user so that they can refer it in the future, if they wants to access it again.
+
+To use the app look out for the following icon
 
 {{< img-simple src="data-insights.png" alt="Data Insights app" class="border-0 rounded-circle" >}}
 
@@ -36,4 +38,22 @@ The icons mean the following (L to R):
 
 ## Analyzer
 
-About Analyzer
+Analyzer is where user creates analysis table using data-source(database) and then on the basis of the analysis table, they can create visualizations for visual representations of data.
+
+In order to proceed, user first has to choose respective project like this:
+1. Click on the Analyzer icon in the left sidebar
+2. Choose a project
+
+{{< img-simple src="project_listing.png" alt="Project listing" class="border-0 rounded-circle" >}}
+
+All the Analysis and visualuzations are grouped on the basis of project, so in order to do analysis user has to select respective project.
+
+On clicking any of the projects you will be able to see list of analysis tables in the project like below
+
+{{< img-simple src="analysis-table-list.png" alt="Analysis Table listing" class="border-0 rounded-circle" >}}
+
+Analysis Table listing shows the following information about Analysis Table:
+  - `Analysis Table`: Name of the analysis table
+  - `Made By`: Analysis Table's creator name
+  - `Visualizations`: Total number of visual representations created from the respective analysis table 
+  - `Made on`: Analysis Table's creation date
