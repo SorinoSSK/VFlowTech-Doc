@@ -32,8 +32,6 @@ In the Data Insights app, there is a sidebar menu with the following icon.
 
 {{< img-simple src="data-insights-menu.png" alt="Data Insights menu" class="border-0 rounded-circle" >}}
 
-The icons mean the following (L to R):
-
 1. [Analyzer](#analyzer)
 
 ## Analyzer
