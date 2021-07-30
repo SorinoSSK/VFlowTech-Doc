@@ -72,7 +72,7 @@ On clicking on any of the projects you will be able to see the list of gateways 
 
 The gateways listing shows the following information about gateways:
 
-- `Name`: A user identifiable name for the gateway. 
-- `UUID`: A unique identifier for the gateway. 
-- `Channel`: The transport protocol being used by the gateway. 
-- `Status`: The status of the gateway, if it's active or inactive. 
+- `Name`: A user identifiable name for the gateway.
+- `UUID`: A unique identifier for the gateway.
+- `Channel`: The transport protocol being used by the gateway.
+- `Status`: The status of the gateway, if it's active or inactive.

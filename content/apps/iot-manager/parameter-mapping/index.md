@@ -42,8 +42,9 @@ These keys could be coming from multiple sensor parameters connected to multiple
 
 The JSON payload sent has three types of keys:
 
-- `Object Key`: A key which contains multiple keys within it
-```
+-  `Object Key`: A key which contains multiple keys within it
+
+```language-javascript
 {
   "key1": {
       "key2": 1.5,
@@ -55,12 +56,13 @@ The JSON payload sent has three types of keys:
 
 - `List Key`: A key which contains values in the form of a list
 
-```
+```language-javascript
 {"key": ["value1", 1, true]}
 ```
 
 - `Value Key`: A key which actually holds a numerical, boolean or string value.
-```
+
+```language-javascript
 {"key": 2.7}
 ```
 
