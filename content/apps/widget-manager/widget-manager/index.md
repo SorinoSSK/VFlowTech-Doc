@@ -38,12 +38,12 @@ The icons mean the following (L to R):
 
 ## Widget Store
 
-About Widget Store
+The Widget Store is a store of multiple widgets that can used in Dashboards and other apps. This feature is work in progress, and will be released in a future version.
 
 ## My Widgets
 
-About My Widgets
+Under My Widgets you have the widgets which you have downloaded from the Widget Store for your use. This feature is work in progress, and will be released in a future version.
 
 ## Editor
 
-About Editor
+Here you can edit existing widgets and (possibly) create new ones. This feature is work in progress, and will be released in a future version.

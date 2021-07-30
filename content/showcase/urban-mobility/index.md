@@ -1,12 +1,12 @@
 ---
 title: "Urban Mobility"
-description: "Statistical Computing in Excel. From traditional routines like GLMs and Factor Analysis to recently more popular ones like LASSO, t-SNE and time-varying parameter models, we offer decision makers a killer app."
-lead: "Statistical Computing in Excel. From traditional routines like GLMs and Factor Analysis to recently more popular ones like LASSO, t-SNE and time-varying parameter models, we offer decision makers a killer app."
+description: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
+lead: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
 date: 2021-02-03T13:32:34+01:00
 lastmod: 2021-02-03T13:32:34+01:00
 draft: false
 images: ["urban-mobility.png"]
-link: "https://docs.pnumerics.com"
+link: "https://www.mads-iot.com/showcase/urban-mobility/"
 menu:
   showcase:
     parent: "case-studies"

@@ -13,18 +13,12 @@ weight: 99620
 toc: true
 ---
 
-## Problems updating npm packages
+## Problems with MADS
 
-Delete the `./node_modules` folder, and run again:
+Contact us at [datakrew.com/contact](https://datakrew.com/contact.html)
 
-```bash
-npm install
-```
+## Problems with everything else
 
-## Problems with cache
+Have a break, have a kitkat!
 
-Delete the temporary directories:
-
-```bash
-npm run clean
-```
+{{< img-simple src="kitkat.png" alt="Dashboards icon in the appbar" class="border-0 rounded-circle" >}}

@@ -1,5 +1,5 @@
 ---
-title: "Old FAQ"
+title: "FAQ"
 description: "Answers to frequently asked questions."
 lead: "Answers to frequently asked questions."
 date: 2020-10-06T08:49:31+00:00
@@ -13,11 +13,11 @@ weight: 99630
 toc: true
 ---
 
-## Hyas?
+## MADS?
 
-Doks is a [Hyas theme](https://gethyas.com/themes/doks/) build by the creator of Hyas.
+MADS is a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects, build by [Datakrew](https://datakrew.com).
 
-## Footer notice?
+<!-- ## Footer notice?
 
 Please keep it in place.
 
@@ -39,10 +39,12 @@ Create a topic:
 
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
-
+ -->
 ## Contact the creator?
 
-Send `h-enk` a message:
+Visit [datakrew.com/contact](https://datakrew.com/contact.html)
+
+<!-- Send `h-enk` a message:
 
 - [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
+- [Hugo Forums](https://discourse.gohugo.io/) -->

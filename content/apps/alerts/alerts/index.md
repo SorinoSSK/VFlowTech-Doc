@@ -39,16 +39,16 @@ The icons mean the following (L to R):
 
 ## Inbox
 
-About Inbox
+This feature is work in progress, and will be released in a future version.
 
 ## Projects
 
-About Projects
+This feature is work in progress, and will be released in a future version.
 
 ## Apps
 
-About Apps
+This feature is work in progress, and will be released in a future version.
 
 ## Logs
 
-About Logs
+This feature is work in progress, and will be released in a future version.

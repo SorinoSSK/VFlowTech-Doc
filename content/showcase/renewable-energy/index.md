@@ -1,12 +1,12 @@
 ---
 title: "Renewable Energy"
-description: "Mock your backend in minutes, speed up your application development, make your developers lives easy."
-lead: "Mock your backend in minutes, speed up your application development, make your developers lives easy."
+description: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
+lead: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
 date: 2021-02-01T14:19:29+01:00
 lastmod: 2021-02-01T14:19:29+01:00
 draft: false
 images: ["renewable-energy.png"]
-link: "https://docs.mockadillo.com"
+link: "https://www.mads-iot.com/showcase/renewable-energy/"
 menu:
   showcase:
     parent: "case-studies"

@@ -1,12 +1,12 @@
 ---
 title: "Smart Buildings"
-description: "Platform for mutual knowledge exchange between industry and academia to help causal data science applications diffuse more widely into practice."
-lead: "Platform for mutual knowledge exchange between industry and academia to help causal data science applications diffuse more widely into practice."
+description: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
+lead: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
 date: 2020-11-06T18:10:18+01:00
 lastmod: 2020-11-06T18:10:18+01:00
 draft: false
 images: ["smart-buildings.png"]
-link: "https://causalscience.org"
+link: "https://www.mads-iot.com/showcase/smart-buildings/"
 menu:
   showcase:
     parent: "case-studies"

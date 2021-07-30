@@ -59,16 +59,16 @@
   url = "/apps/digital-twin/"
 
 [[apps]]
-  name = "Prologue"
-  weight = 210
-  identifier = "prologue"
-  url = "/apps/prologue/"
-
-[[apps]]
   name = "Help"
-  weight = 220
+  weight = 210
   identifier = "help"
   url = "/apps/help/"
+
+[[apps]]
+  name = "Prologue"
+  weight = 220
+  identifier = "prologue"
+  url = "/apps/prologue/"
 
 
 

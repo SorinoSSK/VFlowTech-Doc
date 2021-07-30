@@ -1,12 +1,12 @@
 ---
 title: "Shipping and Maritime"
-description: "A free ebook on neutrino flavor conversions in dense media. Neutrino flavor conversions in dense media play important roles in the physical and chemical evolutions of many dense environments. "
-lead: "A free ebook on neutrino flavor conversions in dense media. Neutrino flavor conversions in dense media play important roles in the physical and chemical evolutions of many dense environments."
+description: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
+lead: "We're adding content to this space, and it'll be ready in no time! Hang tight :)"
 date: 2020-12-31T14:40:12+01:00
 lastmod: 2020-12-31T14:40:12+01:00
 draft: false
 images: ["shipping-and-maritime.png"]
-link: "https://neutrino.leima.is"
+link: "https://www.mads-iot.com/showcase/shipping-and-maritime/"
 menu:
   showcase:
     parent: "case-studies"

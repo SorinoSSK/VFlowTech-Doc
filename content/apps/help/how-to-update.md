@@ -1,7 +1,7 @@
 ---
 title: "How to Update"
-description: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
-lead: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
+description: "Regularly update MADS."
+lead: "Regularly update MADS."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
@@ -13,12 +13,12 @@ weight: 99610
 toc: true
 ---
 
-{{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." >}}
+{{< alert icon="💡" text="Learn more about <a href=\"http://mads-iot.com\">MADS</a> and <a href=\"http://datakrew.com\">Datakrew</a>." >}}
 
-## Update npm packages
+## Update MADS
 
-Bump the versions in the `devDependencies` section of `./package.json` to your liking, and run:
+To update MADS run:
 
 ```bash
-npm update
+mads update
 ```
