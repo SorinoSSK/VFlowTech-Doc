@@ -29,26 +29,29 @@ Click on this icon to launch the Dashboards app. The Dashboards app will open, a
 In the Dashboards app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="dashboards-menu.png" alt="Dashboards menu" class="border-0 rounded-circle" >}}
-
 The icons mean the following (L to R):
 
-1. [New](#new)
-2. [Open](#open)
-3. [Recent](#recent)
-4. [Share](#share)
+  1. [New](#new)
+  1. [Open](#open)
+  1. [Recent](#recent)
+  1. [Share](#share)
 
 ## New
 
-About New
+From this section user can create a new dashboard.
+{{< img-simple src="dashboard-new.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Open
 
-About Open
+In this section, user can view the list of dashboards and can select a dashboard to view or update it.
+{{< img-simple src="dashboard-open.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Recent
 
-About Recent
+This section will list the recently opened dashboards by the user.
+{{< img-simple src="dashboard-recent.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 ## Share
 
-About Share
+This section will list all of the dashboards and user can view if the dashboard is shared public or private.
+{{< img-simple src="dashboard-share.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
