@@ -23,4 +23,3 @@ toc: false
 5. [Analyse Data]({{< ref "analyse-data" >}}). <!-- Add a small or large image with a Doks shortcode. Images are lazyloaded, blurred up, and responsive. -->
 6. [Visualise Analysis]({{< ref "visualise-analysis" >}}). <!-- Deploy your Doks site to Netlify or any other static web host.
  -->
- 
