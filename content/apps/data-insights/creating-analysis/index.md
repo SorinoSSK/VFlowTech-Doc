@@ -13,9 +13,11 @@ toc: true
 ---
 
 ## Overview
+
 Inorder to create visualizations, user needs to create analysis table in the Data Insights app. Analysis table is the central data-source with multiple columns, that serves as the base table for generating different types of visualuzations. So, we can say that analysis table can have multiple visualizations.
 
-#### Create an Analysis Table
+### Create an Analysis Table
+
 To create analysis table, navigate to the analysis listing page. On this page, on the right side you'll find Add Analysis Table, upon clicking on this button a model'll appear to fill in the analysis table name
 
 {{< img-simple src="analysis-table-create.png" alt="Analysis Table Create" class="border-0 rounded-circle" >}}
@@ -25,21 +27,26 @@ Upon clicking on save button, an analysis table will be created with the specifi
 {{< img-simple src="analysis-table-show.png" alt="Analysis Table Show" class="border-0 rounded-circle" >}}
 
 This page is divided into components:
+
 1. Left Section
 2. Right Section
 
 Left Section shows entities of the project, which is again divided into two components(user can scroll and check):
+
 1. Asset Type List
 2. Sensor Type List
 3. Show Topology
 
 ##### Asset Type List
+
 {{< img-simple src="analysis-table-left-asset.png" alt="Analysis Table Show" class="border-0 rounded-circle" >}}
 
 ##### Sensor Type List
+
 {{< img-simple src="analysis-table-left-sensor.png" alt="Analysis Table Show" class="border-0 rounded-circle" >}}
 
 ##### Show Topology
+
 On clicking Show Topology button, shows the hierarchy of entities like asset_types and sensor_types. The main idea
 behind it is to show the users connection between all the asset_types and the sensor_types of the project in the physical world.
 

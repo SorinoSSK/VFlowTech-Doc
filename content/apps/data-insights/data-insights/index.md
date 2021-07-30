@@ -39,6 +39,7 @@ In the Data Insights app, there is a sidebar menu with the following icon.
 Analyzer is where user creates analysis table using data-source(database) and then on the basis of the analysis table, they can create visualizations for visual representations of data.
 
 In order to proceed, user first has to choose respective project like this:
+
 1. Click on the Analyzer icon in the left sidebar
 2. Choose a project
 
@@ -51,7 +52,7 @@ On clicking any of the projects you will be able to see list of analysis tables 
 {{< img-simple src="analysis-table-list.png" alt="Analysis Table listing" class="border-0 rounded-circle" >}}
 
 Analysis Table listing shows the following information about Analysis Table:
-  - `Analysis Table`: Name of the analysis table
-  - `Made By`: Analysis Table's creator name
-  - `Visualizations`: Total number of visual representations created from the respective analysis table 
-  - `Made on`: Analysis Table's creation date
+- `Analysis Table`: Name of the analysis table
+- `Made By`: Analysis Table's creator name
+- `Visualizations`: Total number of visual representations created from the respective analysis table 
+- `Made on`: Analysis Table's creation date

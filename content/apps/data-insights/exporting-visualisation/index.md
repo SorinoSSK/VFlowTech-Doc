@@ -16,7 +16,8 @@ toc: true
 
 It is possible to export the created visualization to the dashboard using export visualization feature.
 
-#### Exporting Visualization
+### Exporting Visualization
+
 To export any Visualization, click on the `Export` button:
 
 {{< img-simple src="export-button.png" alt="Export Visulization" class="border-0 rounded-circle" >}}
@@ -26,10 +27,10 @@ Upon clicking on `Export` button, `Export Widget` modal will open like this:
 {{< img-simple src="export-widget.png" alt="Export Widget" class="border-0 rounded-circle" >}}
 
 Export Widget modal has following fields which user needs to fill:
-  - `Title`: Title of the widget, which will be shown on dashboard
-  - `Description`: Description of the widget which will be shown on dashboard
-  - `Dashboard`: User needs to select from available dashboards, where this visualization will be exported
-  - `Panel`: User needs to select from panels of the above selected dashboard
+- `Title`: Title of the widget, which will be shown on dashboard
+- `Description`: Description of the widget which will be shown on dashboard
+- `Dashboard`: User needs to select from available dashboards, where this visualization will be exported
+- `Panel`: User needs to select from panels of the above selected dashboard
 
 User needs to select a dashboard from dropdown of all available dashboards, where the respective visualiuzation gets exported as widget. Also, they have to choose a panel from the available panels of the selected dashboard.
 
