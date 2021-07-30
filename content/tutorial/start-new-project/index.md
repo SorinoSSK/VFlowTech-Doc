@@ -1,7 +1,7 @@
 ---
 title: "1. Start New Project"
-description: "Create a new site, change directories, install dependencies, and start development server."
-lead: "Create a new site, change directories, install dependencies, and start development server."
+description: "Start New Project."
+lead: "Start New Project."
 date: 2020-11-30T14:24:13+01:00
 lastmod: 2020-11-30T14:24:13+01:00
 draft: false
@@ -13,9 +13,11 @@ weight: 030
 toc: true
 ---
 
-### Create a new site
+### Start New Project
 
-{{< btn-copy text="git clone https://github.com/h-enk/doks.git my-doks-site" >}}
+This page is under construction, and will be up in no time.
+
+<!-- {{< btn-copy text="git clone https://github.com/h-enk/doks.git my-doks-site" >}}
 
 ```bash
 git clone https://github.com/h-enk/doks.git my-doks-site
@@ -51,4 +53,4 @@ npm run start
 
 {{< img-simple src="npm-run-start.gif" alt="git clone" >}}
 
-Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
+Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser. -->

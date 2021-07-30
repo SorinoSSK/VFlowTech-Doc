@@ -1,7 +1,7 @@
 ---
 title: "6. Visualise Analysis"
-description: "Deploy your Doks site to Netlify or any other static web host."
-lead: "Deploy your Doks site to Netlify or any other static web host."
+description: "Visualise Analysis."
+lead: "Visualise Analysis."
 date: 2020-11-30T14:28:08+01:00
 lastmod: 2020-11-30T14:28:08+01:00
 draft: false
@@ -13,9 +13,11 @@ weight: 080
 toc: true
 ---
 
-## Deploy to Netlify
+## Visualise Analysis
 
-Continuous Deployment (CD) works by connecting a Git repository to a Netlify site and keeping the two in sync. Netlify will run the Doks build command and deploy the result whenever you push to your Git repo.
+This page is under construction, and will be up in no time.
+
+<!-- Continuous Deployment (CD) works by connecting a Git repository to a Netlify site and keeping the two in sync. Netlify will run the Doks build command and deploy the result whenever you push to your Git repo.
 
 ### Set up Git repository
 
@@ -111,4 +113,4 @@ Create your new Netlify site in 3 steps.
 
 ## Deploy to other hosts
 
-See the Hugo Docs: [Hosting & Deployment](https://gohugo.io/hosting-and-deployment/).
+See the Hugo Docs: [Hosting & Deployment](https://gohugo.io/hosting-and-deployment/). -->

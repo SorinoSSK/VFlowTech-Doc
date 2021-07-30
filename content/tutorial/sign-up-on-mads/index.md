@@ -1,7 +1,7 @@
 ---
 title: "0. Sign up on MADS"
-description: "Install Node.js to get started with Doks."
-lead: "Install Node.js to get started with Doks."
+description: "ISign up on MADS."
+lead: "Sign up on MADS."
 date: 2020-11-18T08:20:35+01:00
 lastmod: 2020-11-18T08:20:35+01:00
 draft: false
@@ -13,9 +13,11 @@ weight: 020
 toc: true
 ---
 
-## Node.js
+## Sign up on MADS
 
-Doks uses npm to install dependencies and run commands. Installing npm is pretty simple. Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
+This page is under construction, and will be up in no time.
+
+<!-- Doks uses npm to install dependencies and run commands. Installing npm is pretty simple. Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
 
 ### Check Node.js install
 
@@ -31,4 +33,4 @@ node --version
 
 ```bash
 npm --version
-```
+``` -->

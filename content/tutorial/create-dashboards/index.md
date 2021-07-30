@@ -1,7 +1,7 @@
 ---
 title: "4. Create Dashboards"
-description: "Add pages or links to the main, social, docs, or footer menu."
-lead: "Add pages or links to the main, social, docs, or footer menu."
+description: "Create Dashboards."
+lead: "Create Dashboards."
 date: 2020-11-30T14:27:39+01:00
 lastmod: 2020-11-30T14:27:39+01:00
 draft: false
@@ -13,7 +13,11 @@ weight: 060
 toc: true
 ---
 
-{{< img-simple src="menu-structure.png" alt="Menu Structure" class="border rounded p-1" >}}
+## Create Dashboards
+
+This page is under construction, and will be up in no time.
+
+<!-- {{< img-simple src="menu-structure.png" alt="Menu Structure" class="border rounded p-1" >}}
 
 Open `./config/_default/menus.toml` in your code editor.
 
@@ -92,4 +96,4 @@ weight: 010
   name = "Privacy"
   url = "/privacy-policy/"
   weight = 10
-```
+``` -->

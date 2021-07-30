@@ -1,7 +1,7 @@
 ---
 title: "2. Create Entity Map"
-description: "Set configuration for Meta data, Images, Footer, Alert, and Edit page."
-lead: "Set configuration for Meta data, Images, Footer, Alert, and Edit page."
+description: "Create Entity Map."
+lead: "Create Entity Map."
 date: 2020-11-30T14:27:14+01:00
 lastmod: 2020-11-30T14:27:14+01:00
 draft: false
@@ -13,7 +13,11 @@ weight: 040
 toc: true
 ---
 
-{{< alert icon="💡" text="<a href=\"https://code.visualstudio.com/\">Visual Studio Code</a> is a free code editor for Linux, macOS, and Windows." >}}
+## Create Entity Map
+
+This page is under construction, and will be up in no time.
+
+<!-- {{< alert icon="💡" text="<a href=\"https://code.visualstudio.com/\">Visual Studio Code</a> is a free code editor for Linux, macOS, and Windows." >}}
 
 Open `./config/_default/params.toml` in your code editor.
 
@@ -114,4 +118,4 @@ Optionally, change edit page settings — you need a git repository to enable:
 ```toml
 docsRepo = "https://github.com/h-enk/doks"
 editPage = false
-```
+``` -->

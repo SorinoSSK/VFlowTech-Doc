@@ -1,7 +1,7 @@
 ---
 title: "5. Analyse Data"
-description: "Add a small or large image with a Doks shortcode. Images are lazyloaded, blurred up, and responsive."
-lead: "Add a small or large image with a Doks shortcode. Images are lazyloaded, blurred up, and responsive."
+description: "Analyse Data."
+lead: "Analyse Data."
 date: 2020-11-30T14:27:47+01:00
 lastmod: 2020-11-30T14:27:47+01:00
 draft: false
@@ -13,7 +13,11 @@ weight: 070
 toc: true
 ---
 
-```bash
+## Analyse Data
+
+This page is under construction, and will be up in no time.
+
+<!-- ```bash
 ..
 ├── blog/
 │   ├── say-hello-to-doks/
@@ -59,4 +63,4 @@ Add a large image in your page bundle to your page using shortcode `img`.
 
 Will be processed into:
 
-{{< img src="rectangle.png" alt="Rectangle" caption="<em>Rectangle</em>" class="border-0" >}}
+{{< img src="rectangle.png" alt="Rectangle" caption="<em>Rectangle</em>" class="border-0" >}} -->

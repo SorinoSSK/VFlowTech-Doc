@@ -1,7 +1,7 @@
 ---
 title: "3. Add Gateways"
-description: "Customize the homepage, add a blog post, and add a documentation page."
-lead: "Customize the homepage, add a blog post, and add a documentation page."
+description: "Add Gateways"
+lead: "Add Gateways."
 date: 2020-11-30T14:27:30+01:00
 lastmod: 2020-11-30T14:27:30+01:00
 draft: false
@@ -13,9 +13,11 @@ weight: 050
 toc: true
 ---
 
-## Customize the homepage
+## Add Gateways
 
-Open `./layouts/index.html` in your code editor.
+This page is under construction, and will be up in no time.
+
+<!-- Open `./layouts/index.html` in your code editor.
 
 ### Sections
 
@@ -144,4 +146,4 @@ There are two main ways to get started with Doks:
 
 #### Result
 
-{{< img-simple src="add-documentation-page.png" alt="Add documentation page" class="border rounded p-1" >}}
+{{< img-simple src="add-documentation-page.png" alt="Add documentation page" class="border rounded p-1" >}} -->
