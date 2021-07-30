@@ -1,15 +1,15 @@
 ---
-title: "Say hello to Doks 👋"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+title: "Say hello to MADS 👋"
+description: "Introducing MADS, a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects."
+lead: "Introducing MADS, a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects."
+date: 2021-07-30T09:19:42+01:00
+lastmod: 2021-07-30T09:19:42+01:00
 draft: false
 weight: 50
 images: ["say-hello-to-doks.png"]
-contributors: ["Henk Verlinde"]
+contributors: ["Sumanta Bose"]
 ---
 
-## Very solid as a rock
+## No code IoT Platform
 
-Some website projects require a solid starting point. With a great developer experience and a sound user experience. Sometimes you just don’t want to start from scratch. That’s why I created Doks 💚
+MADS is a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects. It enables quick development, management, and scaling of IoT projects. MADS is available both as an on-cloud and on-premises solution. 💚
