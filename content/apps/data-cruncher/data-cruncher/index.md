@@ -40,20 +40,20 @@ The icons mean the following (L to R):
 
 ## Workspace
 
-About Workspace
+This feature is partially released. Complete features will be released in a future version.
 
 ## Data Lake
 
-About Data Lake
+This feature is work in progress, and will be released in a future version.
 
 ## Tasks
 
-About Tasks
+This feature is work in progress, and will be released in a future version.
 
 ## Functions
 
-About Functions
+This feature is work in progress, and will be released in a future version.
 
 ## Exported Widgets
 
-About Exported Widgets
+This feature is work in progress, and will be released in a future version.
