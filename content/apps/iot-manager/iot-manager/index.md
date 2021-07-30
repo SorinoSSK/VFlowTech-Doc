@@ -52,7 +52,7 @@ The gateway topology is defined per project. To see the topology \
 1. Click on the topology icon in the left sidebar.\
 2. Choose a project.
 
-{{< img-simple src="project-list.png" alt="Project listing" class="border-0 rounded-circle" >}}
+   {{< img-simple src="project-list.png" alt="Project listing" class="border-0 rounded-circle" >}}
 
 3. Expand the tree and click on any gateway to show the sensors it is connected to.
 
