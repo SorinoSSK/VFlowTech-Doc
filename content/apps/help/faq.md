@@ -40,6 +40,7 @@ Create a topic:
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
  -->
+
 ## Contact the creator?
 
 Visit [datakrew.com/contact](https://datakrew.com/contact.html)
