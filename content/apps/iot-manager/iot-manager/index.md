@@ -14,12 +14,8 @@ toc: true
 
 ## Introduction
 
-The IoT Manager app is one of the most essential apps on the platform which allows the users to manage devices which send data to the platform. These devices form the backbone of the IoT newtwork that will be used for sensing and monitoring any 
-infrastructure. In the MADS world, devices which collect data from multiple sensors and transmit the data over some communication channel(Wifi, 3G/4G, etc) using a communication protcol(HTTP, MQTT, CoAP) are referred to as `gateways`. \
-Gateways are digital representation of the physical devices which send data to the
-platform. While defining a gateway the user defines all the artifacts which will 
-be required for the management and security of the physcial devices provisioned 
-for a use case. Gateways in the platform are grouped by their projects.
+The IoT Manager app is one of the most essential apps on the platform which allows the users to manage devices which send data to the platform. These devices form the backbone of the IoT newtwork that will be used for sensing and monitoring any infrastructure. In the MADS world, devices which collect data from multiple sensors and transmit the data over some communication channel(Wifi, 3G/4G, etc) using a communication protcol(HTTP, MQTT, CoAP) are referred to as `gateways`. \
+Gateways are digital representation of the physical devices which send data to the platform. While defining a gateway the user defines all the artifacts which will be required for the management and security of the physcial devices provisioned for a use case. Gateways in the platform are grouped by their projects.
 
 To use the app look out for the following icon.
 
@@ -45,14 +41,14 @@ The icons mean the following (L to R):
 ## Topology
 
 The toplogy feature shows the hierarchy of assets, sensors and gateways. The main idea behind it is to show the users how the assets and sensors are placed with respect to gateways in the physical world. \
-Assets are the physcial entities being monitored. The assets are monitored with the help of sensors, see [Entity Manager]({{<ref "apps/entity-manager/entity-manager/index.md">}}) app for more details on how sensors are used to monitor assets. Gateways are used for accumulating the sensor data and sending it to the platform. Just like sensors gateways can be physically associated with an asset, however unlike sensors which collect data for only the asset they are attached with, the gateway can be collecting 
-data from multiple sensors which might be present on multiple assets.
+Assets are the physcial entities being monitored. The assets are monitored with the help of sensors, see [Entity Manager]({{<ref "apps/entity-manager/entity-manager/index.md">}}) app for more details on how sensors are used to monitor assets. Gateways are used for accumulating the sensor data and sending it to the platform. Just like sensors gateways can be physically associated with an asset, however unlike sensors which collect data for only the asset they are attached with, the gateway can be collecting data from multiple sensors which might be present on multiple assets.
 
 {{< figure src="GatewayTopology.svg" width="600px" >}}
 
 ### Gateway topology
 
 The gateway topology is defined per project. To see the topology \
+
 1. Click on the topology icon in the left sidebar.\
 2. Choose a project.
 
