@@ -41,7 +41,7 @@ There are multiple types of visualizations which we support:
 4. Column Chart
 5. Heat Map
 
-##### Pivot Table
+#### Pivot Table
 
 User needs to click on below icon to config pivot table visualizations:
 {{< img-simple src="pivot-icon.png" alt="Pivot Table Icon" class="border-0 rounded-circle" >}}
@@ -67,7 +67,7 @@ If user needs to add new visualizations, they need to click on + button, like
 
 {{< img-simple src="new-visualization.png" alt="Add new Visual Button" class="border-0 rounded-circle" >}}
 
-##### Line Chart
+#### Line Chart
 
 User needs to click on below icon to add line chart visualizations:
 
@@ -84,7 +84,7 @@ User can drag and drop elements from left side Analysis Table columns and upon c
 
 {{< img-simple src="lines-chart.png" alt="Line Chart" class="border-0 rounded-circle" >}}
 
-##### Area Chart
+#### Area Chart
 
 User needs to click on below icon to add area chart visualizations:
 
@@ -101,7 +101,7 @@ User can drag and drop elements from left side Analysis Table columns and upon c
 
 {{< img-simple src="area-chart.png" alt="Area Chart" class="border-0 rounded-circle" >}}
 
-##### Column Chart
+#### Column Chart
 
 User needs to click on below icon to add column chart visualizations:
 
@@ -118,7 +118,7 @@ User can drag and drop elements from left side Analysis Table and upon clicking 
 
 {{< img-simple src="column-chart.png" alt="Column Chart" class="border-0 rounded-circle" >}}
 
-##### Heat Map
+#### Heat Map
 
 User needs to click on below icon to add heat map visualizations:
 

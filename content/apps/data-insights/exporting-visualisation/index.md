@@ -27,6 +27,7 @@ Upon clicking on `Export` button, `Export Widget` modal will open like this:
 {{< img-simple src="export-widget.png" alt="Export Widget" class="border-0 rounded-circle" >}}
 
 Export Widget modal has following fields which user needs to fill:
+
 - `Title`: Title of the widget, which will be shown on dashboard
 - `Description`: Description of the widget which will be shown on dashboard
 - `Dashboard`: User needs to select from available dashboards, where this visualization will be exported

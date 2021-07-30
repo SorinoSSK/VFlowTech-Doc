@@ -37,15 +37,15 @@ Left Section shows entities of the project, which is again divided into two comp
 2. Sensor Type List
 3. Show Topology
 
-##### Asset Type List
+#### Asset Type List
 
 {{< img-simple src="analysis-table-left-asset.png" alt="Analysis Table Show" class="border-0 rounded-circle" >}}
 
-##### Sensor Type List
+#### Sensor Type List
 
 {{< img-simple src="analysis-table-left-sensor.png" alt="Analysis Table Show" class="border-0 rounded-circle" >}}
 
-##### Show Topology
+#### Show Topology
 
 On clicking Show Topology button, shows the hierarchy of entities like asset_types and sensor_types. The main idea
 behind it is to show the users connection between all the asset_types and the sensor_types of the project in the physical world.

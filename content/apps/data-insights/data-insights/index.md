@@ -52,7 +52,8 @@ On clicking any of the projects you will be able to see list of analysis tables 
 {{< img-simple src="analysis-table-list.png" alt="Analysis Table listing" class="border-0 rounded-circle" >}}
 
 Analysis Table listing shows the following information about Analysis Table:
+
 - `Analysis Table`: Name of the analysis table
 - `Made By`: Analysis Table's creator name
-- `Visualizations`: Total number of visual representations created from the respective analysis table 
+- `Visualizations`: Total number of visual representations created from the respective analysis table
 - `Made on`: Analysis Table's creation date
