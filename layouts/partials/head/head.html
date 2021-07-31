@@ -1,4 +1,13 @@
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-203710001-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-203710001-1');
+  </script>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -7,6 +16,6 @@
   {{ block "head/seo" . }}{{ partial "head/seo.html" . }}{{ end }}
   {{ block "head/favicons" . }}{{ partial "head/favicons.html" . }}{{ end }}
   {{ block "head/script-header" . }}{{ partial "head/script-header.html" . }}{{ end }}
-  {{ template "_internal/google_analytics.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
+<!--   {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }} -->
 </head>
