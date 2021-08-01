@@ -45,3 +45,6 @@ alertText = "Like MADS? <a class=\"alert-link\" style=\"color:#fcf003;\" href=\"
 # Edit Page
 docsRepo = "https://github.com/DataKrewTech/MADS-Docs"
 editPage = false
+
+# Google Analytics
+GoogleAnalyticsID = "UA-203710001-1"
