@@ -62,7 +62,7 @@ User Groups tab will open up, and it'll show all the created User Groups.
 
 {{< img-simple src="role-manager-user-group-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-It contains the user groups list with their Names, Policies and Actions. In the Actions column, we have options to edit and delete user groups.
+It contains the user groups list with their Names, Policies and Actions. In the Actions column, we have options to edit and delete user groups(Discussed in Editing and deleting User Groups section).
 
 {{< img-simple src="role-manager-add-user-group-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
