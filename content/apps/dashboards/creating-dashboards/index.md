@@ -38,8 +38,7 @@ Dashboard is mainly divided into three components
 
 * Below the logo there will be a list of dashboard tabs. By default, Home Tab will be automatically created while creating a dashboard.
 
-* At the bottom of the sidebar we have 3 actions:
-  * **Back**: To go back to the previous screen.
+* At the bottom of the sidebar we have **Back** button to go back to the previous screen.
 
 ### Header
 
@@ -52,7 +51,7 @@ Dashboard is mainly divided into three components
   * Next is the icon to change the dashboard into edit mode. The two mode View and Edit can be switched with the help of this icon.
 
 * Right Section
-  In Right section we have five actions in order give below
+  In Right section we have three actions in order give below
 
   * Share Dashboard
 
