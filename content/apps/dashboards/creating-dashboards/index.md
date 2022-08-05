@@ -39,8 +39,6 @@ Dashboard is mainly divided into three components
 * Below the logo there will be a list of dashboard tabs. By default, Home Tab will be automatically created while creating a dashboard.
 
 * At the bottom of the sidebar we have 3 actions:
-  * **Download report:** To download the Report for the Dashboard.
-  * **New Tab:** To create the new tab in the Dashboard.
   * **Back**: To go back to the previous screen.
 
 ### Header
@@ -58,13 +56,9 @@ Dashboard is mainly divided into three components
 
   * Share Dashboard
 
-  * Download Dashboard
-
-  * Real time History Settings
-
   * Dashboard Settings
 
-  * Capture Dashboard
+  * Real time History Settings
 
 ### Widgets Section
 
