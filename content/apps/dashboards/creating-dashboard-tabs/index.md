@@ -17,7 +17,9 @@ A Dashboard can have many tabs, by default Home tab gets created on creating a d
 
 ## Creating New Tab
 
-To create a new tab, user can click on the New Tab action present at the bottom of the dashboard sidebar. <br/>
+To create a new tab, user can click on the Edit icon present at the top of the dashboard header. <br/>
+{{< img-simple src="new-tab-edit.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+User can click on the New Tab button present at the bottom of the dashboard sidebar. <br/>
 {{< img-simple src="new-tab-action.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 On Clicking a modal will be opened as shown below. <br/>
 {{< img-simple src="new-tab-modal.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
