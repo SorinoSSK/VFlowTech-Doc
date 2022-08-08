@@ -43,3 +43,7 @@ supported channels are: \
 After creating a gateway you can open it to see the more infomration about the gateway. See [Gateway Details]({{<ref "apps/iot-manager/gateway-details/index.md">}}) page for more info.
 
 {{< img-simple src="gateway-details-action.png" alt="Topology Tree" class="border-0 rounded-circle" >}}
+
+You can also edit the gateway details. See [Edit Gateway]({{<ref "apps/iot-manager/editing-gateways/index.md">}}) page for more info.
+
+{{< img-simple src="gateway-edit-btn.png" alt="Topology Tree" class="border-0 rounded-circle" >}}
