@@ -8,7 +8,7 @@ images: []
 menu:
   apps:
     parent: "role-manager"
-weight: 2030
+weight: 2040
 toc: true
 ---
 
@@ -38,9 +38,13 @@ In the first section named Details, we have to enter the email that we want to i
 
 In the next section named Apps, there is a list of apps and action items. The apps and action items shown here which are already present in the selected user group are in disabled state. Here we can also select apps and action items which are not present in the selected User Group which will not be in disabled state. Clicking on save button will send an email invite to user.
 
-{{< img-simple src="role-manager-invites-list.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
+{{< img-simple src="role-manager-invites-list1.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
 After the invitation is sent, the invited email gets listed in the Invites tab.
+
+It contains the Invites list with their Email, Level, Status and Actions. In the Actions column, we have options to delete and re-invite users.
+
+Clicking on re-invite button will again send an email invite to user.
 
 When a user accepts the email invitation, then it is shown up in the Users list.
 

@@ -8,7 +8,7 @@ images: []
 menu:
   apps:
     parent: "role-manager"
-weight: 2040
+weight: 2060
 toc: true
 ---
 
@@ -45,19 +45,3 @@ Then clicking on next will take us to the last section named Metadata (Fixed Dat
 After entering the details, clicking on save button will create a new project for us.
 
 This is how we create Projects.
-
-## Archiving and UnArchiving a Project
-
-A project can be archived if it is in active projects list and unarchived if it is present in archived projects list.
-
-In the Active projects list, there is an actions column which has an icon to Archive a project.
-
-{{< img-simple src="archive-project.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
-
-Clicking on this icon will archive the project and move it to Archived projects list.
-
-Similarly, in the Archived projects list, there is an actions column which has an icon to UnArchive a project.
-
-{{< img-simple src="unarchive-project.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
-
-Clicking on this icon will unarchive the project and move it to Active projects list.
