@@ -1,5 +1,5 @@
 ---
-title: "Creating Entity Map"
+title: "Entity Map"
 description: ""
 date: 2021-02-21T14:06:32+08:00
 lastmod: 2021-02-21T14:06:32+08:00
@@ -8,7 +8,7 @@ images: []
 menu:
   apps:
     parent: "entity-manager"
-weight: 3040
+weight: 3080
 toc: true
 ---
 
