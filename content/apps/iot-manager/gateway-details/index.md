@@ -8,7 +8,7 @@ images: []
 menu:
   apps:
     parent: "iot-manager"
-weight: 4030
+weight: 4040
 toc: true
 ---
 
@@ -64,6 +64,13 @@ The parameters tab helps to set `static` and `dynamic` parameters for a gateway.
 The parameter mapping is a very important feature which allows to create a mapping between the incoming JSON payload and the sensor parameters in the system. Parameter gives a structure way incoming data is stored in the platform. Detailed information is provided about this feature on the [Parameter Mapping](({{<ref "apps/iot-manager/parameter-mapping/index.md">}})) document.
 
 {{< img-simple src="gateway-detail-parameter-mapping.png" alt="Parameter Mapping" class="border-0 rounded-circle" >}}
+
+### Latest Logs
+
+The Latest logs shows all the data which is coming from the sensors in the JSON format. Latest logs contains logs and errors.
+We can see the realtime logs and errors in every 5 seconds if we turn on `auto-sync` option as per the selected timeframe
+
+{{< img-simple src="gateway-details-latest-log.png" alt="Latest logs" class="border-0 rounded-circle" >}}
 
 ### Sensor
 
