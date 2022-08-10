@@ -77,3 +77,23 @@ To create a subtab, user can click on the Edit icon present at the top of the da
 Once user hover over the tab name a popover will be shown, user has to select fourth delete icon from popover <br/>
 {{< img-simple src="deleteTab.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 On Clicking a delete icon the tab will be deleted.
+
+
+## Responsive Layouts
+
+To make your panel responsive accorss different size devides, Click on dashboard edit icon. <br/>
+{{< img-simple src="responsiveEdit.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+Once the dashboard switched into editing mode, responsive icon will be visible as shown below, Click on it<br/>
+{{< img-simple src="responsiveIcon.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+On Clicking the icon user can see 4 different layouts namely TV, Laptop, Tablet, Mobile <br/>
+User can adjust weights as they want on different resolution scree. <br/>
+* TV Layout
+{{< img-simple src="tvLayout.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+* Laptop Layout
+{{< img-simple src="laptopLayout.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+* Tablet Layout
+{{< img-simple src="teblateLayout.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+* Mobile Layout
+{{< img-simple src="mobileLayout.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+
+
