@@ -56,7 +56,7 @@ In edit mode, user can perform three actions on dashboard:
 
   1. Settings: Configure widget visual and data settings. <br/>
     Once the user is done with selecting sensor parameters, they can configure few settings for better visual display of widgets. <br/>
-    Visual settings are mainly used to add title, subtitle, background color and for other visual settings of a widget.
+    Visual settings are mainly used to add title, background color and for other visual settings of a widget.<br/>
     {{< img-simple src="visualSettings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
   **Let's take an example to create a new widget step by step.**
