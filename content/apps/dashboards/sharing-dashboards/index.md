@@ -45,8 +45,8 @@ We can then share the link and password of the private dashboard.
 When someone opens the private dashboard with the link, first it will be prompt with the modal to enter password.
 {{< img-simple src="passowrdPopUp.PNG" alt="Dashboards app" class="border-0 rounded-circle" >}}
 After user enters the password, then they can view the dashboard as shown below
-{{< img-simple src="shared.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
-If the user forgot the password of the dashboard, then password can be revealed with the help of the MADS application password which user has used to logged in to the application.
+{{< img-simple src="shared.png" alt="Dashboards app" class="border-0 rounded-circle" >}} <br/>
+If the user forgot the password of the dashboard, then password can be revealed with the help of the MADS application password which user has used to logged in to the application. <br/>
 {{< img-simple src="passwordVisible.png" alt="Dashboards app" class="border-0 rounded-circle" >}} <br/>
 On clicking the reveal password, user will have to enter the password and then click on next button, after that password will be visible. <br/>
 {{< img-simple src="enterMadsPassword.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
@@ -58,7 +58,7 @@ When the dashboard is already shared as Public or Private, it can be changed to 
 If user wants to Change private dashboard to public, then first they have to click on public radio button and then enter the MADS application password as shown below. <br/>
 {{< img-simple src="changeAccess.png" alt="Dashboards app" class="border-0 rounded-circle" >}} <br/>
 Click on the save button, once password is verified, then the dashboard access will be changed to public. <br/>
-{{< img-simple src="changeAccessPassword.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+{{< img-simple src="changeAccessPassword.png" alt="Dashboards app" class="border-0 rounded-circle" >}} <br/>
 After changing the access of the dashboard, link will be the same, so all users with the link can view the dashboard without any password. <br/>
 {{< img-simple src="sharedPublic.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
