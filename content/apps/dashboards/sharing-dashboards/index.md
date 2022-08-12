@@ -69,7 +69,7 @@ After changing the access of the dashboard, link will be the same, so all users 
   2. User can share dashboard with single or multipel email ids <br/>
   Once emails are enterd, Email template will be shown as below, user can modify this template if he/she wants to.<br/>
   After template modification done, click on share button. <br/>
-  {{<img-simple src="emailTemplate.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+  {{<img-simple src="emailTemplate.png" alt="Dashboards app" class="border-0 rounded-circle" >}} <br/>
   Once the Sharing is completed, user can see the list of emails with dashboard was shared <br/>
   {{<img-simple src="sharedEmails.png" alt="Dashboards app" class="border-0 rounded-circle" >}} <br/>
   If user wants to revert access of perticular shared user, then user can delte that perticular shared emil id. <br/>
