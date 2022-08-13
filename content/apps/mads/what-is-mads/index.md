@@ -19,7 +19,7 @@ MADS is a 100% self-service no-code intuitive IoT platform for rapid implementat
 With MADS you are able to:
 
 * Define your multi-level IoT project hierarchy exactly as in the real world
-* Define the relation between your project entities ([assets]({{<ref "/apps/entity-manager/creating-assets">}}) and [sensors]({{<ref "/apps/entity-manager/creating-sensors">}}))
+* Define the relation between your project entities ([assets]({{<ref "/apps/entity-manager/assets">}}) and [sensors]({{<ref "/apps/entity-manager/sensors">}}))
 * Provision IoT gateways (devices) for your IoT streaming data
 * Collect and visualize data from your assets and sensors
 * Perform aggregated trend analytics on historical data
