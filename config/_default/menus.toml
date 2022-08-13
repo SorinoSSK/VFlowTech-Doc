@@ -60,7 +60,7 @@
 
   [[apps]]
   name = "Cockpit"
-  weight = 10
+  weight = 210
   identifier = "cockpit"
   url = "/apps/cockpit/"
 
