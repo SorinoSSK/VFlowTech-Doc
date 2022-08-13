@@ -58,15 +58,21 @@
   identifier = "digital-twin"
   url = "/apps/digital-twin/"
 
+  [[apps]]
+  name = "Cockpit"
+  weight = 10
+  identifier = "cockpit"
+  url = "/apps/cockpit/"
+
 [[apps]]
   name = "Help"
-  weight = 210
+  weight = 220
   identifier = "help"
   url = "/apps/help/"
 
 [[apps]]
   name = "Prologue"
-  weight = 220
+  weight = 230
   identifier = "prologue"
   url = "/apps/prologue/"
 
