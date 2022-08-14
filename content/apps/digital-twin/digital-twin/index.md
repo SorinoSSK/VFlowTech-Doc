@@ -13,6 +13,9 @@ toc: true
 ---
 
 ## Introduction
+Digital Twin app helps us to design a virtual model which accurately reflects a physical object. The object being studied — for example, a wind turbine — is outfitted with various sensors related to vital areas of functionality. These sensors produce data about different aspects of the physical object’s performance, such as energy output, temperature, weather conditions and more. This data is then relayed to a processing system and applied to the digital copy. 
+
+Once informed with such data, the virtual model can be used to run simulations, study performance issues and generate possible improvements, all with the goal of generating valuable insights — which can then be applied back to the original physical object.
 
 Look out for this icon for the Digital Twin app.
 
@@ -32,8 +35,10 @@ In the Digital Twin app, there is a sidebar menu with the following icon.
 
 The icons mean the following (L to R):
 
-1. [3D Model](#3d-model)
+1. [Open](#open)
 
-## 3D Model
+## Open
 
-About 3d Model
+This is the main section of the Digital twin app. You can find it's icon in the below image. Once we click it, we will see the listing page where we can see all the Digital Twins. As we can see in the image, we can perform multiple actions like creating a Digital Twin, edit, delete and search.
+
+{{< img-simple src="digital-twin-open.png" alt="Digital Twin open section" class="border-0 rounded-circle" >}}
