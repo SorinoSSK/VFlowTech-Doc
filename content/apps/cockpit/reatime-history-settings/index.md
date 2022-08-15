@@ -22,10 +22,12 @@ After clicking on the icon, Realtime Historical settings model will be opened. T
 {{< img-simple src="history-model.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
 ### Realtime settings
-set realtime settings...
+With the help of following settings can be updated.
+1. Last hours
+2. Data aggregation function
+3. Grouping interval
 {{< img-simple src="realtime-setting.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 ### History Settings
-set history settings...
 {{< img-simple src="history-setting.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 History Settings are divided into two parts.
@@ -34,7 +36,16 @@ History Settings are divided into two parts.
 2. Absolute Settings
 
 
-**Relative Settings**
+**Relative Settings** <br/>
+With the help of following settings can be updated.
+1. Last hours
+2. Data aggregation function
+3. Grouping interval
 {{< img-simple src="relative-setting.png" alt="Dashboards app" class="border-0 rounded-circle" >}}<br/>
-**Absolute Settings**
+
+**Absolute Settings**<br/>
+With the help of following settings can be updated.<br/>
+1. User can select date range<br/>
+2. Data aggregation function<br/>
+3. Grouping interval<br/>
 {{< img-simple src="absolute-setting.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
