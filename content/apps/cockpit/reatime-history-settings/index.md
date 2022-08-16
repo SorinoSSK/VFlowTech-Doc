@@ -1,5 +1,5 @@
 ---
-title: "Realtime History Settings"
+title: "Realtime Historical Settings"
 description: ""
 date: 2022-08-12T13:28:03+08:00
 lastmod: 2022-08-12T13:28:03+08:00
@@ -13,9 +13,9 @@ toc: true
 ---
 
 Realtime Historical settings is used to change the dashboard widgets data timeframe.
-Timeframe can be Realtime or History.
+Timeframe can be Realtime or Historical.
 
-User can update these with the help of action as shown below.
+User can update these settings with the help of action as shown below.
 {{< img-simple src="history-icon.png" alt="MADS login page" class="border-0 rounded-circle" >}}<br/>
 
 After clicking on the icon, Realtime Historical settings model will be opened. This is used when user want to view the realtime data with the help of widgets.
@@ -27,7 +27,7 @@ With the help of following settings can be updated.
 2. Data aggregation function
 3. Grouping interval
 {{< img-simple src="realtime-setting.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
-### History Settings
+### Historical Settings
 {{< img-simple src="history-setting.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 History Settings are divided into two parts.
