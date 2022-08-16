@@ -55,3 +55,7 @@ This section will list the recently opened dashboards by the user.
 
 This section will list all of the dashboards and user can view if the dashboard is shared public or private.
 {{< img-simple src="dashboard-share.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+## Delete
+
+This section will list all of the dashboards and user can delete the dashboard on clicking delete icon as show below.
+{{< img-simple src="dashboard-delete.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
