@@ -70,6 +70,11 @@
   identifier = "prologue"
   url = "/apps/prologue/"
 
+[[apps]]
+  name = "Streams"
+  weight = 80
+  identifier = "streams"
+  url = "/apps/streams/"
 
 
 [[showcase]]
