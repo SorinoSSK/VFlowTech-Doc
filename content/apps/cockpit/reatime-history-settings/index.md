@@ -18,7 +18,7 @@ Timeframe can be Realtime or Historical.
 User can update these settings with the help of action as shown below.
 {{< img-simple src="history-icon.png" alt="MADS login page" class="border-0 rounded-circle" >}}<br/>
 
-After clicking on the icon, Realtime Historical settings model will be opened. This is used when user want to view the realtime data with the help of widgets.
+After clicking on the icon, Realtime Historical settings model will be opened. This is used when user want to view/change the Realtime/Historical data settings of the enire panel.
 {{< img-simple src="history-model.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
 ### Realtime settings
