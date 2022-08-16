@@ -47,7 +47,7 @@ Things we can do using Entity Manager App:
 2) Custom assets and sensors
 3) Custom metadata and parameters
 4) Easy interactive entity map UI
-
+5) Custom alert rules, see [Alert Rule]({{<ref "apps/entity-manager/settings/index.md">}})
 ## Entity Map
 
 The second tab in Entity Manager app is Entity Map which is a visual representation of a project's hierarchy. Every project has one entity map.
