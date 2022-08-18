@@ -38,6 +38,8 @@ The icons mean the following (L to R):
 1. [Topology](#topology)
 2. [Gateways](#gateways)
 
+We can also create the alert rules for the sensor parameters, see [Alert Rule]({{<ref "apps/iot-manager/settings/index.md">}})
+
 ## Topology
 
 The toplogy feature shows the hierarchy of assets, sensors and gateways. The main idea behind it is to show the users how the assets and sensors are placed with respect to gateways in the physical world. \

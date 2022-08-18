@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Download Dashboard Report"
 description: ""
 date: 2021-02-21T14:13:02+08:00
@@ -10,7 +10,7 @@ menu:
     parent: "dashboards"
 weight: 5080
 toc: true
----
+--- -->
 
 User can download a dashboard report in CSV, XLSX, PDF format. <br/>
 

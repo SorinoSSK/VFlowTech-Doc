@@ -18,16 +18,22 @@ Timeframe can be Realtime or Historical
 User can update these with the help of action as shown below.
 {{< img-simple src="realtime-historical-action.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
+After clicking on the icon, Realtime Historical settings right panel will be opened. This is used when user want to view the realtime data with the help of widgets.
+{{< img-simple src="realtime-historical-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
+
 ### Realtime settings
-
 {{< img-simple src="realtime-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
-This is used when user want to view the realtime data with the help of widgets.
+### History Settings
+{{< img-simple src="history-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
-### Historical Settings
+History Settings are divided into two parts.
 
-Relative Settings
+1. Relative Settings
+2. Absolute Settings
+
+**Relative Settings**
 {{< img-simple src="historical-relative-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
-Absolute Settings
+**Absolute Settings**
 {{< img-simple src="historical-absolute-settings.png" alt="Dashboards app" class="border-0 rounded-circle" >}}
 
 **Note** <br/>
