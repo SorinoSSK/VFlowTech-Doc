@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "FAQ "
 description: "Answers to frequently asked questions about MADS."
 date: 2021-02-21T13:29:27+08:00
 lastmod: 2021-02-21T13:29:27+08:00
