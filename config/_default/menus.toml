@@ -59,6 +59,12 @@
   url = "/apps/digital-twin/"
 
   [[apps]]
+  name = "Report Wizard"
+  weight = 110
+  identifier = "reports"
+  url = "/apps/reports/"
+
+  [[apps]]
   name = "Cockpit"
   weight = 210
   identifier = "cockpit"

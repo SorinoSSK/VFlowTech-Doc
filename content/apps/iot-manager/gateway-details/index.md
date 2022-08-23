@@ -61,7 +61,7 @@ The parameters tab helps to set `static` and `dynamic` parameters for a gateway.
 
 ### Parameter Mapping
 
-The parameter mapping is a very important feature which allows to create a mapping between the incoming JSON payload and the sensor parameters in the system. Parameter gives a structure way incoming data is stored in the platform. Detailed information is provided about this feature on the [Parameter Mapping](({{<ref "apps/iot-manager/parameter-mapping/index.md">}})) document.
+The parameter mapping is a very important feature which allows to create a mapping between the incoming JSON payload and the sensor parameters in the system. Parameter gives a structure way incoming data is stored in the platform. Detailed information is provided about this feature on the [Parameter Mapping]({{<ref "/apps/iot-manager/parameter-mapping">}}) document.
 
 {{< img-simple src="gateway-detail-parameter-mapping.png" alt="Parameter Mapping" class="border-0 rounded-circle" >}}
 
@@ -74,6 +74,6 @@ We can see the realtime logs and errors in every 5 seconds if we turn on `auto-s
 
 ### Sensor
 
-The sensor page shows all the sensors connected to the gateway. The connected sensors are automatically inferred from the parameter mapping page. All the sensors whose parameters are mapped to a gateway are considered connected to the gateway. See [Parameter Mapping](({{<ref "apps/iot-manager/parameter-mapping/index.md">}})) for detailed info.
+The sensor page shows all the sensors connected to the gateway. The connected sensors are automatically inferred from the parameter mapping page. All the sensors whose parameters are mapped to a gateway are considered connected to the gateway. See [Parameter Mapping]({{<ref "/apps/iot-manager/parameter-mapping">}}) for detailed info.
 
 {{< img-simple src="gateway-sensors.png" alt="Gateway Sensors" class="border-0 rounded-circle" >}}
