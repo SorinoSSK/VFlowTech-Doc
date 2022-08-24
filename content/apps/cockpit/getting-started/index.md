@@ -14,7 +14,7 @@ toc: true
 
 
 ## Dashboard
-The login page of Cockpit is [https://cockpit-staging1.netlify.app/#/login](https://cockpit-staging1.netlify.app/#/login)
+The login page of Cockpit is [https://cockpit.mads-iot.com/](https://cockpit.mads-iot.com/)
 {{< img-simple src="cockpit-login.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
 After login cockpit screen look like below

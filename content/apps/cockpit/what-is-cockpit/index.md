@@ -17,4 +17,4 @@ toc: true
 Cockpit is one such platform that allows you to share MADS-STUDIO dashboards via **Share by Cockpit** option with the members allowing them to see the exact view. <br/>
 
 In cockpit user can only see/visualize the shared dashboard, User can not change any additional settings of widgets or panels. <br/>
-User can only change the Realtime Historical Settings of a perticualr panel.
+User can only change the Realtime Historical Settings of a particular panel.
