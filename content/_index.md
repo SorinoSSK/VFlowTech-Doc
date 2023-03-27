@@ -1,5 +1,5 @@
 ---
-title : "MADS IoT Platform"
+title : "VFT IoT Platform"
 description: "100% self-service, no-code, intuitive IoT platform for 500x rapid implementation of enterprise IoT projects."
 lead: "100% self-service, no-code, intuitive IoT platform for 500x rapid implementation of enterprise IoT projects."
 date: 2020-10-06T08:47:36+00:00

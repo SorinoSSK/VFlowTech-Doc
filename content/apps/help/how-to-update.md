@@ -1,7 +1,7 @@
 ---
 title: "How to Update"
-description: "Regularly update MADS."
-lead: "Regularly update MADS."
+description: "Regularly update VFT."
+lead: "Regularly update VFT."
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
@@ -13,11 +13,11 @@ weight: 99610
 toc: true
 ---
 
-{{< alert icon="💡" text="Learn more about <a href=\"http://mads-iot.com\">MADS</a> and <a href=\"http://datakrew.com\">Datakrew</a>." >}}
+{{< alert icon="💡" text="Learn more about <a href=\"http://vft-iot.com\">VFT</a> and <a href=\"http://datakrew.com\">Datakrew</a>." >}}
 
-## Update MADS
+## Update VFT
 
-To update MADS run:
+To update VFT run:
 
 ```bash
 mads update
