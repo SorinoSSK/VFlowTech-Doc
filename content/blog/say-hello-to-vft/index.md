@@ -12,4 +12,4 @@ contributors: ["To be changed"]
 
 ## No code IoT Platform
 
-VFT is a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects. It enables quick development, management, and scaling of IoT projects. VFT is available both as an on-cloud and on-premises solution. 💚
+VFlowTech is a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects. It enables quick development, management, and scaling of IoT projects. VFT is available both as an on-cloud and on-premises solution. 💚
