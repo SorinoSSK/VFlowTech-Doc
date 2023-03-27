@@ -5,15 +5,19 @@
 </p>
 
 <h1 align="center">
-  MADS
+  VFlowTech
 </h1>
 
 <h3 align="center">
-  IoT Platform
+  Energy System
 </h3>
 
 <p align="center">
   Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
+</p>
+
+<p align="center">
+  The site serve as a documentation for VFlowTech Energy system and is modified from Datakrew.
 </p>
 
 <p align="center">
@@ -73,10 +77,14 @@ Doks uses npm to install dependencies and run commands. Installing npm is pretty
 
 Start a new Doks project in three steps:
 
-### 1. Create a new site
+### 1.1 Create a new site
 
 ```bash
 git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
+```
+### 1.1 Existing site
+```bash
+git clone git@github.com:SorinoSSK/VFlowTech-Doc.git
 ```
 
 ### 2. Install dependencies
