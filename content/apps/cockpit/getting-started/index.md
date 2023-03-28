@@ -14,7 +14,7 @@ toc: true
 
 
 ## Dashboard
-The login page of Cockpit is [https://cockpit.mads-iot.com/](https://cockpit.mads-iot.com/)
+The login page of Cockpit is [https://cockpit.vflowtechiot.com/](https://cockpit.vflowtechiot.com/)
 {{< img-simple src="cockpit-login.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
 After login cockpit screen look like below

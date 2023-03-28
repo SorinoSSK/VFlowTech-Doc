@@ -19,7 +19,7 @@ schemaType = "Organization"
 schemaLogo = "vft-square-logo.png"
 #schemaTwitter = "https://twitter.com/datakrew"
 #schemaLinkedIn = "https://linkedin.com/company/datakrew"
-#schemaGitHub = "https://github.com/datakrewtech"
+#schemaGitHub = "https://github.com/VFlowTech/VFT-Energy-System"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -43,7 +43,7 @@ alert = true
 alertText = "Like VFT? <a class=\"alert-link\" style=\"color:#fcf003;\" href=#>Star on GitHub</a>!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/DataKrewTech/VFT-Docs"
+docsRepo = "https://github.com/VFlowTech/VFT-Energy-System"
 editPage = false
 
 # Google Analytics
