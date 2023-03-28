@@ -15,7 +15,7 @@ toc: true
 
 ## Problems with MADS
 
-Contact us at [datakrew.com/contact](https://datakrew.com/contact.html)
+Contact us at [datakrew.com/contact](https://vflowtech.com/vflowtech-contact/)
 
 ## Problems with everything else
 
