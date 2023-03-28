@@ -12,15 +12,15 @@ weight: 1030
 toc: true
 ---
 
-VFT is a 100% self-service no-code intuitive IoT platform for rapid implementation of enterprise IoT projects. It enables quick development, management, and scaling of IoT projects. VFT is available both as an on-cloud and on-premises solution.
+VFT is a 100% self-service no-code intuitive Energy System Management for rapid implementation of enterprise Energy System projects. It enables quick development, management, and scaling of Energy System projects. VFT is available both as an on-cloud and on-premises solution.
 
 ## Feature Highlights
 
 With VFT you are able to:
 
-* Define your multi-level IoT project hierarchy exactly as in the real world
+* Define your multi-level Energy System project hierarchy exactly as in the real world
 * Define the relation between your project entities ([assets]({{<ref "/apps/entity-manager/assets">}}) and [sensors]({{<ref "/apps/entity-manager/sensors">}}))
-* Provision IoT gateways (devices) for your IoT streaming data
+* Provision Energy System gateways (devices) for your Energy System streaming data
 * Collect and visualize data from your assets and sensors
 * Perform aggregated trend analytics on historical data
 * Analyze incoming sensor data and trigger alarms with customizable event rules
@@ -37,9 +37,9 @@ The simplest way to understand the building blocks of an IoT project is:
 
 Hardware → Communication → Software Backend → Applications
 
-The **VFT Core** sits in the *Software Backend* layer, does all the heavy lifting, and interacts with the **VFT Frontend** ie. the *Applications* layer through a set of APIs. We call the combined VFT Core and Frontend experience the VFT Platform. Now talking about the layers below – VFT supports major IoT *Communication* protocols such as HTTPS, MQTT, CoAP, and it agnostic to the IoT *Hardware*, commonly referred to as device or gateway. This means VFT can ingest data from any hardware source (sensors, gateways, devices of any brand, of any output type ie. RS485, 4-20mA, 0-10V, pulse, etc., over any channel ie. WiFi, 3G/4G, LoRaWAN, Sigfox, NB-IoT, Satellite, etc.) as long as they are communicating over the supported protocols (HTTPS, MQTT, CoAP).
+The **VFT Core** sits in the *Software Backend* layer, does all the heavy lifting, and interacts with the **VFT Frontend** ie. the *Applications* layer through a set of APIs. We call the combined VFT Core and Frontend experience in the VFT Platform. Now talking about the layers below – VFT supports major IoT *Communication* protocols such as HTTPS, MQTT, and it agnostic to the IoT *Hardware*, commonly referred to as device or gateway. This means VFT can ingest data from any hardware source (sensors, gateways, devices of any brand, of any output type ie. RS485, 4-20mA, 0-10V, pulse, etc., over any channel ie. WiFi, 3G/4G, LoRaWAN, Sigfox, NB-IoT, Satellite, etc.) as long as they are communicating over the supported protocols (HTTPS, MQTT).
 
-The VFT platform consists of multiple blocks responsible for handling different aspects needed to run a complete IoT platform (as shown in the figure below). And one of the most important user-facing blocks is the VFT AppStore. VFT is an app-based platform with a very intuitive OS-like UI.
+The VFT platform consists of multiple blocks responsible for handling different aspects needed to run a complete Energy System (as shown in the figure below). And one of the most important user-facing blocks is the VFT AppStore. VFlowTech Energy System is an app-based platform with a very intuitive OS-like UI.
 
 The apps in the VFT AppStore can be segregated into six categories:
 

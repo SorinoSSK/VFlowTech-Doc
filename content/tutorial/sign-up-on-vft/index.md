@@ -1,6 +1,6 @@
 ---
 title: "0. Sign up on VFT"
-description: "ISign up on VFT."
+description: "Sign up on VFT."
 lead: "Sign up on VFT."
 date: 2020-11-18T08:20:35+01:00
 lastmod: 2020-11-18T08:20:35+01:00

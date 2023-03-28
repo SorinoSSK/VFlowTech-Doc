@@ -105,7 +105,7 @@
 
 [[main]]
   name = "Apps"
-  url = "/apps/vft/what-is-iot/"
+  url = "/apps/vft/what-is-vft/"
   weight = 10
 
 [[main]]

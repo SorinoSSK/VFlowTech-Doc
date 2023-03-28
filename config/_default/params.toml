@@ -7,18 +7,18 @@ titleAddition = "Energy System"
 description = "100% self-service, no-code, intuitive IoT platform for 500x rapid implementation of enterprise IoT projects."
 
 ## Open Graph + Twitter Cards
-images = ["vft-card-1280x638.png"]
-twitterSite = "datakrew"
-twitterCreator = "datakrew"
-facebookAuthor = "datakrewtech"
-facebookPublisher = "datakrewtech"
+images = [""]
+twitterSite = ""
+twitterCreator = ""
+facebookAuthor = ""
+facebookPublisher = ""
 ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
 schemaLogo = "vft-square-logo.png"
-#schemaTwitter = "https://twitter.com/datakrew"
-#schemaLinkedIn = "https://linkedin.com/company/datakrew"
+#schemaTwitter = ""
+#schemaLinkedIn = ""
 #schemaGitHub = "https://github.com/VFlowTech/VFT-Energy-System"
 schemaSection = "blog"
 
@@ -36,14 +36,14 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-# footer = "A Product of <a href=\"https://datakrew.com/\">Datakrew</a>"
+footer = "A Product of <a href=\"https://github.com/VFlowTech/VFT-Energy-System/blob/master/LICENSE\">VFlowTech</a>"
 
 # Alert
 alert = true
 alertText = "Like VFT? <a class=\"alert-link\" style=\"color:#fcf003;\" href=#>Star on GitHub</a>!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/VFlowTech/VFT-Energy-System"
+docsRepo = "https://github.com/VFlowTech/VFT-Energy-System/"
 editPage = false
 
 # Google Analytics

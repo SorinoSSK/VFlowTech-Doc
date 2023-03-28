@@ -14,7 +14,7 @@ toc: true
 
 ## Introduction
 
-Role Manager App helps us in defining user roles and manage user-level access control to MADS apps and actions within the apps.
+Role Manager App helps us in defining user roles and manage user-level access control to VFT apps and actions within the apps.
 
 Look out for this icon for the Role Manager app. Role Manager is the first app you should know about.
 
@@ -32,7 +32,7 @@ In the Role Manager app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="role-manager-menu.png" alt="Role Manager menu" class="border-0 rounded-circle" >}}
 
-The icons mean the following (L to R):
+The icons mean the following (Left to Right):
 
 1. [User Groups](#user-groups)
 2. [Users](#users)
@@ -66,7 +66,7 @@ It contains the user groups list with their Names, Policies and Actions. In the 
 
 {{< img-simple src="role-manager-add-user-group-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-On the top right of User Groups list there is a button to Add User Group. Clicking on that button will open an Add User Group modal, using which we can add User Groups. (Discussed in Creating User Groups section)
+On the top right of User Groups list there is a button to Create New User Group. Clicking on that button will open an Add User Group modal, using which we can add User Groups. (Discussed in Creating User Groups section)
 
 ## Users
 

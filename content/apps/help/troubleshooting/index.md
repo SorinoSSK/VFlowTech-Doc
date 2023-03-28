@@ -13,9 +13,9 @@ weight: 99620
 toc: true
 ---
 
-## Problems with MADS
+## Problems with VFlowTech Energy System
 
-Contact us at [datakrew.com/contact](https://vflowtech.com/vflowtech-contact/)
+Contact us at [VFlowTech/contact](https://vflowtech.com/vflowtech-contact/)
 
 ## Problems with everything else
 
