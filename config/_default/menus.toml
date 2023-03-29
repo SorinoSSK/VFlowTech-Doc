@@ -70,11 +70,11 @@
   identifier = "cockpit"
   url = "/apps/cockpit/"
 
-[[apps]]
-  name = "Help"
-  weight = 220
-  identifier = "help"
-  url = "/apps/help/"
+#[[apps]]
+#  name = "Help"
+#  weight = 220
+#  identifier = "help"
+#  url = "/apps/help/"
 
 #[[apps]]
 #  name = "Prologue"
@@ -118,10 +118,10 @@
   url = "/showcase/"
   weight = 30
 
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 40
+#[[main]]
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 40
 
 # [[main]]
 #   name = "Community"
