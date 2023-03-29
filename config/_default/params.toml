@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "A Product of <a href=\"https://vflowtech.com/vflowtech-contact/">VFlowTech</a>"
+footer = "A Product of <a href=\"https://vflowtech.com/vflowtech-contact/\">VFlowTech</a>"
 
 # Alert
 alert = true
