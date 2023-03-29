@@ -7,7 +7,7 @@ draft: false
 images: []
 menu:
   apps:
-    parent: "vft"
+    parent: "vft-energy-system"
 weight: 1070
 toc: true
 ---

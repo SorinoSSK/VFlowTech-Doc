@@ -1,5 +1,5 @@
 ---
-title: "VFT Apps"
+title: "VFT Energy System Apps"
 description: ""
 date: 2021-03-07T19:51:17+08:00
 lastmod: 2021-03-07T19:51:17+08:00
@@ -7,12 +7,12 @@ draft: false
 images: []
 menu:
   apps:
-    parent: "vft"
+    parent: "vft-energy-system"
 weight: 1050
 toc: true
 ---
 
-VFT works on an Apps ecosystem which come from an AppStore. These apps allow users to perform different actions necessary in a complete IoT project. Below is a summary of some key apps and things you can do with them.
+VFT works on an Apps ecosystem which come from an AppStore. These apps allow 	users to integrate VFlowTech Energy Storage products. Below is a summary of some key apps and things you can do with them.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,7 +59,7 @@ VFT works on an Apps ecosystem which come from an AppStore. These apps allow use
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky"><a href="/apps/iot-manager/iot-manager">IoT Manager</a></td>
-    <td class="tg-0pky">Configure and actuate devices and gateways. Manage firmware updates, JSON mapping and heartbeats.<br><br><i>Things you can do:</i><br>1) Hardware agnostic<br>2) HTTP, MQTT, CoAP support<br>3) Custom JSON mapping<br>4) Command and OTA updates<br></td>
+    <td class="tg-0pky">Configure and actuate devices and gateways. Manage firmware updates, JSON mapping and heartbeats.<br><br><i>Things you can do:</i><br>1) Hardware agnostic<br>2) HTTP, MQTT support<br>3) Custom JSON mapping<br>4) Command and OTA updates<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>

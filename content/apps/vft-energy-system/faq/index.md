@@ -7,7 +7,7 @@ draft: false
 images: []
 menu:
   apps:
-    parent: "vft"
+    parent: "vft-energy-system"
 weight: 1080
 toc: true
 ---
@@ -15,7 +15,7 @@ toc: true
 ## General FAQ
 
 **Q. What is VFT?**<br>
-**A.** VFT is a no-code Energy System Management for rapid implementation of large-scale enterprise Energy System projects. For more read – [What is VFT?]({{<ref "/apps/vft/what-is-vft">}})
+**A.** VFT is a no-code Energy System Management for rapid implementation of large-scale enterprise Energy System projects. For more read – [What is VFT?]({{<ref "/apps/vft-energy-system/what-is-vft">}})
 
 **Q. Who should use VFT?**<br>
 **A.** VFT should be used by companies who want to implement in-house Energy System projects; and also by Energy System solution providers and services companies who offer Energy System solutions and services to their customers.
@@ -24,13 +24,13 @@ toc: true
 **A.** VFT has the building blocks (apps) and multiple different Energy System unit to support any enterprise Energy System project.  
 
 **Q. Why should I use VFT?**<br>
-**A.** Because VFT cuts down Energy System development and customization time from weeks to hours (500x). For more read – [Why use VFT?]({{<ref "/apps/vft/why-use-vft">}})
+**A.** Because VFT cuts down Energy System development and customization time from weeks to hours (500x). For more read
 
 **Q. Who owns VFT?**<br>
 **A.** The VFT platform base (aka the VFT OS) is open source, copyright under license the GNU General Public License v3.0 to VFlowTech Pte. Ltd. Singapore. Some VFT apps are bundled with the platform. Other apps could be proprietory.
 
 **Q. How can I signup for VFT?**<br>
-**A.** See [Getting Started]({{<ref "/apps/vft/getting-started">}}).
+**A.** See [Getting Started]({{<ref "/apps/vft-energy-system/getting-started">}}).
 
 ## Technical FAQ
 
