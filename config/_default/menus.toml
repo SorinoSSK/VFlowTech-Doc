@@ -1,8 +1,8 @@
 [[apps]]
-  name = "VFT"
+  name = "VFT Energy System"
   weight = 10
-  identifier = "vft"
-  url = "/apps/vft/"
+  identifier = "vft-energy-system"
+  url = "/apps/vft-energy-system/"
 
 [[apps]]
   name = "Role Manager"
@@ -76,11 +76,11 @@
   identifier = "help"
   url = "/apps/help/"
 
-[[apps]]
-  name = "Prologue"
-  weight = 230
-  identifier = "prologue"
-  url = "/apps/prologue/"
+#[[apps]]
+#  name = "Prologue"
+#  weight = 230
+#  identifier = "prologue"
+#  url = "/apps/prologue/"
 
 [[apps]]
   name = "Streams"
@@ -105,7 +105,7 @@
 
 [[main]]
   name = "Apps"
-  url = "/apps/vft/what-is-vft/"
+  url = "/apps/vft-energy-system/what-is-vft/"
   weight = 10
 
 [[main]]

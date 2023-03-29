@@ -4,7 +4,7 @@
 title = "VFT"
 titleSeparator = "-"
 titleAddition = "Energy System"
-description = "100% self-service, no-code, intuitive IoT platform for 500x rapid implementation of enterprise IoT projects."
+description = "VFT Energy System is Cloud based Solution for our Energy Storage Products."
 
 ## Open Graph + Twitter Cards
 images = [""]
@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "A Product of <a href=\"https://github.com/VFlowTech/VFT-Energy-System/blob/master/LICENSE\">VFlowTech</a>"
+footer = "A Product of <a href=\"https://vflowtech.com/vflowtech-contact/">VFlowTech</a>"
 
 # Alert
 alert = true
