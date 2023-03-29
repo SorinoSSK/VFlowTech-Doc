@@ -151,13 +151,3 @@ The second tab is Sensor Types which contains the sensor type list with their Na
 {{< img-simple src="sensor-type-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
 On the top right of Sensor Types list there is a button to Add sensor type. Clicking on that button will open an Add Sensor Type modal, using which we can add Sensor Type.
-
-## Activity
-
-Activity is the fifth tab in Entity Manager app.
-
-{{< img-simple src="activity.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
-
-Click on this icon to open Activity Tab.
-
-{{< img-simple src="activity-tab.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}

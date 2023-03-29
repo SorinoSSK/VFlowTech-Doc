@@ -21,13 +21,13 @@ After login cockpit screen look like below
 {{< img-simple src="cockpit-screen.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
 User can Select Organization by clicking on perticular organization show as below.<br/>
-For ex: Datakrew Singapore 
+For ex: Testing 
 {{< img-simple src="select-organization.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
 Logout icon.
 {{< img-simple src="cockpit-logout.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
-User can view the shared dashboards from MADS-STUDIO and select a dashboard to view by clicking eye icon.
+User can view the shared dashboards from VFlowTech Energy System and select a dashboard to view by clicking eye icon.
 {{< img-simple src="dashboard-view.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
 After clicking on eye icon user will see shared dashboard widget section.
@@ -44,7 +44,7 @@ User can search dashboard.<br/>
 User can logout by clicking a down arrow present at the top right corner of the dashboard header, after that drop down will be open and click Log Out.
 {{< img-simple src="dashboard-header.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 
-## Dashboars sidebar
+## Dashboard sidebar
 
 User can go back to select organization screen clicking Back button present at the buttom of the dashboard sidebar as show below.
 {{< img-simple src="back.png" alt="MADS login page" class="border-0 rounded-circle" >}}
