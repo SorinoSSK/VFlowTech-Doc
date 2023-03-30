@@ -24,10 +24,6 @@ To create the alert rules, we have to go to the settings tab from the side bar.
 
 {{< img-simple src="setting-btn-select.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Then we have to select the particular project for which we have to create the alert rules.
-
-{{< img-simple src="select-project.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
-
 The Alert rules list contains name of the rule(Rule name), date it was created(Created at), severity, alert actions, status, and action buttons
 
 {{< img-simple src="alert-rule-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}

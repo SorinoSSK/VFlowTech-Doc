@@ -42,7 +42,7 @@ In the last section named Metadata (Fixed Data), Metdata list of selected Asset 
 
 This is how we create Assets.
 
-## Editing a Asset
+## Editing an Asset
 
 {{< img-simple src="edit-assets-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -60,9 +60,9 @@ If we want to change the position of assets, we have to click on second section 
 
 And if we want to edit the Metadata (Fixed Data), Metdata list of selected Asset is displayed.
 
-After entering the details, clicking on save button will edit a Asset for us.
+After entering the details, clicking on save button will edit an Asset for us.
 
-## Deleting a Asset
+## Deleting an Asset
 
 {{< img-simple src="delete-assets-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -72,7 +72,7 @@ Clicking on delete asset button will open up a Confirm modal.
 
 If we click on yes then the specific asset will be deleted.
 
-## Viewing a Asset
+## Viewing an Asset
 
 {{< img-simple src="view-assets-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -82,7 +82,7 @@ Clicking on view asset button will open up a view modal.
 
 View modal contains the asset information such as Asset name, description, properties, metadata.
 
-## Duplicating a Asset
+## Duplicating an Asset
 
 If we already have an Asset with required Asset Type, then we can simply duplicate the asset by clicking on the duplicate icon in the actions column.
 

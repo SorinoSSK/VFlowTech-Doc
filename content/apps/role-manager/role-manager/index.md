@@ -14,7 +14,7 @@ toc: true
 
 ## Introduction
 
-Role Manager App helps us in defining user roles and manage user-level access control to VFT apps and actions within the apps.
+Role Manager App helps us in defining user roles and manage user-level access control to VFT Energy System apps and actions within the apps.
 
 Look out for this icon for the Role Manager app. Role Manager is the first app you should know about.
 
