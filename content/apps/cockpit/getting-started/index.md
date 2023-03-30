@@ -38,9 +38,7 @@ Three actions are perform in header<br/>
 
 **1. Cockpit Logo :**
 User can see cockpit logo present at the top left of the dashboard header.<br/>
-**2. Search Dashboard :**
-User can search dashboard.<br/>
-**3. Logout :** 
+**2. Logout :** 
 User can logout by clicking a down arrow present at the top right corner of the dashboard header, after that drop down will be open and click Log Out.
 {{< img-simple src="dashboard-header.png" alt="MADS login page" class="border-0 rounded-circle" >}}
 

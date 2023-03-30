@@ -4,7 +4,7 @@
 title = "VFT-ES"
 titleSeparator = "-"
 titleAddition = "Energy System"
-description = "VFT Energy System is Cloud based Solution for our Energy Storage Products."
+description = "VFT Energy System (VFT-ES) is a Cloud based Solution for our Energy Storage Products."
 
 ## Open Graph + Twitter Cards
 images = [""]
