@@ -14,7 +14,7 @@ toc: true
 
 ## Introduction
 
-The DataInsights app is the one which is responsible for aggregated data analytics and visualisation, historical trends or future forecasts of IoT data. Using this app, we gather data, then transform them into something useful which can be presented visually so that the user can interpret about what data is telling. Also, we store these visual representations created by user so that they can refer it in the future, if they wants to access it again.
+The DataInsights app is the one which is responsible for aggregated data analytics and visualisation, historical trends or future forecasts of VFlowTech Energy System data. Using this app, we gather data, then transform them into something useful which can be presented visually so that the user can interpret about what data is telling. Also, we store these visual representations created by user so that they can refer it in the future, if they wants to access it again.
 
 To use the app look out for the following icon
 

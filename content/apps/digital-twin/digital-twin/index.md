@@ -39,6 +39,6 @@ The icons mean the following (L to R):
 
 ## Open
 
-This is the main section of the Digital twin app. You can find it's icon in the below image. Once we click it, we will see the listing page where we can see all the Digital Twins. As we can see in the image, we can perform multiple actions like creating a Digital Twin, edit, delete and search.
+This is the main section of the Digital twin app. You can find it's icon in the image below. Once we click on it, we will see a listing page where we can see all Digital Twins. As we can see in the image, we can perform multiple actions like creating a Digital Twin, delete and search.
 
 {{< img-simple src="digital-twin-open.png" alt="Digital Twin open section" class="border-0 rounded-circle" >}}

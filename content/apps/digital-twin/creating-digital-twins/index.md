@@ -18,11 +18,11 @@ To create a Digital Twin, click on the `Create New Digital Twin` button as shown
 
 {{< img-simple src="digital-twin-create.png" alt="Digital Twin create button" class="border-0 rounded-circle" >}}
 
-Clicking on it will open a sidebar like shown in below image. Enter name of new Digital Twin and then click `Done` button.
+Clicking on it will open a popup panel as shown in the image below. Enter name of new Digital Twin and then click `Save` button.
 
 {{< img-simple src="digital-twin-create-sidebar.png" alt="Digital Twin create sidebar" class="border-0 rounded-circle" >}}
 
-Once we click on `Done button`, detail page will open as shown in below image. Here we can see the sidebar on the left and editor on the right side. There are two modes - Edit and Preview.
+Once we click on `Save` button, a detail page will open as shown in below image. Here we can see the sidebar on the left and editor on the right side. There are two modes - Edit and Preview.
 
 Once we land on detail page, by default it shows Preview mode where we can do read only operations. To enable Edit mode, click on the `Edit` button on the top right.
 
@@ -32,7 +32,7 @@ So once we click on `Edit` button, we will see few more icons on the header sect
 
 {{< img-simple src="digital-twin-header-icons.png" alt="Digital Twin header icons" class="border-0 rounded-circle" >}}
 
-These icons mean the following (L to R):
+These icons mean the following (Left to Right):
 
 1. [Upload Image]({{< ref "upload-images" >}})
 2. [Marker]({{< ref "marker" >}})

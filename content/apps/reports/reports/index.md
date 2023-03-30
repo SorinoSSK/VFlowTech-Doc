@@ -31,7 +31,7 @@ In the Reports app, there is a sidebar menu with the following icon.
 
 {{< img-simple src="report-menu.png" alt="Report menu" class="border-0 rounded-circle" >}}
 
-The icons mean the following (L to R):
+The icons mean the following (Left to Right):
 
 1. [Reports](#report)
 2. [Excel](#excel)

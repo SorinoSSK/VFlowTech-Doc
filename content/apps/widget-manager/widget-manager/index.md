@@ -30,7 +30,7 @@ In the Widget Manager app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="widget-manager-menu.png" alt="Widget Manager menu" class="border-0 rounded-circle" >}}
 
-The icons mean the following (L to R):
+The icons mean the following (Left to Right):
 
 1. [Widget Store](#widget-store)
 2. [My Widgets](#my-widgets)
