@@ -14,7 +14,7 @@ toc: true
 
 ## Introduction
 
-An asset is any physical object or space that is of interest in an IoT project. Examples of assets could be building, ship, factory, solar panel, wind turbine, truck, fridge, motor, pump, generator, inverter, compressor, gearbox, etc. An asset can child other assets below it, thus creating an asset hierarchy.
+An asset is any physical object or space that is of interest in a VFlowTech Energy System project. Examples of assets could be building, ship, factory, solar panel, wind turbine, truck, fridge, motor, pump, generator, inverter, compressor, gearbox, etc. An asset can child other assets below it, thus creating an asset hierarchy.
 
 ## Creating an Asset
 
