@@ -14,9 +14,11 @@ toc: true
 
 ## Introduction
 
-The DataInsights app is the one which is responsible for aggregated data analytics and visualisation, historical trends or future forecasts of VFlowTech Energy System data. Using this app, we gather data, then transform them into something useful which can be presented visually so that the user can interpret about what data is telling. Also, we store these visual representations created by user so that they can refer it in the future, if they wants to access it again.
+<p style="text-align: justify;">
+The Data Insights app allows aggregated data analytics and visualisation, historical trends or future forecasts of VFlowTech Energy System data. Using this app, we can gather data and transform them into something useful that can be presented visually so that users can understand what the data is representing. We can also store these visual representations created by user so that they can refer it later.
+</p>
 
-To use the app look out for the following icon
+The icon below denotes Data Insights app.
 
 {{< img-simple src="data-insights.png" alt="Data Insights app" class="border-0 rounded-circle" >}}
 
@@ -24,11 +26,15 @@ You can find it in the appbar as shown below.
 
 {{< img-simple src="data-insights-in-appbar.png" alt="Data Insights icon in the appbar" class="border-0 rounded-circle" >}}
 
-Click on this icon to launch the Data Insights app. The Data Insights app will open, and default tab is the `Home` tab, as in the image below.
+<p style="text-align: justify;">
+Clicking on this icon will launch the Data Insights app. The Data Insights app will be opened, and default tab will be the `Home` tab as shown in the image below.
+</p>
 
 {{< img-simple src="data-insights-home.png" alt="Data Insights home" class="border-0 rounded-circle" >}}
 
+<p style="text-align: justify;">
 In the Data Insights app, there is a sidebar menu with the following icon.
+</p>
 
 {{< img-simple src="data-insights-menu.png" alt="Data Insights menu" class="border-0 rounded-circle" >}}
 
@@ -36,22 +42,32 @@ In the Data Insights app, there is a sidebar menu with the following icon.
 
 ## Analyzer
 
-Analyzer is where user creates analysis table using data-source(database) and then on the basis of the analysis table, they can create visualizations for visual representations of data.
+<p style="text-align: justify;">
+Analyzer is where user creates analysis table using data from data-sources(database) and create a visualisation for a visual representation of data using the basis of an analysis table.
+</p>
 
-In order to proceed, user first has to choose respective project like this:
+<p style="text-align: justify;">
+In order to proceed, user first has to access a project:
+</p>
 
 1. Click on the Analyzer icon in the left sidebar
 2. Choose a project
 
 {{< img-simple src="project_listing.png" alt="Project listing" class="border-0 rounded-circle" >}}
 
-All the Analysis and visualuzations are grouped on the basis of project, so in order to do analysis user has to select respective project.
+<p style="text-align: justify;">
+All analysis and visualuzations are grouped by the basis of project. Therefore, in order to perform an analysis, the user has to select the intended project.
+</p>
 
-On clicking any of the projects you will be able to see list of analysis tables in the project like below
+<p style="text-align: justify;">
+By clicking on a project, you will be able to view a list of analysis tables of the project as shown below.
+</p>
 
 {{< img-simple src="analysis-table-list.png" alt="Analysis Table listing" class="border-0 rounded-circle" >}}
 
-Analysis Table listing shows the following information about Analysis Table:
+<p style="text-align: justify;">
+The list of Analysis Table displays the following information about it:
+</p>
 
 - `Analysis Table`: Name of the analysis table
 - `Made By`: Analysis Table's creator name
