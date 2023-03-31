@@ -11,9 +11,9 @@ menu:
 weight: 1050
 toc: true
 ---
-
+<p style="text-align: justify;">
 VFT works on an Apps ecosystem which come from an AppStore. These apps allow 	users to integrate VFlowTech Energy Storage products. Below is a summary of some key apps and things you can do with them.
-
+</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Jost,Century Gothic,CenturyGothic,AppleGothic, Arial, sans-serif;font-size:17px;

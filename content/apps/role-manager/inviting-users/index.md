@@ -14,38 +14,48 @@ toc: true
 
 ## Introduction
 
-As we’ve already discussed, Users contains two tabs - Users and Invites. Users and Invites tab contains of list of Users and Invites respectively.
+<p style="text-align: justify;">
+As discussed previously, Users contains two sub tabs - Users and Invites. Users and Invites tab contains of list of Users and Invites respectively.
+</p>
 
-In order to invite a User, we first need to create a User Group for that. [[Read more in previous section]]({{<ref "/apps/role-manager/creating-user-groups">}})
+In order to invite a User, we will need to create a User Group first. 
+
+[[Read more in previous section]]({{<ref "/apps/role-manager/creating-user-groups">}})
 
 ## Inviting a User
 
-Now to invite a user, we need to be in Users tab.
+To invite a user, we need to be in Users tab.
 
 {{< img-simple src="role-manager-users-list.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-On the top right of Users list, there is an Invite User button.
+At the top right corner of Users list, there is an <b>Invite New User</b> button.
 
 {{< img-simple src="role-manager-invite-user-button.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on this button will open up a modal. The Add asset modal contains two sections - Details and Apps.
+<p style="text-align: justify;">
+Clicking on <b>Invite New User</b> button will open up a modal. The add user modal contains two sub sections - Details and Apps.
+</p>
 
 {{< img-simple src="add-user-modal-1.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named Details, we have to enter the email that we want to invite and select a User Group using a dropdown which shows all the user groups that we’ve created. We can also select multiple user groups. Click on next button after entering the details.
+<p style="text-align: justify;">
+In the first section, <b>Details</b> secton; we have to enter the email of the user that we wanted to invite and select a User Group using the dropdown menu. The dropdown menu will display all the user groups that we have created for selection. We are able to select multiple user groups. We will click on the next button after entering the details.
+</p>
 
 {{< img-simple src="add-user-modal-2.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-In the next section named Apps, there is a list of apps and action items. The apps and action items shown here which are already present in the selected user group are in disabled state. Here we can also select apps and action items which are not present in the selected User Group which will not be in disabled state. Clicking on save button will send an email invite to user.
+<p style="text-align: justify;">
+In the next section named Apps, a list of apps and action items will be displayed. The apps and action items displayed will have apps and action items pre-selected according to the user group we have select on the previous section. In this section, we can also select apps and action items which are not preset in the selected User Group which will not be in disabled state. Clicking on save button will send an email invite to user.
+</p>
 
 {{< img-simple src="role-manager-invites-list1.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-After the invitation is sent, the invited email gets listed in the Invites tab.
+After the invitation is sent, the invited email get listed in the <b>Invites</b> tab.
 
-It contains the Invites list with their Email, Level, Status and Actions. In the Actions column, we have options to delete and re-invite users.
+<p style="text-align: justify;">
+The invites tab contains a list user invited into the organisation along with their Email, Level, Status and Actions. In the <b>Actions</b> column, we have options to delete and re-invite users.
+</p>
 
-Clicking on re-invite button will again send an email invite to user.
+Clicking on re-invite button will send an email invite to user again.
 
-When a user accepts the email invitation, then it is shown up in the Users list.
-
-This is how we invite Users.
+When a user accepts the email invitation, the user will be moved to the Users list from the invite list.
