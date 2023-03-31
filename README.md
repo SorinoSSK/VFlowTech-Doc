@@ -19,7 +19,9 @@
 <p align="center">
   The site serve as a documentation for VFlowTech Energy system and is modified from Datakrew.
 </p>
-
+<p align="center">
+  The hosted site can be found here: https://vftdocs.netlify.app/
+</p>
 <p align="center">
   <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
