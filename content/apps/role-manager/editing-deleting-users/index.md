@@ -24,7 +24,7 @@ Clicking on edit user button will open up a modal. The Edit user modal contains 
 
 {{< img-simple src="role-manager-edit-user-modal1.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named Details, we canedit the email that we want to invite and editthe  User Group using a dropdown which shows all the user groups that we’ve created. We can also select multiple user groups.
+In the first section named Details, we canedit the email that we want to invite and edit the  User Group using a dropdown which shows all the user groups that we’ve created. We can also select multiple user groups.
 
 {{< img-simple src="role-manager-edit-user-modal2.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
@@ -36,7 +36,7 @@ After entering the details, clicking on save button will edit a User for us.
 
 {{< img-simple src="role-manager-delete-user-btn.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on delete user button will open up a Confirm modal.
+Clicking on delete user button will open up a confirm modal.
 
 {{< img-simple src="role-manager-delete-user-modal.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 

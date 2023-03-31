@@ -1,7 +1,7 @@
 ---
-title: "0. Sign up on VFT"
-description: "ISign up on VFT."
-lead: "Sign up on VFT."
+title: "0. Sign up on VFT Energy System"
+description: "Sign up on VFT Energy System."
+lead: "Sign up on VFT Energy System."
 date: 2020-11-18T08:20:35+01:00
 lastmod: 2020-11-18T08:20:35+01:00
 draft: false
@@ -13,7 +13,7 @@ weight: 020
 toc: true
 ---
 
-## Sign up on VFt
+## Sign up on VFT  Energy System
 
 This page is under construction, and will be up in no time.
 

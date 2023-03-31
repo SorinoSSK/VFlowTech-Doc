@@ -42,7 +42,7 @@ Then clicking on next will take us to the next section named Metadata (Fixed Dat
 
 After entering the details, clicking on save button will create an Asset Type for us.
 
-## Editing a Asset type
+## Editing an Asset type
 
 {{< img-simple src="edit-asset-type-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -56,9 +56,9 @@ In the first section named Details, we can edit the Asset Type name and it's des
 
 And if we want to edit the Metadata (Fixed Data), Metdata list of selected Asset is displayed.
 
-After entering the details, clicking on save button will edit a Asset type for us.
+After entering the details, clicking on save button will edit an Asset type for us.
 
-## Deleting a Asset type
+## Deleting an Asset type
 
 {{< img-simple src="delete-asset-type-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -68,7 +68,7 @@ Clicking on delete asset type button will open up a Confirm modal.
 
 If we click on yes then the specific asset type will be deleted.
 
-## Viewing a Asset type
+## Viewing an Asset type
 
 {{< img-simple src="view-asset-type-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -78,7 +78,7 @@ Clicking on view asset type button will open up a view modal.
 
 View modal contains the asset type information such as Name, description, parameters, metadata.
 
-## Duplicating a Asset type
+## Duplicating an Asset type
 
 {{< img-simple src="duplicate-asset-type-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 

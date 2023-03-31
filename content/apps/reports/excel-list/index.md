@@ -45,7 +45,7 @@ In file type section, we have to select the type of file in which we want to dow
 
 ## Sheet Preferences
 
-In sheet preference section, we have select the sheet preference as how the sensor data will be visible in the excel sheets. Currently only one option is available `Create multiple sheets by Project.Gateway name` (In this we get the excel with separate sheet as per the gateways. Suppose we selected 2 sensors one is from `Windy Heights/Building Red/Apt Red 11/Energy Mtr Red 11` and other is `Mukesh/LDR/LDR`, so we get 2 different sheets in the excel as per gateway name i.e `Building Red` and `Mukesh`, both sheets contains particular data for the selected sensor.
+In sheet preference section, we have select the sheet preference as how the sensor data will be visible in the excel sheets. Currently only one option is available `Create multiple sheets by Project.Gateway name` (In this we get the excel with separate sheet as per the gateways. Suppose we selected 2 sensors one is from `JTC Cleantech 1/VFLOW_10kW_Cleantech/PCS1_dc_volts` and other is `JTC Cleantech 1/5kW_Unit1_Sensor/pcs1FaultStatus`, so we get 2 different sheets in the excel as per gateway name i.e `VFLOW_10kW_Cleantech` and `5kW_Unit1_Sensor`, both sheets contains particular data for the selected sensor.
 
 Other preferences will be coming soon i.e `Merge into a single sheet with one timestamp column` and `Merge into a single sheet with multiple timestamp columns by Project.Gateway name`.
 

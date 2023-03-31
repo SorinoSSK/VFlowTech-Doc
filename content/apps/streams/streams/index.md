@@ -13,7 +13,7 @@ images: []
 
 ## Introduction
 
-Stream app lets user to manipulate incoming event to MADS's by creating pipelines.
+Stream app allows user to manipulate incoming event or data to Gateways within VFlowTech Energy System by creating pipelines.
 Stream app uses various action node to perform different operations.
 
 Look out for this icon for the Streams app.

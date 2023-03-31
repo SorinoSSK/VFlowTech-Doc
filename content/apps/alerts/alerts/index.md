@@ -30,25 +30,10 @@ In the Alerts app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="alerts-menu.png" alt="Alerts menu" class="border-0 rounded-circle" >}}
 
-The icons mean the following (L to R):
+The icons mean the following (Left to Right):
 
 1. [Inbox](#inbox)
-2. [Projects](#projects)
-3. [Apps](#apps)
-4. [Logs](#logs)
 
 ## Inbox
-
-This feature is work in progress, and will be released in a future version.
-
-## Projects
-
-This feature is work in progress, and will be released in a future version.
-
-## Apps
-
-This feature is work in progress, and will be released in a future version.
-
-## Logs
 
 This feature is work in progress, and will be released in a future version.

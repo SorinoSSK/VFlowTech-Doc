@@ -15,7 +15,7 @@ toc: true
 
 ## Introduction
 
-As we’ve already discussed, project list contains 4 actions - Edit, Delete, View and archive.
+As we’ve already discussed, project list contains 4 actions - Edit, Delete, View and Archive.
 
 ## Editing a Project
 
@@ -41,7 +41,7 @@ After Changing the details, clicking on save button will edit a Project for us.
 
 {{< img-simple src="delete-project-btn.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on delete project button will open up a Confirm modal.
+Clicking on delete project button will open up a confirm modal.
 
 {{< img-simple src="delete-project-modal.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
@@ -55,7 +55,7 @@ Clicking on view project button will open up a view modal.
 
 {{< img-simple src="view-project-modal.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-View modal contains the project information such as Name, description, members, manager, metadata, location.
+View modal contains the project information such as Name, Description, Members, Manager, Metadata, Location.
 
 ## Archiving and UnArchiving a Project
 
@@ -65,9 +65,9 @@ In the Active projects list, there is an actions column which has an icon to Arc
 
 {{< img-simple src="archive-project.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on this icon will archive the project and move it to Archived projects list.
+Clicking on this icon will archive the project and move it to archived projects list.
 
-Similarly, in the Archived projects list, there is an actions column which has an icon to UnArchive a project.
+Similarly, in the archived projects list, there is an actions column which has an icon to UnArchive a project.
 
 {{< img-simple src="unarchive-project.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 

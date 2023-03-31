@@ -14,15 +14,15 @@ toc: true
 
 ## Create a Report
 
-To create a Report, click on the `Create New Report` button as shown in below image.
+To create a Report, click on the `Create Blank Report` button as shown in below image.
 
 {{< img-simple src="create-new-report.png" alt="Report create button" class="border-0 rounded-circle" >}}
 
-Clicking on it will open a sidebar like shown in below image. Enter name of new Report and then click `Apply Changes` button.
+Clicking on it will open a popup window as shown in the image below. Enter name of new Report and then click `Save` button.
 
 {{< img-simple src="create-new-report-sidebar.png" alt="Report create sidebar" class="border-0 rounded-circle" >}}
 
-Once we click on `Apply Changes button`, detail page will open as shown in below image. Here we can see the sidebar on the left and editor on the right side.
+Once we click on `Save`, detail page will open as shown in below image. Here we can see the sidebar on the left and editor on the right side.
 
 {{< img-simple src="report-details.png" alt="Reports detail page" class="border-0 rounded-circle" >}}
 
@@ -30,7 +30,7 @@ In Reports details page, we have various options like Save, download or schedule
 
 For downloading the report, we have to click on download button from the report detail page and report will be downloaded in PDF format.
 
-Repost sidebar icons mean the following (T to B):
+Repost sidebar icons mean the following (Top to Bottom):
 
 1. [Elements]({{< ref "elements" >}})
 2. [Widgets]({{< ref "widgets" >}})

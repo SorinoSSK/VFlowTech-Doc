@@ -1,12 +1,12 @@
 name = "MADS Docs"
 license = "MIT"
-licenselink = "https://github.com/DataKrewTech/MADS-Docs/blob/master/LICENSE"
+licenselink = "https://github.com/VFlowTech/VFT-Energy-System/blob/master/LICENSE"
 description = "MADS user documentation"
-homepage = "https://mads-iot.netlify.app/"
+homepage = "https://vftdocs.netlify.app/"
 tags = ["landing page", "documentation", "blog", "minimal", "modern", "customizable", "search", "dark mode", "bootstrap"]
 features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "dark mode"]
 min_version = "0.75.0"
 
 [author]
-  name = "Datakrew"
-  homepage = "https://mads-iot.netlify.app/"
+  name = "VFlowTech"
+  homepage = "https://vftdocs.netlify.app/"

@@ -63,7 +63,7 @@ If we want to change the position of sensor, we have to click on second section 
 
 {{< img-simple src="edit-sensor3.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-And if we want to edit the Metadata (Fixed Data), Metdata list of selected Sensor is displayed.
+And if we want to edit the Metadata (Fixed Data), Metdata list of selected Sensor is displayed. (If any)
 
 After entering the details, clicking on save button will edit a Sensor for us.
 

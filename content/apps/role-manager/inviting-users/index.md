@@ -16,7 +16,7 @@ toc: true
 
 As we’ve already discussed, Users contains two tabs - Users and Invites. Users and Invites tab contains of list of Users and Invites respectively.
 
-In order to invite a User, we first need to create a User Group for that. (Discussed in previous section)
+In order to invite a User, we first need to create a User Group for that. [[Read more in previous section]]({{<ref "/apps/role-manager/creating-user-groups">}})
 
 ## Inviting a User
 

@@ -14,7 +14,7 @@ toc: true
 
 ## Introduction
 
-Role Manager App helps us in defining user roles and manage user-level access control to MADS apps and actions within the apps.
+Role Manager App helps us in defining user roles and manage user-level access control to VFT Energy System apps and actions within the apps.
 
 Look out for this icon for the Role Manager app. Role Manager is the first app you should know about.
 
@@ -32,7 +32,7 @@ In the Role Manager app, there is a sidebar menu with the following icons.
 
 {{< img-simple src="role-manager-menu.png" alt="Role Manager menu" class="border-0 rounded-circle" >}}
 
-The icons mean the following (L to R):
+The icons mean the following (Left to Right):
 
 1. [User Groups](#user-groups)
 2. [Users](#users)
@@ -41,10 +41,10 @@ The icons mean the following (L to R):
 
 Things we can do using Role Manager App:
 
-1) Custom user roles and groups
-2) Permission management
-3) App level action control
-4) Monitor user logs and reports
+1. Custom user roles and groups
+2. Permission management
+3. App level action control
+4. Monitor user logs and reports
 
 ## User Groups
 
@@ -62,11 +62,11 @@ User Groups tab will open up, and it'll show all the created User Groups.
 
 {{< img-simple src="role-manager-user-group-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-It contains the user groups list with their Names, Policies and Actions. In the Actions column, we have options to edit and delete user groups(Discussed in Editing and deleting User Groups section).
+It contains the user groups list with their Names, Policies and Actions. In the Actions column, we have options to edit and delete user groups [[Read more in Editing and deleting User Groups section]]({{<ref "/apps/role-manager/editing-and-deleting-user-groups">}}).
 
 {{< img-simple src="role-manager-add-user-group-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-On the top right of User Groups list there is a button to Add User Group. Clicking on that button will open an Add User Group modal, using which we can add User Groups. (Discussed in Creating User Groups section)
+On the top right of User Groups list there is a button to Create New User Group. Clicking on that button will open an Add User Group modal, using which we can add User Groups. [[Read more in Creating User Groups section]]({{<ref "/apps/role-manager/creating-user-groups">}})
 
 ## Users
 
@@ -86,7 +86,7 @@ User tab contains the users list with their Names, Role, User Groups and Actions
 
 {{< img-simple src="role-manager-invite-user-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-On the top right of Users list there is a button to Invite User. Clicking on that button will open an Invite User modal, using which we can invite Users. (Discussed in Inviting Users section)
+On the top right of Users list there is a button to Invite User. Clicking on that button will open an Invite User modal, using which we can invite Users. [[Read more in Inviting Users section]]({{<ref "/apps/role-manager/inviting-users">}})
 
 {{< img-simple src="role-manager-invites-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
@@ -110,18 +110,8 @@ Active tab contains the list of active projects with their Names, Managers, Memb
 
 {{< img-simple src="role-manager-add-project-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-On the top right of active projects list there is a button to Add Project. Clicking on that button will open an Add Project modal, using which we can add projects. (Discussed in Creating Projects section)
+On the top right of active projects list there is a button to Add Project. Clicking on that button will open an Add Project modal, using which we can add projects. [[Read more in Creating Projects section]]({{<ref "/apps/role-manager/creating-projects">}})
 
 {{< img-simple src="role-manager-archived-projects.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
 The second tab is Archived Projects which contains the list of Archived Projects with their Names, Managers, Members, Metadata, Locations and Actions. In the Actions column, we have options to edit, delete, unarchive and view active projects. There is a search bar to search for archived projects.
-
-## Activity
-
-Activity is the fifth tab in Role Manager app.
-
-{{< img-simple src="role-manager-activity.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
-
-Click on this icon to open Activity Tab.
-
-{{< img-simple src="role-manager-activity-tab.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
