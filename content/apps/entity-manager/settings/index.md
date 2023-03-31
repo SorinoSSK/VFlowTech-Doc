@@ -14,97 +14,145 @@ toc: true
 
 ## Introduction
 
-Alert rules are the rules that are sent to the email ids or phone numbers if the specific condition is matched for the particular sensor or sensor type parameters. 
+<p style="text-align: justify;">
+Alert rules is a function that allows the creation of rules to send notification to a person. Users can set these rules to send an email, sms or whatsapp message when certain conditions are met. For instance, if the water in a pipe flows faster than a certain amount per minute, a notification will be sent out.
+</p>
 
-When we create alert rules in sensor types, the alert rule is applied to all the sensors that are part of the particular sensor type. 
+<p style="text-align: justify;">
+When an alert rules is created with sensor types, the conditions of the alert rule will be applied to all the sensors within the particular sensor type. 
+</p>
 
-When we create alert rules in sensors, the alert rule is applied to the particular sensor. 
+<p style="text-align: justify;">
+However, if the alert rules is created with sensors, the alert rule is applied only to the particular sensor. 
+</p>
 
-To create the alert rules, we have to go to the settings tab from the side bar.
+<p style="text-align: justify;">
+We can access settings tab from the sidebar to create an alert rule.
+</p>
 
 {{< img-simple src="setting-btn-select.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-The Alert rules list contains name of the rule(Rule name), date it was created(Created at), severity, alert actions, status, and action buttons
+<p style="text-align: justify;">
+The alert rules tab contain a list of rules along with their name (Rule name), the date it was created (Created at), severity, alert actions, status, and action buttons.
+</p>
 
 {{< img-simple src="alert-rule-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
 ## Creating an Alert rule
 
-Now to create an alert rule, we click on the Add rule button.
+<p style="text-align: justify;">
+To create an alert rule, we will click on the <b>Add Rules</b> button.
+</p>
 
 {{< img-simple src="add-alert-rule-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on this button will open a modal. The Add alert rule modal contains three sections: Details, Conditions, and Actions.
+<p style="text-align: justify;">
+Clicking on <b>Add Rules</b> button will open a modal. The add alert rule modal contains 3 sub sections: Details, Conditions, and Actions.
+</p>
 
 {{< img-simple src="add-alert-rule-1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named "Details," we have to add the alert rule name, rule severity(Low, medium, or high) and the message.
+<p style="text-align: justify;">
+In the first section named Details, we have to enter the name of the alert rule, rule severity (Low, medium, or high), and the message.
+</p>
 
 {{< img-simple src="add-alert-rule-2-1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the next section named Conditions, there are two tabs: policy and grouping.
+<p style="text-align: justify;">
+In the next section named Conditions, there are 2 tabs: policy and grouping.
+</p>
 
-In the policy tab, we have to select the sensor or sensor type and then select the parameters of the particular sensor or sensor type. In the parameter sections, we have 3 options, i.e.
+<p style="text-align: justify;">
+In the policy tab, we can select the sensor or sensor type and the parameters of the particular sensor or sensor type. In the parameter selection, we have 3 options, e.g.
+</p>
 
-1. Send an alert when data is outside the bound range.(In this section, we define the parameter's upper and lower bounds.)
-2. Send an alert if the data exceeds the upper limit.(In this we define the upper value for the parameter).
+1. Send an alert when data is outside the bound range. (In this section, we define the parameter's upper and lower bounds.)
+2. Send an alert if the data exceeds the upper limit. (In this we define the upper value for the parameter).
 3. Send an alert if the data falls below the lower threshold. (In this, we define the lower value for the parameter).
 
-If the condition is matched with the selected dropdown, then the alert rule will be fired.
+<p style="text-align: justify;">
+The alert rule will only be activated when conditions set in the parameter selection have been met.
+</p>
 
-After adding the policy, click on the Next button.
+After adding the policy, click on the <b>Next</b> button.
 
 {{< img-simple src="add-alert-rule-2-2.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the grouping tab, we can fire alerts in the groups at a particular time interval. 
+<p style="text-align: justify;">
+In the grouping tab, we can define the time interval of a notification that will be sent when the conditions are met. For instance, if the room temperature exceeds 40 degrees Celcius, a notification will be sent every minute.
+</p>
 
-After adding the grouping time interval, first click on Done at the top right corner, then click on the Next button at the bottom right corner.
+<p style="text-align: justify;">
+Click on <b>Done</b> at the top right corner, then click on <b>Next</b> button at the bottom right corner after setting the values in the grouping tab.
+</p>
 
 {{< img-simple src="add-alert-rule-3-1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the last section named Actions, there are two tabs: Media and Recipients. 
+<p style="text-align: justify;">
+In the last section named Actions, there are 2 tabs: Media and Recipients. 
+</p>
 
-In the Media tab, we can select how we want to send the alerts via SMS or email. 
+<p style="text-align: justify;">
+In the Media tab, we can select how we want the alerts to be sent. E.g. SMS, email, or whatsapp. 
+</p>
 
-After selecting the media, click on the Next button, which is at the top right corner.
+<p style="text-align: justify;">
+After selecting the media, click on <b>Next</b> button, which is at the top right corner.
+</p>
 
 {{< img-simple src="add-alert-rule-3-2.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the Recipients tab, we can add phone numbers or email IDs where the alert rules will be sent. 
+<p style="text-align: justify;">
+In the Recipients tab, we can add phone numbers or emails for alert rules to be sent to. 
+</p>
 
-After adding the recipients, click on the Done button at the top right corner and then click on the Save button to add the alert rule. 
-
-This is how we create alert rules.
+<p style="text-align: justify;">
+Click on <b>Done</b> button at the top right corner and then click on <b>Save</b> button to add the alert rule after the recipients have been added. 
+</p>
 
 ## Editing a Alert rule
 
 {{< img-simple src="edit-modal-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on edit alert rule button will open up a modal. The modal contains three sections: details, conditions, and actions.
+<p style="text-align: justify;">
+Clicking on edit alert rule button will open up a modal. The modal contains 3 sub sections: details, conditions, and actions.
+</p>
 
 {{< img-simple src="edit-alert-rule-1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named "Details," we can edit the alert rule name, rule severity(Low, medium, or high), and the message.
+<p style="text-align: justify;">
+In the first section named Details, we can modify the name of the alert rule, rule severity (Low, medium, or high), and the message.
+</p>
 
 {{< img-simple src="edit-alert-rule-2-1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
 {{< img-simple src="edit-alert-rule-2-2.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-If we want to change the policy or grouping interval for the alert rule, then we have to click on the second section, i.e., condition, and then we can edit the parameters condition and also the time interval for grouping alerts.
+<p style="text-align: justify;">
+If we require to change the policy or grouping interval of the alert rule, we have to access the second section, condition, where we can modify the parameter's condition and the time interval for the alerts.
+</p>
 
 {{< img-simple src="edit-alert-rule-3-1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 {{< img-simple src="edit-alert-rule-3-2.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-And if we want to edit the media or recipients, then we have to click on the third section, i.e., actions, and then we can add or remove the media and recipients. 
+<p style="text-align: justify;">
+If we require to modify the media or recipients, we have to access the third section, actions, where we can add, edit or remove media and recipients. 
+</p>
 
-After entering the details, clicking on the save button will edit the alert rule for us.
+<p style="text-align: justify;">
+After entering the details and clicking on the save button, the modification on the alert rule will be saved.
+</p>
 
 ## Deleting a Alert rule
 
 {{< img-simple src="delete-modal-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on the delete alert rule button will open up a confirm modal.
+<p style="text-align: justify;">
+Clicking on the delete alert rule button will open up a confirmation modal.
+</p>
 
 {{< img-simple src="delete-modal.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-If we click on yes, then the specific alert rule will be deleted.
+<p style="text-align: justify;">
+If we click on <b>yes</b>, the specific alert rule will be deleted.
+</p>
