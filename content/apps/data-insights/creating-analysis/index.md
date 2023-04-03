@@ -14,15 +14,21 @@ toc: true
 
 ## Overview
 
-Inorder to create visualizations, user needs to create analysis table in the Data Insights app. Analysis table is the central data-source with multiple columns, that serves as the base table for generating different types of visualuzations. So, we can say that analysis table can have multiple visualizations.
+<p style="text-align: justify;">
+In order to create visualizations, users have to create an analysis table within the Data Insights app. Analysis table is the central data-source containing multiple columns, that serves as the base table for generating different types of visualuzations. Therefore, we can declare that an analysis table can contain multiple visualizations.
+</p>
 
 ### Create an Analysis Table
 
-To create analysis table, navigate to the analysis listing page. On this page, on the right side you'll find Add Analysis Table, upon clicking on this button a model'll appear to fill in the analysis table name
+<p style="text-align: justify;">
+To create an analysis table, navigate to the analysis listing page. On the right side of this page, you will find <b>Add Analysis Table</b>. Upon clicking on this button, a model will be displayed and users have to enter the name of the analysis table.
+</p>
 
 {{< img-simple src="analysis-table-create.png" alt="Analysis Table Create" class="border-0 rounded-circle" >}}
 
-Upon clicking on save button, an analysis table will be created with the specified name, and user'll be redirected to the Analysis Page
+<p style="text-align: justify;">
+Upon clicking on save button, an analysis table will be created and user will be redirected to the Analysis Page.
+</p>
 
 {{< img-simple src="analysis-table-show.png" alt="Analysis Table Show" class="border-0 rounded-circle" >}}
 
@@ -47,19 +53,28 @@ Left Section shows entities of the project, which is again divided into two comp
 
 #### Show Topology
 
-On clicking Show Topology button, shows the hierarchy of entities like asset_types and sensor_types. The main idea
-behind it is to show the users connection between all the asset_types and the sensor_types of the project in the physical world.
+<p style="text-align: justify;">
+Upon clicking on <b>Show Topology</b> button, the hierarchy of entities like asset_types and sensor_types will be displayed. The main idea behind this is to show the connection between all the asset_types and the sensor_types of the project in the physical world.
+</p>
 
-On clicking Show Topology button, topology modal'll open like this:
+<p style="text-align: justify;">
+Upon clicking on <b>Show Topology</b> button, topology modal will be opened as shown below.
+</p>
 
 {{< img-simple src="show-topology.png" alt="Show Topology" class="border-0 rounded-circle" >}}
 
+<p style="text-align: justify;">
 Right Section consists of the columns placeholder, where user can drag and drop asset-types and sensor-types's metadata from the left side, doing so will look something like this:
+</p>
 
 {{< img-simple src="column-metadata.png" alt="Column Metadata" class="border-0 rounded-circle" >}}
 
+<p style="text-align: justify;">
 After user has dragged and dropped the entities, they need to click on the Build button to generate the data.
+</p>
 
 {{< img-simple src="table-data.png" alt="Analysis Table With Data" class="border-0 rounded-circle" >}}
 
-So, in this way our analysis table gets populated with data. There is one more thing user can do, they can add more columns or reduce columns, but they have to again click on the Build button after making such changes.
+<p style="text-align: justify;">
+Thus the analysis table will be populated with data. There is one more thing user can do, they can add more columns or reduce columns, but they have to again click on the Build button after making such changes.
+</p>

@@ -11,5 +11,6 @@ menu:
 weight: 1030
 toc: true
 ---
-
-VFT Energy System is Cloud based Solution for our Energy Storage Products. PowerCube is the Latest Edition To VFlow-Tech’s Line Of Vanadium Redox Battery Products. Designed With Being User-Friendly In Mind, It Is Compact And Easy-To Use For Everyday Applications. In Addition To Being Safe And Non-Flammable, The Utilization Of Vanadium Redox Technology Grants Our Battery A Long Lifetime Of 25 Years Due To Its Avoidance Of Capacity Degradation. 
+<p style="text-align: justify;">
+VFT Energy System is a cloud based solution for our Energy Storage products. PowerCube is the latest edition to VFlow-Tech’s line of Vanadium Redox Battery products. Designed with <b>user-friendliness</b> in mind, it is compact and <b>easy-to use</b> for everyday applications. In addition to being safe and non-flammable, the utilization of Vanadium Redox Technology grants our battery a long lifetime of <b>25 Years</b> due to its avoidance of capacity degradation.
+</p>

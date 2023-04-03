@@ -27,12 +27,14 @@
 				{{ partial "main/img.html" . }}
 			</div>
 			<h1>{{ .Title }}</h1>
-			<p class="lead">{{ .Params.lead | safeHTML }}</p>
+			<p class="lead" style="text-align: justify;">{{ .Params.lead | safeHTML }}</p>
 			{{ partial "main/headline-hash.html" .Content }}
-			<h2>Website</h2>
-			<ul>
-				<li><a href="{{ .Params.link }}">{{ strings.TrimLeft "https://" .Params.link }}</a></li>
-			</ul>
+			{{if .Params.EnableWebsite}}
+				<h2>Website</h2>
+				<ul>
+					<li><a href="{{ .Params.link }}">{{ strings.TrimLeft "https://" .Params.link }}</a></li>
+				</ul>
+			{{ end }}
 			<!-- {{ partial "main/edit-page.html" . }} -->
 			{{ partial "main/docs-navigation.html" . }}
 		</main>

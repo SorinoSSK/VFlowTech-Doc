@@ -7,6 +7,7 @@ lastmod: 2021-02-01T14:19:29+01:00
 draft: false
 images: ["VFTDashboard.png"]
 link: "/showcase/fivekw-energy-storage/VFTDashboard.png"
+EnableWebsite: false
 menu:
   showcase:
     parent: "solutions"

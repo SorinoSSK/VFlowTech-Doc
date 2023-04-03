@@ -14,88 +14,122 @@ toc: true
 
 ## Introduction
 
-A sensor is a device to measure some metric in its surroundings which is typically the asset on which the sensor is installed. With respect to the entity map, we can say that the sensor is the child of that asset.
+<p style="text-align: justify;">
+A sensor is a device to measure some information of its surroundings which is a device installed in an asset. With respect to the entity map, we can define that the sensor as a child of the asset it is installed in.
+</p>
 
 ## Creating a Sensor
 
-Now to create a Sensor, we need to be in Sensors tab.
+<p style="text-align: justify;">
+To create a sensor, we need to be in sensors tab.
+</p>
 
 {{< img-simple src="sensor-list.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Similar to Sensor Types, on the top right of Sensors list, there is an Add sensor button.
+<p style="text-align: justify;">
+Similar to sensor types, at the top right corner of sensor list, there is an add sensor button.
+</p>
 
 {{< img-simple src="sensor-button.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on this button will open a modal. The Add sensor modal contains tree sections - Details, Position and Metadata (Fixed Data).
+<p style="text-align: justify;">
+Clicking on <b>Add Sensor</b> button will open a modal. The add sensor modal contains 3 sub sections - Details, Position, and Metadata (Fixed Data).
+</p>
 
 {{< img-simple src="sensor-sec1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named Details, we have to select a sensor type using a dropdown which shows all the sensor types that we've created. Then we have to enter the sensor name and it's description (optional). Click on next button after entering the details.
+<p style="text-align: justify;">
+In the first section named Details, we can select a sensor type using the dropdown menu will display all the sensor types that we have created. Enter the sensor name, it's description (optional) and click on the next button.
+</p>
 
 {{< img-simple src="sensor-sec2.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the next section named Position, there is a dropdown to select the Sensors's Caretaker(s) and Sensors Hierarchy.
+<p style="text-align: justify;">
+In the next section named Position, there is a dropdown menu to select Sensors's Caretaker(s) and Sensors Hierarchy.
+</p>
 
 {{< img-simple src="sensor-sec3.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the last section named Metadata (Fixed Data), a list of selected Sensors Type's metadata is displayed. Clicking on save button will create a Sensor for us.
+<p style="text-align: justify;">
+In the last section named Metadata (Fixed Data), a list of selected Sensors Type's metadata will be displayed and by clicking on save button a sensor will be created.
+</p>
 
 {{< img-simple src="sensor-duplicate.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-If we already have a Sensor with required Sensor Type, then we can simply duplicate the sensor by clicking on the duplicate icon in the actions column. We just have to enter the new Sensor name and it'll create a sensor with the same properties of the sensor from which it was duplicated.
-
-This is how we create Sensors.
-
+<p style="text-align: justify;">
+If we have an existing sensor with the required Sensor Type, we can perform duplication of a sensor by clicking on the duplicate icon in the actions column. Entering the name of the new Sensor name will create a sensor with the same properties of the sensor which it was duplicated from.
+</p>
 
 ## Editing a Sensors
 
 {{< img-simple src="edit-sensor-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on edit sensors button will open up a modal. The modal contains two sections - Details, Position and Metadata(Fixed data).
+<p style="text-align: justify;">
+Clicking on edit sensors button will open up a modal. The modal contains 2 sub sections - Details, Position, and Metadata(Fixed data).
+</p>
 
 {{< img-simple src="edit-sensor1.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named Details, we can edit selected sensor type, sensor name and it's description (optional).
+<p style="text-align: justify;">
+In the first section named Details, we can modify the selected sensor type, sensor name, and it's description (optional).
+</p>
 
 {{< img-simple src="edit-sensor2.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-If we want to change the position of sensor, we have to click on second section i.e Position and edit the Sensor's Caretaker(s) and Sensor Hierarchy.
+<p style="text-align: justify;">
+If we require to change the position of the sensor, we have to access the second section. E.g Position and modify the Sensor's Caretaker(s) and Sensor Hierarchy.
+</p>
 
 {{< img-simple src="edit-sensor3.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-And if we want to edit the Metadata (Fixed Data), Metdata list of selected Sensor is displayed. (If any)
+<p style="text-align: justify;">
+If we require to modify the Metadata (Fixed Data), we can do that in the Metdata list as shown above. (If any)
+</p>
 
-After entering the details, clicking on save button will edit a Sensor for us.
+After entering the details and clicking on save button, modification of the Sensor will be saved.
 
 ## Deleting a Sensor
 
 {{< img-simple src="delete-sensor-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on delete sensor button will open up a Confirm modal.
+<p style="text-align: justify;">
+Clicking on delete sensor button will open up a confirmation modal.
+</p>
 
 {{< img-simple src="delete-sensor.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-If we click on yes then the specific sensor will be deleted.
+<p style="text-align: justify;">
+If we click on <b>yes</b>, the specific sensor will be deleted.
+</p>
 
 ## Viewing a Sensor
 
 {{< img-simple src="view-sensor-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
+<p style="text-align: justify;">
 Clicking on view sensor button will open up a view modal.
+</p>
 
 {{< img-simple src="view-sensor.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-View modal contains the sensor information such as Sensor name, description, parameter, parent type, sensor type, metadata and also Sensor data.
+<p style="text-align: justify;">
+View modal contains information of the sensor such as sensor name, description, parameter, parent type, sensor type, metadata and sensor data.
+</p>
 
 ## Duplicating a Sensor
 
-If we already have a Sensor with required Sensor Type, then we can simply duplicate the sensor by clicking on the duplicate icon in the actions column.
+<p style="text-align: justify;">
+If we have an existing sensor with required the sensor type, we can perform duplication of a sensor by clicking on the duplicate icon in the actions column.
+</p>
 
 {{< img-simple src="duplicate-sensor-btn.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
+<p style="text-align: justify;">
 Clicking on duplicate sensor button will open up a modal.
+</p>
 
 {{< img-simple src="duplicate-sensor.png" alt="Entity Manager app" class="border-0 rounded-circle" >}}
 
-We just have to enter the new Sensor name and it’ll create a sensor with the same properties of the sensor from which it was duplicated.
-
+<p style="text-align: justify;">
+Entering the new Sensor name will create a sensor with the same properties of the sensor which it was duplicated from.
+</p>

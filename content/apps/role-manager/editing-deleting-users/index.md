@@ -14,23 +14,33 @@ toc: true
 
 ## Introduction
 
-As we’ve already discussed, Users list contains 3 actions - Edit, Delete and View. After user accept the email invitation then it will be visible in the users list and we can edit, view or delete the specific user.
+<p style="text-align: justify;">
+As discussed previously, Users list contains 3 actions - Edit, Delete and View. After a user accepted the email invitation then the user details will be displayed in the users list and we can perform an edit, view or delete on the specific user.
+</p>
 
 ## Editing a User
 
 {{< img-simple src="role-manager-edit-user-btn.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-Clicking on edit user button will open up a modal. The Edit user modal contains two sections - Details and Apps.
+<p style="text-align: justify;">
+Clicking on edit user button will open up a modal. The Edit user modal contains two sub sections - Details and Apps.
+<p>
 
 {{< img-simple src="role-manager-edit-user-modal1.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-In the first section named Details, we canedit the email that we want to invite and edit the  User Group using a dropdown which shows all the user groups that we’ve created. We can also select multiple user groups.
+<p style="text-align: justify;">
+In the first section, <b>Details</b>, we can modify the email of the invited user and edit his User Group using a dropdown menu which display a list of the user groups that we have created. In the dropdown menu, we are able to select multiple user groups.
+</p>
 
 {{< img-simple src="role-manager-edit-user-modal2.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-And if we want to edit the list of apps for user, we have to click on second section i.e Apps and edit the list of apps and actions
+<p style="text-align: justify;">
+If we require to modify the user's access. We can do that by going to the second section and click i.e Apps and edit the list of apps and actions
+</p>
 
-After entering the details, clicking on save button will edit a User for us.
+<p style="text-align: justify;">
+After changing the details and clicking on the save button, the user details and access will be modified.
+</p>
 
 ## Deleting a User
 
@@ -40,7 +50,7 @@ Clicking on delete user button will open up a confirm modal.
 
 {{< img-simple src="role-manager-delete-user-modal.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-If we click on yes then the specific user will be deleted.
+If we click on <b>Yes</b>, the specific user will be deleted.
 
 ## Viewing a User
 
@@ -50,5 +60,7 @@ Clicking on view user button will open up a view modal.
 
 {{< img-simple src="role-manager-view-user-modal.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-View modal contains the user information such as Name, Email, Phone no., User groups, Role, Assets
+<p style="text-align: justify;">
+The view modal contains user information such as Name, Email, Phone no., User groups, Role, Assets
+</p>
 
