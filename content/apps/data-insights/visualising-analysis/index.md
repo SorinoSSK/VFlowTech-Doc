@@ -13,9 +13,10 @@ toc: true
 ---
 
 ## Overview
-
-Once user has laid the basis fundamental by creating Analysis Table, the next task user needs to do is create visualizations.
-Creating visualizations is the way of organising findings, in such a way that it is presented in the most effective format so that interpretation of data about what these data is telling will be easy and simple.
+<p style="text-align: justify;">
+Once user has laid the basis fundamental by creating an Analysis Table, the next task a user could do is to create visualizations.
+Creating visualizations is a method, to organise findings in a way that it is presented in the most effective format. 
+</p>
 
 ### Create Visualization
 
@@ -23,7 +24,9 @@ To Create Visualization, click on the Add Visualization button:
 
 {{< img-simple src="add-visualization.png" alt="Add Visulization" class="border-0 rounded-circle" >}}
 
+<p style="text-align: justify;">
 Upon clicking on Add Visulization button, Create Visualization page will open like this:
+</p>
 
 {{< img-simple src="create-visualization-page.png" alt="Create Visulization" class="border-0 rounded-circle" >}}
 
@@ -43,7 +46,7 @@ There are multiple types of visualizations which we support:
 
 #### Pivot Table
 
-User needs to click on below icon to config pivot table visualizations:
+User could click on the icon shown below to configure pivot table visualizations:
 {{< img-simple src="pivot-icon.png" alt="Pivot Table Icon" class="border-0 rounded-circle" >}}
 
 Pivot Table has following configurations:
@@ -55,21 +58,27 @@ Pivot Table has following configurations:
 
 {{< img-simple src="pivot-tables.png" alt="Pivot Table" class="border-0 rounded-circle" >}}
 
-User can drag and drop elements from left side Analysis Table columns and upon clicking Build button, pivot table visulization will appear on the right most section
+<p style="text-align: justify;">
+User are able drag and drop elements from left side of the Analysis Table and build upon clicking Build button, pivot table visulization will appear on the right most section.
+</p>
 
 {{< img-simple src="pivot-tables-data.png" alt="Pivot Table Data" class="border-0 rounded-circle" >}}
 
-Also, user can apply filters, by dragging and droping columns in the filter section
+<p style="text-align: justify;">
+Also, user could filter data, by dragging and droping columns in the filter section.
+</p>
 
 {{< img-simple src="pivot-with-filters.png" alt="Pivot Table Data" class="border-0 rounded-circle" >}}
 
-If user needs to add new visualizations, they need to click on + button, like
+<p style="text-align: justify;">
+If user require to add new visualizations, they could click on "+" button as shown below.
+</p>
 
 {{< img-simple src="new-visualization.png" alt="Add new Visual Button" class="border-0 rounded-circle" >}}
 
 #### Line Chart
 
-User needs to click on below icon to add line chart visualizations:
+User could click on the icon shown below to add a line chart visualizations:
 
 {{< img-simple src="line-icon.png" alt="Line Icon" class="border-0 rounded-circle" >}}
 
@@ -80,13 +89,17 @@ Line Chart has following configurations:
 3. X Axes
 4. Y Axes
 
-User can drag and drop elements from left side Analysis Table columns and upon clicking Build button, line chart visulization will appear on the right most section
+<p style="text-align: justify;">
+User could drag and drop elements from left side Analysis Table columns and upon clicking build button, line chart visulization will appear on the right most section.
+</p>
 
 {{< img-simple src="lines-chart.png" alt="Line Chart" class="border-0 rounded-circle" >}}
 
 #### Area Chart
 
+<p style="text-align: justify;">
 User needs to click on below icon to add area chart visualizations:
+</p>
 
 {{< img-simple src="area-icon.png" alt="Area Icon" class="border-0 rounded-circle" >}}
 
@@ -97,13 +110,17 @@ Area Chart has following configurations:
 3. X Axes
 4. Y Axes
 
-User can drag and drop elements from left side Analysis Table columns and upon clicking Build button, area chart visulization will appear on the right most section
+<p style="text-align: justify;">
+User can drag and drop elements from left side Analysis Table columns and upon clicking Build button, area chart visulization will appear on the right most section.
+</p>
 
 {{< img-simple src="area-chart.png" alt="Area Chart" class="border-0 rounded-circle" >}}
 
 #### Column Chart
 
-User needs to click on below icon to add column chart visualizations:
+<p style="text-align: justify;">
+User could click on the icon shown below to add a column chart visualizations:
+</p>
 
 {{< img-simple src="column-icon.png" alt="Column Icon" class="border-0 rounded-circle" >}}
 
@@ -114,13 +131,17 @@ Column Chart has following configurations:
 3. X Axes
 4. Y Axes
 
-User can drag and drop elements from left side Analysis Table and upon clicking Build button, column chart visulization will appear on the right most section
+<p style="text-align: justify;">
+User could drag and drop elements from left side Analysis Table and upon clicking on the Build button, column chart visulization will appear on the right most section.
+</p>
 
 {{< img-simple src="column-chart.png" alt="Column Chart" class="border-0 rounded-circle" >}}
 
 #### Heat Map
 
-User needs to click on below icon to add heat map visualizations:
+<p style="text-align: justify;">
+User could click on the icon shown below to add a heat map visualizations:
+</p>
 
 {{< img-simple src="heat-map-icon.png" alt="Heat Map Icon" class="border-0 rounded-circle" >}}
 
@@ -131,6 +152,8 @@ Heat Map has following configurations:
 3. X Axes
 4. Y Axes
 
-User can drag and drop elements from left side Analysis Table and upon clicking Build button, heat map visulization will appear on the right most section
+<p style="text-align: justify;">
+User can drag and drop elements from left side Analysis Table and upon clicking Build button, heat map visulization will appear on the right most section.
+</p>
 
 {{< img-simple src="heat-map.png" alt="Heat Map" class="border-0 rounded-circle" >}}
