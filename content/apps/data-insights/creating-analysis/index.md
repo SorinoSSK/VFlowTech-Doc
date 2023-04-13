@@ -76,5 +76,5 @@ After user has dragged and dropped the entities, they need to click on the Build
 {{< img-simple src="table-data.png" alt="Analysis Table With Data" class="border-0 rounded-circle" >}}
 
 <p style="text-align: justify;">
-Thus the analysis table will be populated with data. There is one more thing user can do, they can add more columns or reduce columns, but they have to again click on the Build button after making such changes.
+With this method, the analysis table will be populated with data. There is one more task in which the user can do, they can add more columns or reduce columns, but they have to again click on the build button after making such changes.
 </p>

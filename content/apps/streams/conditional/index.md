@@ -11,23 +11,28 @@ weight: 1012
 images: []
 ---
 
-Conditional node can be used to divert the pipeline execution by writing conditional logic (`Javascript code`).
+<p style="text-align: justify;">
+Conditional node can be used to divert a pipeline execution by using conditional logic ( <b>Javascript code</b> ).
+</p>
 
-In this node we can write javascript code and compare the event values to do logical comparison.
-We need to write a Javascipt function named `condition` with the logic for code field of the node.
-This node has 2 output port for `true` and `false` conditions.
+<p style="text-align: justify;">
+We can write javascript code in this node and compare event values to perform logical comparison. For the comparison to occur, we will need to write a Javascipt function with <b>condition</b> as the name together with the logic in the code field of the node. This node will have 2 output port for <b>true</b> and <b>false</b> conditions.
+</p>
 
 ### Action Fields
 
 #### Name
-Name field can be used to give custom name to the node.
+Name field can be used to give a custom name to the node.
 
 #### Code
-In this field we write function named `condition` which should return a boolean value.
-Condition function will receive the payload as function parameter which can be done to use logical operations.
+<p style="text-align: justify;">
+We can write a function named `condition` in this field and we should receive a boolean value after it is executed.
+The condition function will receive the <b>payload</b> as function parameters which can be used to perform logical operations.
+</p>
 
-Following is how the condition function can be implemented:
-Here we are comparing the temperature from payload.
+<p style="text-align: justify;">
+The following example shows the implementation of a condition function. The example compares temperature using payload.
+</p>
 
 ```javascript
 function condition(payload) {

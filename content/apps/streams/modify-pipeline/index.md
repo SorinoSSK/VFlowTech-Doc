@@ -11,17 +11,28 @@ weight: 1009
 images: []
 ---
 
-When a new project is created, it has default pipeline in it as shown below.
+<p style="text-align: justify;">
+When a new project is created, it should have a pipeline created by default as shown below.
+</p>
 
 {{< img-simple src="streams-default-pip.png" alt="Role Manager app" class="border-0 rounded-circle" >}}
 
-As we can see in the above image that we have 2 nodes (ie. init and save) connected to each other.
-We will get into more details about how each action works, in above pipeline the event that comes will save saved to DB after doing parameter mapping.
+<p style="text-align: justify;">
+As we can see from the above image, we have 2 nodes <b>init</b> and <b>save</b> created and are  connected to each other.
+</p>
 
-Left side of the workarea show the list of nodes that can used to create pipelines.
-On the right hand side panel we show the selected node fields which can be editied by user. 
+<p style="text-align: justify;">
+We will get into more details on how each action works. In the pipeline shown above, events received will be saved to the database after some parameter mapping are completed.
+</p>
 
+<p style="text-align: justify;">
+The left side of the page display a list of nodes that can used to create a pipeline.
+</p>
 
-Following is a small demo of how pipeline can be created.
+<p style="text-align: justify;">
+On the right hand side of the page, we see and modify information of the selected node fields. 
+</p>
+
+The following video image is a demo of how a pipeline can be created.
 
 {{< img-simple src="modify-pipeline.gif" alt="Role Manager app" class="border-0 rounded-circle" >}}

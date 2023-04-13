@@ -11,7 +11,9 @@ weight: 1010
 images: []
 ---
 
-Init node acts as starting point of pipeline creation. When a pipeline is executed, init node is the action where the event is first sent and then
-it traverse further down the pipeline.
-
-It is mandatory to have init node in the pipeline and it cannot be deleted.
+<p style="text-align: justify;">
+Init node acts as starting point of the pipeline creation. When a pipeline is executed, events triggered will start off at the init node.
+</p>
+<p style="text-align: justify;">
+It is mandatory to have an init node in the pipeline and it cannot be deleted.
+</p>

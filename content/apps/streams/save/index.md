@@ -11,9 +11,13 @@ weight: 1011
 images: []
 ---
 
-Save node can be used to save the event to DB. Before the the event data is saved to DB parameter mapping is done.
+<p style="text-align: justify;">
+Save node can be used to save an event to a database. Parameter mapping should be done before it is saved to the database.
+</p>
 
 ### Action Fields
 
 #### Name
-Name field can be used to give custom name to the node.
+<p style="text-align: justify;">
+The name field can be used to give a custom name to the node.
+</p>
