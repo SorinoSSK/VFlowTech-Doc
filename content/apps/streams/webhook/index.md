@@ -11,18 +11,24 @@ weight: 1014
 images: []
 ---
 
-Webhook node can be used to call external Rest API and the response can be appended in the payload.
+<p style="text-align: justify;">
+Webhook node is used to call external Rest API and the response can be appended in the payload.
+</p>
 
 ### Action Fields
 
 #### Name
-Name field can be used to give custom name to the node.
+<p style="text-align: justify;">
+Name field can be used to give a custom name to the node.
+</p>
 
 #### URL
+<p style="text-align: justify;">
 The API URL that needs to be called.
+</p>
 
 #### HTTP Method
-Select the HTTP method of the API from the dropdown.
+Select the HTTP method of the API from the drop down menu.
 Available options are:
 - PUT
 - POST
@@ -33,8 +39,9 @@ Available options are:
 Add headers as JSON object in the header input field.
 
 #### Body
-If you want to pass body in the API call, add it as stringfied JSON in this field,
-it will be sent as body when calling the API.
+<p style="text-align: justify;">
+If you require to pass a body in the API call, you can add it as stringfied JSON in this field. The stringfied JSON will be sent as body when the API is called.
+</p>
 
 #### Destination
 Destination is the path in the payload where the API response should be appended.
